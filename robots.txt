@@ -2,6 +2,7 @@ User-agent: *
 Allow: /
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Disallow: /api/*
 =======
 <<<<<<< HEAD
@@ -11,3 +12,7 @@ Disallow: /api/*
 Sitemap: https://xszn.org/sitemap-index.xml
 >>>>>>> 713dd70 (Add new content)
 >>>>>>> eacc777 (Initial commit with local changes)
+=======
+Disallow: /api/*
+Sitemap: https://xszn.org/sitemap-index.xml
+>>>>>>> c03bfeb (2025年1月4日)
