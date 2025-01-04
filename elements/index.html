@@ -1,0 +1,182 @@
+<!DOCTYPE html><html lang="en"> <head><!-- favicon --><link rel="shortcut icon" href="/images/favicon.ico"><!-- theme meta --><meta name="theme-name" content="bookworm-light-astro"><meta name="msapplication-TileColor" content="#000000"><meta name="theme-color" media="(prefers-color-scheme: light)" content="#fff"><meta name="theme-color" media="(prefers-color-scheme: dark)" content="#000"><meta name="generator" content="Astro v4.16.18"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- google font css --><style>@font-face {unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;font-weight: 400;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2)} @font-face {unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;font-weight: 400;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2)} @font-face {unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;font-weight: 400;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2)} @font-face {unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;font-weight: 400;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2)} @font-face {unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;font-weight: 400;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2)} @font-face {unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;font-weight: 600;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2)} @font-face {unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;font-weight: 600;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2)} @font-face {unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;font-weight: 600;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2)} @font-face {unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;font-weight: 600;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2)} @font-face {unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;font-weight: 600;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2)} @font-face {unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;font-weight: 700;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0gotYKNnBcif.woff2)} @font-face {unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;font-weight: 700;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk2wotYKNnBcif.woff2)} @font-face {unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;font-weight: 700;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0AotYKNnBcif.woff2)} @font-face {unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;font-weight: 700;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk0QotYKNnBcif.woff2)} @font-face {unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;font-weight: 700;font-style: normal;font-family: Mulish;font-display: swap;src: url(https://fonts.gstatic.com/s/mulish/v13/1Ptvg83HX_SGhgqk3wotYKNnBQ.woff2)} :root{ --font-primary: Mulish, '_font_fallback_632026586592', sans-serif; } @font-face { font-family: '_font_fallback_632026586592'; size-adjust: 101.71%; src: local('Arial'); ascent-override: 98.81%; descent-override: 24.58%; line-gap-override: 0.00%; } :root{ --font-secondary: undefined, '_font_fallback_469601800247', sans-serif; }</style><!-- responsive meta --><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><!-- title --><title>
+      Elements
+
+    </title><!-- canonical url --><!-- noindex robots --><!-- meta-description --><meta name="description" content="this is meta description
+"><meta name="astro-view-transitions-enabled" content="true"><meta name="astro-view-transitions-fallback" content="animate"><!-- author from config.json --><meta name="author" content="行书指南"><!-- og-title --><meta property="og:title" content="Elements
+"><!-- og-description --><meta property="og:description" content="this is meta description
+"><meta property="og:type" content="website"><meta property="og:url" content="https://xszn.org/elements"><!-- twitter-title --><meta name="twitter:title" content="Elements
+"><!-- twitter-description --><meta name="twitter:description" content="this is meta description
+"><!-- og-image --><meta property="og:image" content="https://xszn.org/images/og-image.webp"><!-- twitter-image --><meta name="twitter:image" content="https://xszn.org/images/og-image.webp"><meta name="twitter:card" content="summary_large_image"><link rel="stylesheet" href="/_astro/_regular_.CFtvWhVa.css"><script type="module" src="/_astro/hoisted.BScVxmeO.js"></script></head> <body>  <header class="header pt-6"> <nav class="navbar container"> <!-- logo --> <div class="order-0"> <a href="/" class="navbar-brand block" data-astro-cid-ijoll5s5> <img src="/images/logo.webp" alt="行书指南 | 软件使用教程分享" style="height:48px;width:48px" data-astro-cid-ijoll5s5 width="96" height="96" loading="lazy" decoding="async"> <h1 class="zhi-mang-xing-regular" data-astro-cid-ijoll5s5>行书指南</h1> </a>  </div> <!-- navbar toggler --> <input id="nav-toggle" type="checkbox" class="hidden"> <label id="show-button" for="nav-toggle" class="order-2 flex cursor-pointer items-center text-black md:order-1 md:hidden"> <svg class="h-6 fill-current" viewBox="0 0 20 20"> <title>Menu Open</title> <path d="M0 3h20v2H0V3z m0 6h20v2H0V9z m0 6h20v2H0V0z"></path> </svg> </label> <label id="hide-button" for="nav-toggle" class="order-2 hidden cursor-pointer items-center text-black md:order-1"> <svg class="h-6 fill-current" viewBox="0 0 20 20"> <title>Menu Close</title> <polygon points="11 9 22 9 22 11 11 11 11 22 9 22 9 11 -2 11 -2 9 9 9 9 -2 11 -2" transform="rotate(45 10 10)"></polygon> </svg> </label> <!-- /navbar toggler --> <ul id="nav-menu" class="navbar-nav order-3 hidden w-full md:order-1 md:flex md:w-auto"> <li class="nav-item"> <a href="/" class="nav-link block"> 首页 </a> </li><li class="nav-item"> <a href="/categories" class="nav-link block"> 分类 </a> </li><li class="nav-item"> <a href="/tags" class="nav-link block"> 标签 </a> </li> </ul> <div class="order-1 ml-auto flex md:order-2 md:ml-0"> <a class="mr-4 inline-block cursor-pointer p-2 text-xl text-dark transition hover:text-primary md:mr-0" href="/search" title="seach" aria-label="seach"> <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 512 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M456.69 421.39 362.6 327.3a173.81 173.81 0 0 0 34.84-104.58C397.44 126.38 319.06 48 222.72 48S48 126.38 48 222.72s78.38 174.72 174.72 174.72A173.81 173.81 0 0 0 327.3 362.6l94.09 94.09a25 25 0 0 0 35.3-35.3zM97.92 222.72a124.8 124.8 0 1 1 124.8 124.8 124.95 124.95 0 0 1-124.8-124.8z"></path></svg> </a> </div> </nav> </header> <main id="main-content" class="min-h-[60vh]"> <section class="section"> <div class="container"> <h1 class="h2 page-heading">Elements</h1> <div class="content"> <h1 id="heading-1">Heading 1</h1>
+<h2 id="heading-2">Heading 2</h2>
+<h3 id="heading-3">Heading 3</h3>
+<h4 id="heading-4">Heading 4</h4>
+<h5 id="heading-5">Heading 5</h5>
+<h6 id="heading-6">Heading 6</h6>
+<hr/>
+<h3 id="paragraph">Paragraph</h3>
+<p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.</p>
+<p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf. Could someone survive inside a transporter buffer for 75 years? Fate. It protects fools, little children, and ships.</p>
+<hr/>
+<h3 id="emphasis">Emphasis</h3>
+<ol>
+<li>
+<p>Did you come here for something in <strong>particular</strong> or just general</p>
+</li>
+<li>
+<p>Did you come here for something in <ins>particular</ins></p>
+</li>
+<li>
+<p><em>Did you come here</em></p>
+</li>
+<li>
+<p>Did you come here for <strong>something</strong> in particular</p>
+</li>
+<li>
+<p>Did you come here for something in particular</p>
+</li>
+<li>
+<p>Did you come here for something in particular</p>
+</li>
+<li>
+<p>URLs and URLs in angle brackets will automatically get turned into links. <a href="http://www.example.com">http://www.example.com</a> or</p>
+</li>
+<li>
+<p><a href="http://www.example.com">http://www.example.com</a> and sometimes example.com (but not on Github, for example).</p>
+</li>
+</ol>
+<hr/>
+<h3 id="link">Link</h3>
+<p><a href="https://www.google.com">I’m an inline-style link</a></p>
+<p><a href="https://www.google.com" title="Google's Homepage">I’m an inline-style link with title</a></p>
+<p><a href="https://www.themefisher.com">I’m a reference-style link</a></p>
+<p><a href="../blob/master/LICENSE">I’m a relative reference to a repository file</a></p>
+<p><a href="https://gethugothemes.com">You can use numbers for reference-style link definitions</a></p>
+<p>Or leave it empty and use the <a href="https://www.getjekyllthemes.com">link text itself</a>.</p>
+<p>example.com (but not on Github, for example).</p>
+<p>Some text to show that the reference links can follow later.</p>
+<hr/>
+<h3 id="ordered-list">Ordered List</h3>
+<ol>
+<li>List item</li>
+<li>List item</li>
+<li>List item</li>
+<li>List item</li>
+<li>List item</li>
+</ol>
+<hr/>
+<h3 id="unordered-list">Unordered List</h3>
+<ul>
+<li>List item</li>
+<li>List item</li>
+<li>List item</li>
+<li>List item</li>
+<li>List item</li>
+</ul>
+<hr/>
+<h3 id="code-and-syntax-highlighting">Code and Syntax Highlighting</h3>
+<h4 id="html">HTML</h4>
+<pre class="astro-code one-dark-pro" style="background-color:#282c34;color:#abb2bf;overflow-x:auto;white-space:pre-wrap;word-wrap:break-word" tabindex="0" data-language="html"><code><span class="line"><span style="color:#ABB2BF">&lt;</span><span style="color:#E06C75">ul</span><span style="color:#ABB2BF">&gt;</span></span>
+<span class="line"><span style="color:#ABB2BF">  &lt;</span><span style="color:#E06C75">li</span><span style="color:#D19A66"> class</span><span style="color:#ABB2BF">=</span><span style="color:#98C379">&quot;nav-item&quot;</span><span style="color:#ABB2BF">&gt;</span></span>
+<span class="line"><span style="color:#ABB2BF">    &lt;</span><span style="color:#E06C75">a</span><span style="color:#D19A66"> class</span><span style="color:#ABB2BF">=</span><span style="color:#98C379">&quot;nav-link&quot;</span><span style="color:#D19A66"> href</span><span style="color:#ABB2BF">=</span><span style="color:#98C379">&quot;/&quot;</span><span style="color:#ABB2BF">&gt;Home&lt;/</span><span style="color:#E06C75">a</span><span style="color:#ABB2BF">&gt;</span></span>
+<span class="line"><span style="color:#ABB2BF">  &lt;/</span><span style="color:#E06C75">li</span><span style="color:#ABB2BF">&gt;</span></span>
+<span class="line"><span style="color:#ABB2BF">  &lt;</span><span style="color:#E06C75">li</span><span style="color:#D19A66"> class</span><span style="color:#ABB2BF">=</span><span style="color:#98C379">&quot;nav-item&quot;</span><span style="color:#ABB2BF">&gt;</span></span>
+<span class="line"><span style="color:#ABB2BF">    &lt;</span><span style="color:#E06C75">a</span><span style="color:#D19A66"> class</span><span style="color:#ABB2BF">=</span><span style="color:#98C379">&quot;nav-link&quot;</span><span style="color:#D19A66"> href</span><span style="color:#ABB2BF">=</span><span style="color:#98C379">&quot;about/&quot;</span><span style="color:#ABB2BF">&gt;About&lt;/</span><span style="color:#E06C75">a</span><span style="color:#ABB2BF">&gt;</span></span>
+<span class="line"><span style="color:#ABB2BF">  &lt;/</span><span style="color:#E06C75">li</span><span style="color:#ABB2BF">&gt;</span></span>
+<span class="line"><span style="color:#ABB2BF">&lt;/</span><span style="color:#E06C75">ul</span><span style="color:#ABB2BF">&gt;</span></span>
+<span class="line"></span></code></pre>
+<hr/>
+<h4 id="css">CSS</h4>
+<pre class="astro-code one-dark-pro" style="background-color:#282c34;color:#abb2bf;overflow-x:auto;white-space:pre-wrap;word-wrap:break-word" tabindex="0" data-language="css"><code><span class="line"><span style="color:#E06C75">img</span><span style="color:#ABB2BF"> {</span></span>
+<span class="line"><span style="color:#ABB2BF">  vertical-align: </span><span style="color:#D19A66">middle</span><span style="color:#ABB2BF">;</span></span>
+<span class="line"><span style="color:#ABB2BF">  border: </span><span style="color:#D19A66">0</span><span style="color:#ABB2BF">;</span></span>
+<span class="line"><span style="color:#ABB2BF">  max-width: </span><span style="color:#D19A66">100</span><span style="color:#E06C75">%</span><span style="color:#ABB2BF">;</span></span>
+<span class="line"><span style="color:#ABB2BF">  height: </span><span style="color:#D19A66">auto</span><span style="color:#ABB2BF">;</span></span>
+<span class="line"><span style="color:#ABB2BF">}</span></span>
+<span class="line"></span></code></pre>
+<hr/>
+<h4 id="javascript">JavaScript</h4>
+<pre class="astro-code one-dark-pro" style="background-color:#282c34;color:#abb2bf;overflow-x:auto;white-space:pre-wrap;word-wrap:break-word" tabindex="0" data-language="javascript"><code><span class="line"><span style="color:#E5C07B">window</span><span style="color:#ABB2BF">.</span><span style="color:#61AFEF">addEventListener</span><span style="color:#ABB2BF">(</span><span style="color:#98C379">&quot;load&quot;</span><span style="color:#ABB2BF">, (</span><span style="color:#E06C75;font-style:italic">e</span><span style="color:#ABB2BF">) </span><span style="color:#C678DD">=&gt;</span><span style="color:#ABB2BF"> {</span></span>
+<span class="line"><span style="color:#E5C07B">  document</span><span style="color:#ABB2BF">.</span><span style="color:#61AFEF">querySelector</span><span style="color:#ABB2BF">(</span><span style="color:#98C379">&quot;.preloader&quot;</span><span style="color:#ABB2BF">).</span><span style="color:#E5C07B">style</span><span style="color:#ABB2BF">.</span><span style="color:#E06C75">display</span><span style="color:#56B6C2"> =</span><span style="color:#98C379"> &quot;none&quot;</span><span style="color:#ABB2BF">;</span></span>
+<span class="line"><span style="color:#ABB2BF">});</span></span>
+<span class="line"></span></code></pre>
+<hr/>
+<h3 id="button">Button</h3>
+<a href="#" target="_blank" rel="noopener noreferrer nofollow" class="btn mb-4 me-4 hover:text-white no-underline btn-primary">Button</a>
+<hr/>
+<h3 id="quote">Quote</h3>
+<blockquote>
+<p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once.</p>
+</blockquote>
+<hr/>
+<h3 id="notice">Notice</h3>
+<div class="notice note"><div class="notice-head"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10 9V14M10 19C5.02944 19 1 14.9706 1 10C1 5.02944 5.02944 1 10 1C14.9706 1 19 5.02944 19 10C19 14.9706 14.9706 19 10 19ZM10.0498 6V6.1L9.9502 6.1002V6H10.0498Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg><p class="my-0 ml-1.5">Note</p></div><div class="notice-body">This is a simple note.</div></div>
+<div class="notice tip"><div class="notice-head"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 0C18.6274 0 24 5.37258 24 12C24 18.6274 18.6274 24 12 24C5.37258 24 0 18.6274 0 12C0 5.37258 5.37258 0 12 0ZM12 2.4C6.69807 2.4 2.4 6.69807 2.4 12C2.4 17.3019 6.69807 21.6 12 21.6C17.3019 21.6 21.6 17.3019 21.6 12C21.6 6.69807 17.3019 2.4 12 2.4ZM15.9515 7.55147L9.6 13.9029L8.04853 12.3515C7.5799 11.8828 6.8201 11.8828 6.35147 12.3515C5.88284 12.8201 5.88284 13.5799 6.35147 14.0485L8.75147 16.4485C9.2201 16.9172 9.9799 16.9172 10.4485 16.4485L17.6485 9.24853C18.1172 8.7799 18.1172 8.0201 17.6485 7.55147C17.1799 7.08284 16.4201 7.08284 15.9515 7.55147Z" fill="currentColor"></path></svg><p class="my-0 ml-1.5">Tip</p></div><div class="notice-body">This is a simple note.</div></div>
+<div class="notice info"><div class="notice-head"><svg width="20" height="20" viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.16109 0.993016C9.97971 1.03952 10.6611 1.42989 11.0721 2.22339L17.7981 15.8014C18.4502 17.1739 17.4403 19.0208 15.7832 19.0474H2.23859C0.730337 19.0234 -0.507163 17.3108 0.231587 15.7864L7.08321 2.20877C7.21146 1.96502 7.26996 1.89452 7.38059 1.76664C7.82534 1.25102 8.31171 0.975016 9.16109 0.993016ZM9.05046 2.49189C8.79284 2.50464 8.55696 2.64902 8.42834 2.87327C6.06134 7.36539 3.77946 11.9036 1.56546 16.4734C1.36071 16.9328 1.71209 17.5223 2.22621 17.547C6.74871 17.6201 11.2731 17.6201 15.7956 17.547C16.2925 17.523 16.666 16.953 16.459 16.4783C14.2866 11.9093 12.0471 7.37102 9.72171 2.87814C9.58446 2.63402 9.38309 2.48739 9.05046 2.49189Z" fill="currentColor"></path><path d="M9.61323 13.2153H8.35773L8.21973 7.04688H9.75723L9.61323 13.2153ZM8.17773 15.1015C8.17773 14.8731 8.25161 14.6841 8.39973 14.5338C8.54823 14.3838 8.75036 14.3084 9.00648 14.3084C9.26298 14.3084 9.46511 14.3838 9.61323 14.5338C9.76136 14.6841 9.83561 14.8731 9.83561 15.1015C9.83561 15.3216 9.76323 15.5057 9.61923 15.6539C9.47486 15.802 9.27086 15.8762 9.00648 15.8762C8.74211 15.8762 8.53811 15.802 8.39373 15.6539C8.24973 15.5057 8.17773 15.3216 8.17773 15.1015Z" fill="currentColor"></path></svg><p class="my-0 ml-1.5">Info</p></div><div class="notice-body">This is a simple note.</div></div>
+<div class="notice warning"><div class="notice-head"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M10 0C15.522 0 20 4.478 20 10C20 15.522 15.522 20 10 20C4.478 20 0 15.522 0 10C0 4.478 4.478 0 10 0ZM10 2C5.589 2 2 5.589 2 10C2 14.411 5.589 18 10 18C14.411 18 18 14.411 18 10C18 5.589 14.411 2 10 2ZM12.293 6.293L13.707 7.707L11.414 10L13.707 12.293L12.293 13.707L10 11.414L7.707 13.707L6.293 12.293L8.586 10L6.293 7.707L7.707 6.293L10 8.586L12.293 6.293Z" fill="currentColor"></path></svg><p class="my-0 ml-1.5">Warning</p></div><div class="notice-body">This is a simple note.</div></div>
+<hr/>
+<h3 id="tab">Tab</h3>
+<astro-island uid="qfioe" prefix="r14" component-url="/_astro/Tabs.VROt0hRv.js" component-export="default" renderer-url="/_astro/client.BqKwZ90U.js" props="{}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Tabs&quot;,&quot;value&quot;:true}" await-children=""><div class="tab"><ul class="tab-nav"><li class="tab-nav-item active" role="tab" tabindex="0">Tab 1</li><li class="tab-nav-item false" role="tab" tabindex="-1">Tab 2</li><li class="tab-nav-item false" role="tab" tabindex="-1">Tab 3</li></ul><div class="tab-content block px-5"><div data-name="Tab 1"><h4 id="did-you-come-here-for-something-in-particular">Did you come here for something in particular?</h4><p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.</p></div></div><div class="hidden"><div data-name="Tab 2"><h4 id="i-wanna-talk-about-the-assassination-attempt">I wanna talk about the assassination attempt</h4><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></div></div><div class="hidden"><div data-name="Tab 3"><h4 id="we-know-youre-dealing-in-stolen-ore">We know you’re dealing in stolen ore</h4><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo</p></div></div></div><template data-astro-template><div data-name="Tab 1"><h4 id="did-you-come-here-for-something-in-particular">Did you come here for something in particular?</h4><p>Did you come here for something in particular or just general Riker-bashing? And blowing into maximum warp speed, you appeared for an instant to be in two places at once. We have a saboteur aboard. We know you’re dealing in stolen ore. But I wanna talk about the assassination attempt on Lieutenant Worf.</p></div><div data-name="Tab 2"><h4 id="i-wanna-talk-about-the-assassination-attempt">I wanna talk about the assassination attempt</h4><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p></div><div data-name="Tab 3"><h4 id="we-know-youre-dealing-in-stolen-ore">We know you’re dealing in stolen ore</h4><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo</p></div></template><!--astro:end--></astro-island>
+<hr/>
+<h3 id="table">Table</h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th style="text-align:left">#</th><th style="text-align:center">First</th><th style="text-align:center">Last</th><th style="text-align:right">Handle</th></tr></thead><tbody><tr><td style="text-align:left">1</td><td style="text-align:center">Row:1 Cell:1</td><td style="text-align:center">Row:1 Cell:2</td><td style="text-align:right">Row:1 Cell:3</td></tr><tr><td style="text-align:left">2</td><td style="text-align:center">Row:2 Cell:1</td><td style="text-align:center">Row:2 Cell:2</td><td style="text-align:right">Row:2 Cell:3</td></tr><tr><td style="text-align:left">3</td><td style="text-align:center">Row:3 Cell:1</td><td style="text-align:center">Row:3 Cell:2</td><td style="text-align:right">Row:3 Cell:3</td></tr></tbody></table>
+<hr/>
+<h3 id="accordion">Accordion</h3>
+<astro-island uid="ISfOK" prefix="r11" component-url="/_astro/Accordion.BVGg7SSE.js" component-export="default" renderer-url="/_astro/client.BqKwZ90U.js" props="{&quot;title&quot;:[0,&quot;Why should you need to do this?&quot;]}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Accordion&quot;,&quot;value&quot;:true}" await-children=""><div class="accordion false undefined"><button class="accordion-header">Why should you need to do this?<svg class="accordion-icon" x="0px" y="0px" viewBox="0 0 512 512" xml:space="preserve"><path fill="currentColor" d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path></svg></button><div class="accordion-content"><astro-slot><ul>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+</ul></astro-slot></div></div><!--astro:end--></astro-island>
+<astro-island uid="p4SXD" prefix="r12" component-url="/_astro/Accordion.BVGg7SSE.js" component-export="default" renderer-url="/_astro/client.BqKwZ90U.js" props="{&quot;title&quot;:[0,&quot;How can I adjust Horizontal centering&quot;]}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Accordion&quot;,&quot;value&quot;:true}" await-children=""><div class="accordion false undefined"><button class="accordion-header">How can I adjust Horizontal centering<svg class="accordion-icon" x="0px" y="0px" viewBox="0 0 512 512" xml:space="preserve"><path fill="currentColor" d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path></svg></button><div class="accordion-content"><astro-slot><ul>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+</ul></astro-slot></div></div><!--astro:end--></astro-island>
+<astro-island uid="ZBVX8W" prefix="r13" component-url="/_astro/Accordion.BVGg7SSE.js" component-export="default" renderer-url="/_astro/client.BqKwZ90U.js" props="{&quot;title&quot;:[0,&quot;Should you use Negative margin?&quot;]}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Accordion&quot;,&quot;value&quot;:true}" await-children=""><div class="accordion false undefined"><button class="accordion-header">Should you use Negative margin?<svg class="accordion-icon" x="0px" y="0px" viewBox="0 0 512 512" xml:space="preserve"><path fill="currentColor" d="M505.755,123.592c-8.341-8.341-21.824-8.341-30.165,0L256.005,343.176L36.421,123.592c-8.341-8.341-21.824-8.341-30.165,0 s-8.341,21.824,0,30.165l234.667,234.667c4.16,4.16,9.621,6.251,15.083,6.251c5.462,0,10.923-2.091,15.083-6.251l234.667-234.667 C514.096,145.416,514.096,131.933,505.755,123.592z"></path></svg></button><div class="accordion-content"><astro-slot><ul>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+<li>This is a thing.</li>
+</ul></astro-slot></div></div><!--astro:end--></astro-island>
+<hr/>
+<h3 id="image">Image</h3>
+<p><img src="/images/image-placeholder.webp" alt="image"/></p>
+<hr/>
+<h3 id="youtube-video">Youtube video</h3>
+<style>astro-island,astro-slot,astro-static-slot{display:contents}</style><script>(()=>{var e=async t=>{await(await t())()};(self.Astro||(self.Astro={})).load=e;window.dispatchEvent(new Event("astro:load"));})();;(()=>{var A=Object.defineProperty;var g=(i,o,a)=>o in i?A(i,o,{enumerable:!0,configurable:!0,writable:!0,value:a}):i[o]=a;var d=(i,o,a)=>g(i,typeof o!="symbol"?o+"":o,a);{let i={0:t=>m(t),1:t=>a(t),2:t=>new RegExp(t),3:t=>new Date(t),4:t=>new Map(a(t)),5:t=>new Set(a(t)),6:t=>BigInt(t),7:t=>new URL(t),8:t=>new Uint8Array(t),9:t=>new Uint16Array(t),10:t=>new Uint32Array(t),11:t=>1/0*t},o=t=>{let[l,e]=t;return l in i?i[l](e):void 0},a=t=>t.map(o),m=t=>typeof t!="object"||t===null?t:Object.fromEntries(Object.entries(t).map(([l,e])=>[l,o(e)]));class y extends HTMLElement{constructor(){super(...arguments);d(this,"Component");d(this,"hydrator");d(this,"hydrate",async()=>{var b;if(!this.hydrator||!this.isConnected)return;let e=(b=this.parentElement)==null?void 0:b.closest("astro-island[ssr]");if(e){e.addEventListener("astro:hydrate",this.hydrate,{once:!0});return}let c=this.querySelectorAll("astro-slot"),n={},h=this.querySelectorAll("template[data-astro-template]");for(let r of h){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("data-astro-template")||"default"]=r.innerHTML,r.remove())}for(let r of c){let s=r.closest(this.tagName);s!=null&&s.isSameNode(this)&&(n[r.getAttribute("name")||"default"]=r.innerHTML)}let p;try{p=this.hasAttribute("props")?m(JSON.parse(this.getAttribute("props"))):{}}catch(r){let s=this.getAttribute("component-url")||"<unknown>",v=this.getAttribute("component-export");throw v&&(s+=` (export ${v})`),console.error(`[hydrate] Error parsing props for component ${s}`,this.getAttribute("props"),r),r}let u;await this.hydrator(this)(this.Component,p,n,{client:this.getAttribute("client")}),this.removeAttribute("ssr"),this.dispatchEvent(new CustomEvent("astro:hydrate"))});d(this,"unmount",()=>{this.isConnected||this.dispatchEvent(new CustomEvent("astro:unmount"))})}disconnectedCallback(){document.removeEventListener("astro:after-swap",this.unmount),document.addEventListener("astro:after-swap",this.unmount,{once:!0})}connectedCallback(){if(!this.hasAttribute("await-children")||document.readyState==="interactive"||document.readyState==="complete")this.childrenConnectedCallback();else{let e=()=>{document.removeEventListener("DOMContentLoaded",e),c.disconnect(),this.childrenConnectedCallback()},c=new MutationObserver(()=>{var n;((n=this.lastChild)==null?void 0:n.nodeType)===Node.COMMENT_NODE&&this.lastChild.nodeValue==="astro:end"&&(this.lastChild.remove(),e())});c.observe(this,{childList:!0}),document.addEventListener("DOMContentLoaded",e)}}async childrenConnectedCallback(){let e=this.getAttribute("before-hydration-url");e&&await import(e),this.start()}async start(){let e=JSON.parse(this.getAttribute("opts")),c=this.getAttribute("client");if(Astro[c]===void 0){window.addEventListener(`astro:${c}`,()=>this.start(),{once:!0});return}try{await Astro[c](async()=>{let n=this.getAttribute("renderer-url"),[h,{default:p}]=await Promise.all([import(this.getAttribute("component-url")),n?import(n):()=>()=>{}]),u=this.getAttribute("component-export")||"default";if(!u.includes("."))this.Component=h[u];else{this.Component=h;for(let f of u.split("."))this.Component=this.Component[f]}return this.hydrator=p,this.hydrate},e,this)}catch(n){console.error(`[astro-island] Error hydrating ${this.getAttribute("component-url")}`,n)}}attributeChangedCallback(){this.hydrate()}}d(y,"observedAttributes",["props"]),customElements.get("astro-island")||customElements.define("astro-island",y)}})();</script><astro-island uid="1RA43B" prefix="r2" component-url="/_astro/Youtube.BGVIZVWN.js" component-export="default" renderer-url="/_astro/client.BqKwZ90U.js" props="{&quot;id&quot;:[0,&quot;ZEe-IFezQok&quot;],&quot;title&quot;:[0,&quot;Youtube Video Test Title&quot;]}" ssr="" client="load" opts="{&quot;name&quot;:&quot;Youtube&quot;,&quot;value&quot;:true}" await-children=""><link rel="preload" href="https://i.ytimg.com/vi/ZEe-IFezQok/hqdefault.jpg" as="image"/><article class="yt-lite rounded-lg " data-title="Youtube Video Test Title" style="background-image:url(https://i.ytimg.com/vi/ZEe-IFezQok/hqdefault.jpg);--aspect-ratio:56.25%"><button type="button" class="lty-playbtn" aria-label="Watch Youtube Video Test Title"></button></article><!--astro:end--></astro-island>
+<hr/>
+<h3 id="custom-video">Custom video</h3>
+<video class="overflow-hidden rounded-lg" width="100%" height="auto" controls=""><source src="https://joy1.videvo.net/videvo_files/video/free/video0467/large_watermarked/_import_61516692993d77.04238324_preview.mp4" type="video/mp4"/></video> </div> </div> </section> </main> <footer class="section bg-theme-dark"> <div class="container text-center">  <ul class="mb-8 space-x-4"> <li class="inline-block"> <a href="/about" class="p-4 text-white/75 hover:text-white transition-all"> 关于我们 </a> </li><li class="inline-block"> <a href="/contact" class="p-4 text-white/75 hover:text-white transition-all"> 联系我们 </a> </li><li class="inline-block"> <a href="/privacy-policy" class="p-4 text-white/75 hover:text-white transition-all"> 隐私权政策 </a> </li> </ul>  <ul class="social-icons mb-8">                                </ul>  <p class="text-white/75">© 2025 行书指南</p> </div> </footer> </body></html>
