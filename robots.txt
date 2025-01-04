@@ -4,6 +4,7 @@ Allow: /
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Disallow: /api/*
 =======
 <<<<<<< HEAD
@@ -21,3 +22,7 @@ Sitemap: https://xszn.org/sitemap-index.xml
 Disallow: /api/*
 Sitemap: https://xszn.org/sitemap-index.xml
 >>>>>>> cea313e (Add new content)
+=======
+Disallow: /api/*
+Sitemap: https://xszn.org/sitemap-index.xml
+>>>>>>> f13399b (Add new content)
