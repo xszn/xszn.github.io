@@ -1,4 +1,13 @@
 User-agent: *
 Allow: /
 
+<<<<<<< HEAD
 Disallow: /api/*
+=======
+<<<<<<< HEAD
+Disallow: /api/*
+=======
+Disallow: /api/*
+Sitemap: https://xszn.org/sitemap-index.xml
+>>>>>>> 713dd70 (Add new content)
+>>>>>>> eacc777 (Initial commit with local changes)
