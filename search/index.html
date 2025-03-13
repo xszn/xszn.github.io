@@ -74,11 +74,11 @@
     }
 
     :root {
-      --font-primary: Noto Sans Mono..900, '_font_fallback_10678350637', sans-serif;
+      --font-primary: Noto Sans Mono..900, '_font_fallback_235744407730', sans-serif;
     }
 
     @font-face {
-      font-family: '_font_fallback_10678350637';
+      font-family: '_font_fallback_235744407730';
       size-adjust: 100.00%;
       src: local('Arial');
       ascent-override: 106.90%;
@@ -87,7 +87,7 @@
     }
 
     :root {
-      --font-secondary: undefined, '_font_fallback_99017473008', sans-serif;
+      --font-secondary: undefined, '_font_fallback_1613709442630', sans-serif;
     }
   </style><!-- responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"><!-- title -->
@@ -95,7 +95,7 @@
     搜索 | 行书指南
 
   </title><!-- canonical url --><!-- noindex robots --><!-- meta-description -->
-  <meta name="description" content="科学上网教程、软件资源网站。最新热门开源软件推荐，浅显易懂的使用教程。在这里发现与掌握前沿技术。
+  <meta name="description" content="科学上网教程及软件资源网站。最新热门开源软件推荐，浅显易懂的使用教程。在这里发现与掌握前沿技术。
 ">
   <meta name="astro-view-transitions-enabled" content="true">
   <meta name="astro-view-transitions-fallback" content="animate">
@@ -104,13 +104,13 @@
   <meta name="author" content="行书指南"><!-- og-title -->
   <meta property="og:title" content="搜索 | 行书指南
 "><!-- og-description -->
-  <meta property="og:description" content="科学上网教程、软件资源网站。最新热门开源软件推荐，浅显易懂的使用教程。在这里发现与掌握前沿技术。
+  <meta property="og:description" content="科学上网教程及软件资源网站。最新热门开源软件推荐，浅显易懂的使用教程。在这里发现与掌握前沿技术。
 ">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://xszn.org//search"><!-- twitter-title -->
   <meta name="twitter:title" content="搜索 | 行书指南
 "><!-- twitter-description -->
-  <meta name="twitter:description" content="科学上网教程、软件资源网站。最新热门开源软件推荐，浅显易懂的使用教程。在这里发现与掌握前沿技术。
+  <meta name="twitter:description" content="科学上网教程及软件资源网站。最新热门开源软件推荐，浅显易懂的使用教程。在这里发现与掌握前沿技术。
 "><!-- og-image -->
   <meta property="og:image" content="https://xszn.org//images/og-image.webp"><!-- twitter-image -->
   <meta name="twitter:image" content="https://xszn.org//images/og-image.webp">
@@ -133,7 +133,7 @@
   <header class="header pt-6">
     <nav class="navbar container"> <!-- logo -->
       <div class="order-0"> <a href="/" class="navbar-brand block" data-astro-cid-ijoll5s5> <img src="/images/logo.webp"
-            alt="行书指南 | 科学上网资源网站" style="height:48px;width:48px" data-astro-cid-ijoll5s5="true" width="96" height="96"
+            alt="行书指南 | 软件资源分享" style="height:48px;width:48px" data-astro-cid-ijoll5s5="true" width="96" height="96"
             loading="lazy" decoding="async">
           <h1 class="zhi-mang-xing-regular" data-astro-cid-ijoll5s5>行书指南</h1>
         </a> </div> <!-- navbar toggler --> <input id="nav-toggle" type="checkbox" class="hidden"> <label
@@ -185,7 +185,7 @@
           }
         </style>
         <script>(() => { var e = async t => { await (await t())() }; (self.Astro || (self.Astro = {})).load = e; window.dispatchEvent(new Event("astro:load")); })();; (() => { var A = Object.defineProperty; var g = (i, o, a) => o in i ? A(i, o, { enumerable: !0, configurable: !0, writable: !0, value: a }) : i[o] = a; var d = (i, o, a) => g(i, typeof o != "symbol" ? o + "" : o, a); { let i = { 0: t => m(t), 1: t => a(t), 2: t => new RegExp(t), 3: t => new Date(t), 4: t => new Map(a(t)), 5: t => new Set(a(t)), 6: t => BigInt(t), 7: t => new URL(t), 8: t => new Uint8Array(t), 9: t => new Uint16Array(t), 10: t => new Uint32Array(t), 11: t => 1 / 0 * t }, o = t => { let [l, e] = t; return l in i ? i[l](e) : void 0 }, a = t => t.map(o), m = t => typeof t != "object" || t === null ? t : Object.fromEntries(Object.entries(t).map(([l, e]) => [l, o(e)])); class y extends HTMLElement { constructor() { super(...arguments); d(this, "Component"); d(this, "hydrator"); d(this, "hydrate", async () => { var b; if (!this.hydrator || !this.isConnected) return; let e = (b = this.parentElement) == null ? void 0 : b.closest("astro-island[ssr]"); if (e) { e.addEventListener("astro:hydrate", this.hydrate, { once: !0 }); return } let c = this.querySelectorAll("astro-slot"), n = {}, h = this.querySelectorAll("template[data-astro-template]"); for (let r of h) { let s = r.closest(this.tagName); s != null && s.isSameNode(this) && (n[r.getAttribute("data-astro-template") || "default"] = r.innerHTML, r.remove()) } for (let r of c) { let s = r.closest(this.tagName); s != null && s.isSameNode(this) && (n[r.getAttribute("name") || "default"] = r.innerHTML) } let p; try { p = this.hasAttribute("props") ? m(JSON.parse(this.getAttribute("props"))) : {} } catch (r) { let s = this.getAttribute("component-url") || "<unknown>", v = this.getAttribute("component-export"); throw v && (s += ` (export ${v})`), console.error(`[hydrate] Error parsing props for component ${s}`, this.getAttribute("props"), r), r } let u; await this.hydrator(this)(this.Component, p, n, { client: this.getAttribute("client") }), this.removeAttribute("ssr"), this.dispatchEvent(new CustomEvent("astro:hydrate")) }); d(this, "unmount", () => { this.isConnected || this.dispatchEvent(new CustomEvent("astro:unmount")) }) } disconnectedCallback() { document.removeEventListener("astro:after-swap", this.unmount), document.addEventListener("astro:after-swap", this.unmount, { once: !0 }) } connectedCallback() { if (!this.hasAttribute("await-children") || document.readyState === "interactive" || document.readyState === "complete") this.childrenConnectedCallback(); else { let e = () => { document.removeEventListener("DOMContentLoaded", e), c.disconnect(), this.childrenConnectedCallback() }, c = new MutationObserver(() => { var n; ((n = this.lastChild) == null ? void 0 : n.nodeType) === Node.COMMENT_NODE && this.lastChild.nodeValue === "astro:end" && (this.lastChild.remove(), e()) }); c.observe(this, { childList: !0 }), document.addEventListener("DOMContentLoaded", e) } } async childrenConnectedCallback() { let e = this.getAttribute("before-hydration-url"); e && await import(e), this.start() } async start() { let e = JSON.parse(this.getAttribute("opts")), c = this.getAttribute("client"); if (Astro[c] === void 0) { window.addEventListener(`astro:${c}`, () => this.start(), { once: !0 }); return } try { await Astro[c](async () => { let n = this.getAttribute("renderer-url"), [h, { default: p }] = await Promise.all([import(this.getAttribute("component-url")), n ? import(n) : () => () => { }]), u = this.getAttribute("component-export") || "default"; if (!u.includes(".")) this.Component = h[u]; else { this.Component = h; for (let f of u.split(".")) this.Component = this.Component[f] } return this.hydrator = p, this.hydrate }, e, this) } catch (n) { console.error(`[astro-island] Error hydrating ${this.getAttribute("component-url")}`, n) } } attributeChangedCallback() { this.hydrate() } } d(y, "observedAttributes", ["props"]), customElements.get("astro-island") || customElements.define("astro-island", y) } })();</script>
-        <astro-island uid="BboV8" prefix="r0" component-url="/astro/SearchBar.C1Q_gaa_.js" component-export="default"
+        <astro-island uid="BboV8" prefix="r0" component-url="/astro/SearchBar.CP9sC1E9.js" component-export="default"
           renderer-url="/astro/client.CBwL3ilQ.js"
           props="{&quot;searchList&quot;:[1,[[0,{&quot;slug&quot;:[0,&quot;2025/03/ji-chang-ce-su-gong-ju&quot;],&quot;data&quot;:[0,{&quot;title&quot;:[0,&quot;机场测速工具 | MiaoKo 使用教程&quot;],&quot;meta_title&quot;:[0,&quot;机场测速工具 | MiaoKo 使用教程 | 节点批量测速 | TG 测速机器人&quot;],&quot;description&quot;:[0,&quot;机场测速可以帮助我们更好地了解节点的网络状况，并为选择和管理节点提供参考，同时提升上网体验。MiaoKo 是一款自动化测试机器人，不仅能自动测试节点，还能生成详细报告。本文将介绍 MiaoKo 的使用教程，包括加入群组、积分获取、指令发送等，为确保你能顺利使用这一 TG 测速机器人。&quot;],&quot;date&quot;:[3,&quot;2025-03-04T00:00:00.000Z&quot;],&quot;image&quot;:[0,&quot;/images/posts/2025/03/04/ji-chang-ce-su-gong-ju.webp&quot;],&quot;categories&quot;:[1,[[0,&quot;科学上网&quot;]]],&quot;authors&quot;:[1,[[0,&quot;Mark Dinn&quot;]]],&quot;tags&quot;:[1,[[0,&quot;telegram&quot;],[0,&quot;机器人&quot;]]],&quot;draft&quot;:[0,false]}],&quot;content&quot;:[0,&quot;机场测速可以帮助我们更好地了解节点的网络状况，并为选择和管理节点提供参考，同时提升上网体验。MiaoKo 是一款自动化测试机器人，不仅能自动测试节点，还能生成详细报告。本文将介绍 MiaoKo 的使用教程，包括加入群组、积分获取、指令发送等，为确保你能顺利使用这一 TG 测速机器人。\r\n\r\n## MiaoKo\r\n\r\n目前 MiaoKo 已停止开发，只能通过租用权限使用服务，这里选择使用“翻翻墙”维护的基于 MiaoKo 测速机器人（FFQ.LA Public Test Center）。翻翻墙采用积分制管理，测试时会扣除相应积分，也可贡献后端服务以享受所有权限。翻翻墙测速机器人不仅支持订阅速度测试，还支持拓扑结构、流媒体、延迟等测试。\r\n\r\n**1. 加入群组**\r\n\r\n使用机器人前需加入 [🛫 翻翻墙 | 公益测速 - 积分制](https://t.me/FFQMiaokoPublic)（以下简称“积分群”）群组。每日签到前需加入 [🛫 翻翻墙 | ✨ MiaoKo | ⛱ 人才交流中心](https://t.me/FFQGroup)（以下简称“交流群”）群组，聊天吹水也在该群内进行。\r\n\r\n**2. 获取积分**\r\n\r\n积分获取主要通过群内每日签到、聊天吹水、购买积分等方式。每日签到请在交流群内发送 `/签到` 。\r\n\r\n**3. 发送指令**\r\n\r\n在积分群内发送 `/help@FFQPublicBot` 获取帮助菜单。带有 \&quot;url\&quot; 的指令可使用订阅链接进行测试，如速度测试 `/speedurl 订阅链接`。你也可以发送 `/ffq`，无需记住指令。\r\n\r\n[![miaoko发送指令](/images/posts/2025/03/04/miaoko-fa-song-zhi-ling.webp)](/images/posts/2025/03/04/miaoko-fa-song-zhi-ling.webp) \r\n\r\n**4. 测试步骤**\r\n\r\n向机器人发送测试指令后，按以下操作进行：\r\n\r\n选择测试后端。此时会通过后端宽带进行测试，如测试结果不佳时，可随时更换后端。\r\n\r\n[![miaoko测试步骤-选择测试后端](/images/posts/2025/03/04/miaoko-ce-shi-bu-zhou-ce-shi-hou-duan.webp)](/images/posts/2025/03/04/miaoko-ce-shi-bu-zhou-ce-shi-hou-duan.webp)\r\n\r\n选择排序方式。按需选择或默认即可。\r\n\r\n[![miaoko测试步骤-选择排序方式](/images/posts/2025/03/04/miaoko-ce-shi-bu-zhou-pai-xu-fang-shi.webp)](/images/posts/2025/03/04/miaoko-ce-shi-bu-zhou-pai-xu-fang-shi.webp)\r\n\r\n等待测试完成，结果会公布在群内，需注意查看，不要被后续测试顶上去找不到。\r\n\r\n**5. 查看报告**\r\n\r\n[![miaoko查看报告](/images/posts/2025/03/04/miaoko-cha-kan-bao-gao.webp)](/images/posts/2025/03/04/miaoko-cha-kan-bao-gao.webp)\r\n\r\n测试完成后，群内会收到测速图报告，但不会有提醒。\r\n\r\n机场测速完成后，你可以选择低延迟高速度的节点，提升上网体验。不同时间段的数据会有所不同，为避免晚高峰，可选择在早上测速。测速前最好征得商家的同意，否则短时间内大量消耗流量可能引起注意，导致账号被封禁。\r\n\r\n参考资料\r\n\r\n1. [MiaoKo 官方网站](https://www.miaoko.net/)  \r\n2. [FFQ MiaoKo 公益测速机器人使用说明 - 翻翻墙导航](https://www.ffq.la/1180.html)  \r\n3. [MiaoKo v4 命令详细文档 - 翻翻墙导航](https://www.ffq.la/1216.html)&quot;]}]]]}"
           ssr client="load" opts="{&quot;name&quot;:&quot;SearchBar&quot;,&quot;value&quot;:true}" await-children>
