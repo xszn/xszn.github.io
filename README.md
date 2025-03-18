@@ -1,12 +1,12 @@
 # 行书指南 | 软件资源分享
 
-![行书指南，一个软件资源分享网站，含科学上网与使用教程](https://xszn.org/images/og-image.webp)
+![行书指南，一个软件资源分享网站，含科学上网与使用教程](/images/og-image.webp)
 
 [XSZN.org](https://xszn.org/) 是一个科学上网教程及软件资源网站。最新热门开源软件推荐，浅显易懂的使用教程。在这里发现与掌握前沿技术。
 
 ---
 
-关注我们
+**关注我们**
 
 - [YouTube](https://www.youtube.com/@xszn_org)  
 - [X (Twitter)](https://x.com/xszn_org)  
