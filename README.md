@@ -11,12 +11,12 @@
 - [YouTube](https://www.youtube.com/@xszn_org)  
 - [X (Twitter)](https://x.com/xszn_org)  
 - [Instagram](https://www.instagram.com/xszn_org/)  
-- [Medium](https://xszn.medium.com/)  
 - [Pinterest](https://www.pinterest.com/xszn_org)  
 - [Telegram](https://t.me/xszn_org)  
-- [Tumblr](https://www.tumblr.com/xszn-org)  
-- [Threads](https://www.threads.net/@xszn_org)  
 - [Linktree](https://linktr.ee/xszn_org)
+- [Threads](https://www.threads.net/@xszn_org)  
+- [Tumblr](https://www.tumblr.com/xszn-org)  
+- [Medium](https://xszn.medium.com/)
 
 ---
 
