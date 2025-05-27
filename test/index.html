@@ -1,0 +1,23 @@
+<!DOCTYPE html><!-- ---
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import Pagination from "@/layouts/components/Pagination.astro";
+import Posts from "@/layouts/Posts.astro";
+import { getSinglePage } from "@/lib/contentParser.astro";
+import { sortByDate } from "@/lib/utils/sortFunctions";
+
+const posts = await getSinglePage("posts");
+const testPosts = posts.filter((post) => post.id.startsWith("test/")); //仅保留 test/ 文件下的文章
+const sortedPosts = sortByDate(testPosts);
+const totalPages = Math.ceil(sortedPosts.length / config.settings.pagination);
+const currentPosts = sortedPosts.slice(0, config.settings.pagination);
+---
+
+<Base>
+  <section class="section">
+    <div class="container">
+      <Posts posts={currentPosts} className="mb-16" />
+      <Pagination currentPage={1} totalPages={totalPages} />
+    </div>
+  </section>
+</Base> -->
