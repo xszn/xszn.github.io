@@ -5,7 +5,7 @@ license: false
 
 # 友情链接
 
-快来和我平等交换友链，成为我们的第一个友情。
+快来和我们平等交换友链，成为我们的第一个友情。
 
 <!-- <p></p>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
