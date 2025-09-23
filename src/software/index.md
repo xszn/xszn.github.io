@@ -7,7 +7,7 @@ license: false
 # 软件推荐
 
 <p></p>
-<div class="grid grid-cols-2 md:grid-cols-2 gap-4">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-4">
   <ClientOnly v-for="soft of software" :key="soft.url">
     <CardStacked 
       :imgs="soft.frontmatter.image" 
