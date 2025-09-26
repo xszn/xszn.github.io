@@ -7,7 +7,7 @@ image: /images/guide/2025/04/microsoft-activation-scripts/microsoft-activation-s
 # Microsoft Activation Scripts：KMS 激活工具
 
 <p></p>
-<Img src="/images/guide/2025/04/microsoft-activation-scripts/microsoft-activation-scripts.webp" alt="Microsoft Activation Scripts" />
+<ClientOnly><Img src="/images/guide/2025/04/microsoft-activation-scripts/microsoft-activation-scripts.webp" alt="Microsoft Activation Scripts" /></ClientOnly>
 
 开源 Windows 和 Office 激活器。
 
@@ -23,7 +23,7 @@ irm https://get.activated.win | iex
 
 ## 使用教程
 
-<Img src="/images/guide/2025/04/microsoft-activation-scripts/microsoft-activation-scripts-cli.webp" alt="Microsoft Activation Scripts CLI" />
+<ClientOnly><Img src="/images/guide/2025/04/microsoft-activation-scripts/microsoft-activation-scripts-cli.webp" alt="Microsoft Activation Scripts CLI" /></ClientOnly>
 
 ### 选择激活选项
 

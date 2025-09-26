@@ -7,7 +7,7 @@ image: /images/guide/2025/04/real-esrgan/real-esrgan.webp
 # Real-ESRGAN：图像/视频超分辨率
 
 <p></p>
-<Img src="/images/guide/2025/04/real-esrgan/real-esrgan.webp" alt="Real-ESRGAN" />
+<ClientOnly><Img src="/images/guide/2025/04/real-esrgan/real-esrgan.webp" alt="Real-ESRGAN" /></ClientOnly>
 
 Real-ESRGAN 旨在开发用于通用图像/视频修复的实用算法。
 
@@ -71,7 +71,7 @@ ffmpeg -i onepiece_demo.mp4
 
 您将得到类似于以下屏幕截图的输出。
 
-<Img src="/images/guide/2025/04/real-esrgan/real-esrgan-huo-qu-shi-pin-fps.webp" alt="Real-ESRGAN 获取视频 FPS" />
+<ClientOnly><Img src="/images/guide/2025/04/real-esrgan/real-esrgan-huo-qu-shi-pin-fps.webp" alt="Real-ESRGAN 获取视频 FPS" /></ClientOnly>
 
 合并视频：
 
