@@ -5,6 +5,7 @@ import DefaultTheme from 'vitepress/theme'
 import mediumZoom from 'medium-zoom'
 import Layout from './Layout.vue'
 import Ads from './components/Ads.vue'
+import Button from './components/Button.vue'
 import Card from './components/Card.vue'
 import CardHorizontal from './components/CardHorizontal.vue'
 import CardImage from './components/CardImage.vue'
@@ -20,6 +21,7 @@ export default {
   Layout,
   enhanceApp({ app }) {
     app.component('Ads', Ads)
+    app.component('Button', Button)
     app.component('Card', Card)
     app.component('CardHorizontal', CardHorizontal)
     app.component('CardImage', CardImage)

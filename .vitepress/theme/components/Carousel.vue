@@ -8,6 +8,6 @@
 import { FwbCarousel } from './index'
 
 const pictures = [
-    { src: '/images/submit.webp', href: '/submit', target: '_blank', alt: '提交项目' }
+    { src: '/images/submit-project.webp', href: '/submit', target: '_blank', alt: '提交项目' }
 ]
 </script>
