@@ -14,7 +14,7 @@ export function useCardsClasses(props: UseCardsClassesProps): {
   const cardClasses = computed(() => {
     let computedClasses = ''
     if (props.variant.value === 'image') {
-      computedClasses = 'max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700'
+      computedClasses = 'max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-100 dark:hover:bg-gray-700'
     }
 
     if (props.variant.value === 'default') {

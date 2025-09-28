@@ -3,11 +3,5 @@ export default [
     { text: '软件推荐', link: '/software/', activeMatch: '/software/' },
     // { text: '科技周刊', link: '/weekly/', activeMatch: '/weekly/' },
     { text: '使用教程', link: '/guide/', activeMatch: '/guide/' },
-    {
-        component: 'Button',
-        props: {
-            text: '提交项目',
-            link: '/submit',
-        },
-    }
+    { text: '<b>📤 提交项目</b>', link: '/submit' }
 ]

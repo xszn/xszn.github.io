@@ -57,7 +57,7 @@ layout: home
 </div>
 
 <script setup>
-import { data as software } from '../.vitepress/theme/data/software.data.js'
-import { data as weekly } from '../.vitepress/theme/data/weekly.data.js'
-import { data as posts } from '../.vitepress/theme/data/guide.data.js'
+import { data as software } from '../.vitepress/theme/data/2025/software.data.js'
+import { data as weekly } from '../.vitepress/theme/data/2025/weekly.data.js'
+import { data as posts } from '../.vitepress/theme/data/2025/guide.data.js'
 </script>

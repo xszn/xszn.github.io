@@ -19,5 +19,5 @@ license: false
 </div>
 
 <script setup>
-import { data as software } from '../../.vitepress/theme/data/software.data.js'
+import { data as software } from '../../.vitepress/theme/data/2025/software.data.js'
 </script>

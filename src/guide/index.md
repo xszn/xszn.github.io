@@ -13,5 +13,5 @@ license: false
 </div>
 
 <script setup>
-import { data as posts } from '../../.vitepress/theme/data/guide.data.js'
+import { data as posts } from '../../.vitepress/theme/data/2025/guide.data.js'
 </script>
