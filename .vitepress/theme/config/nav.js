@@ -3,8 +3,8 @@ export default [
     {
         text: '软件推荐',
         items: [
-            { text: '每周分享', link: '/software/' },
-            { text: '替代品', link: '/software/alternative/download-manager' }
+            { text: '软件推荐', link: '/software/' },
+            { text: '软件合集', link: '/software/awesome/download-managers' }
         ]
     },
     // { text: '科技周刊', link: '/weekly/', activeMatch: '/weekly/' },
