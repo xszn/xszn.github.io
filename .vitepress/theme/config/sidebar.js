@@ -27,14 +27,16 @@ export default {
             ]
         }
     ],
-    // '/weekly/': [
-    //     {
-    //         text: '科技周刊',
-    //         items: [
-    //             { text: '2025 年', link: '/weekly/2025/' }
-    //         ]
-    //     }
-    // ],
+    '/software/awesome/': [
+        {
+            text: '软件合集',
+            items: [
+                { text: '下载管理器', link: '/software/awesome/download-manager' },
+                { text: '网页浏览器', link: '/software/awesome/web-browser' }
+            ]
+        }
+    ],
+
     '/guide/': [
         {
             text: '使用教程',
