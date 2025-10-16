@@ -31,7 +31,9 @@ export default {
         {
             text: '软件合集',
             items: [
-                { text: '下载管理器', link: '/software/awesome/download-manager' },
+                { text: '下载管理器', link: '/software/awesome/download-managers' },
+                { text: '压缩软件', link: '/software/awesome/file-archiver' },
+                { text: '图像软件', link: '/software/awesome/graphics-software.md' },
                 { text: '网页浏览器', link: '/software/awesome/web-browser' }
             ]
         }
