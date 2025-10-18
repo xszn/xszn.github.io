@@ -48,7 +48,8 @@
 一种用图像整理信息的图解。
 :::
 
+- [Freeplane](https://docs.freeplane.org/) - Xmind、MindMeister 替代品
 - [Drawnix](https://drawnix.com/) - 开源白板工具
 - [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/) - Web 思维导图
-- [Mermaid](https://mermaid.live/) - 类 Markdown 文本生成图表
-- [MarkMap](https://markmap.js.org/) - Markdown 思维导图
+- [markmap](https://markmap.js.org/) - Markdown 思维导图
+- [Mermaid](https://mermaid.js.org/) - 文本生成图表
