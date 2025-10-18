@@ -45,5 +45,10 @@
 ## 思维导图 {#mind-map}
 
 ::: info 思维导图是什么？
-是一种用图像整理信息的图解。
+一种用图像整理信息的图解。
 :::
+
+- [Drawnix](https://drawnix.com/) - 开源白板工具
+- [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/) - Web 思维导图
+- [Mermaid](https://mermaid.live/) - 类 Markdown 文本生成图表
+- [MarkMap](https://markmap.js.org/) - Markdown 思维导图
