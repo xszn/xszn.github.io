@@ -11,7 +11,11 @@
 - [Gopeed](https://gopeed.com/zh-CN "94.87K, FOSS")
 - [Varia](https://giantpinkrobots.github.io/varia/ "1.73K, FOSS")
 
-## 广告拦截 {#ad-blocking}
+## 广告拦截 {#ad-blocker}
+
+::: info Ad blocker 是什么？
+用于屏蔽网络浏览器或应用程序中的在线广告（横幅式广告、图像、动画、嵌入式音频和视频、文本、弹出式广告、自动播放广告）。
+:::
 
 - [AdBlock](https://getadblock.com/zh_CN/ "172.48M, FOSS")
 - [Adblock Plus](https://adblockplus.org/zh_CN/ "94.45M, FOSS")
@@ -49,7 +53,7 @@
 :::
 
 - [Freeplane](https://docs.freeplane.org/) - Xmind、MindMeister 替代品
-- [Drawnix](https://drawnix.com/) - 开源白板工具
 - [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/) - Web 思维导图
-- [markmap](https://markmap.js.org/) - Markdown 思维导图
+- [Drawnix](https://drawnix.com/) - 开源白板工具
+- [MarkMap](https://markmap.js.org/) - Markdown 思维导图
 - [Mermaid](https://mermaid.js.org/) - 文本生成图表
