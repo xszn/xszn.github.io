@@ -17,6 +17,7 @@ export default {
                 {
                     text: '2025 年',
                     items: [
+                        { text: '第 43 周', link: '/software/2025/43' },
                         { text: '第 42 周', link: '/software/2025/42' },
                         { text: '第 41 周', link: '/software/2025/41' },
                         { text: '第 40 周', link: '/software/2025/40' },

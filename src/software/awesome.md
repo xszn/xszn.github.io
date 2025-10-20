@@ -1,59 +1,16 @@
 # 软件合集
 
-## 下载管理器 {#download-manager}
-
-- [JDownloader](https://jdownloader.org/ "2.30M, FOSS")
-- [Free Download Manager](https://www.freedownloadmanager.org/zh/ "2.17M") & [Elephant 视频下载插件](https://free-addons.org/ "21.98K")
-- [Motrix](https://motrix.app/zh-CN/ "0.50M, FOSS")
-- [Neat Download Manager](https://www.neatdownloadmanager.com/ "0.32M, FOSS")
-- [AB 下载管理器](https://abdownloadmanager.com/ "0.28M, FOSS")
-- [Xtreme Download Manager](https://xtremedownloadmanager.com/ "0.19M, FOSS")
-- [Gopeed](https://gopeed.com/zh-CN "94.87K, FOSS")
-- [Varia](https://giantpinkrobots.github.io/varia/ "1.73K, FOSS")
-
 ## 广告拦截 {#ad-blocker}
 
-::: info Ad blocker 是什么？
-用于屏蔽网络浏览器或应用程序中的在线广告（横幅式广告、图像、动画、嵌入式音频和视频、文本、弹出式广告、自动播放广告）。
-:::
-
-- [AdBlock](https://getadblock.com/zh_CN/ "172.48M, FOSS")
-- [Adblock Plus](https://adblockplus.org/zh_CN/ "94.45M, FOSS")
-- [AdGuard](https://adguard.com/zh_cn/ "6.77M")
-- [uBlock Origin](https://ublockorigin.com/ "1.84M, FOSS")
-- [AdAway](https://adaway.org/ "95.08K, FOSS")
-- [StevenBlock](https://mikropsoft.netlify.app/stevenblock "0.00K, FOSS")
-
-## 密码管理器 {#password-manager}
-
-- [Bitwarden](https://bitwarden.com/ "6.94M, FOSS")
-- [KeePass](https://keepass.info/ "0.69M, FOSS") or [KeePassX](https://www.keepassx.org/ "18.62K, FOSS")
-
-## PDF 阅读器 {#pdf-reader}
-
-- [Adobe Acrobat Reader](https://get.adobe.com/cn/reader/ "14.92M")
-- [Foxit PDF Reader](https://www.foxit.com/zh-tw/pdf-reader/ "2.73M") or [福昕 PDF 阅读器](https://www.foxitsoftware.cn/pdf-reader/ "0.49M")
-- [PDFgear](https://www.pdfgear.com/zh/ "2.45M")
-- [PDF-XChange Viewer](https://www.pdf-xchange.com/ "0.97M")
-- [Sumatra PDF](https://www.sumatrapdfreader.org/ "0.57M")
-- [Stirling PDF](https://www.stirling.com/ "4.56K, FOSS")
-- [Pdf Viewer For Android](https://afreakyelf.github.io/Pdf-Viewer/ "0.51K, FOSS")
-
-## 位图图像编辑器 {#raster-graphics-editor}
-
-- [GIMP](https://www.gimp.org/ "2.13M, FOSS") & [PhotoGIMP Photoshop 主题插件](https://photogimp.com/ "3.20K, FOSS")
-- [Inkscape](https://inkscape.org/ "1.42M, FOSS")
-- [Photopea](https://www.photopea.com/ "16.57M")
-- [Pixlr](https://pixlr.com/cn/ "12.92M")
+- [AdBlock](https://getadblock.com/zh_CN/) - 最受欢迎的浏览器工具
+- [uBlock Origin](https://ublockorigin.com/) - 免费、开源的广告内容拦截器。
+- [AdAway](https://adaway.org/) - Android 开源广告拦截器。
+- [Free Adblock Browser](https://www.freeadblockerbrowser.com/) - 免费广告拦截浏览器。
 
 ## 思维导图 {#mind-map}
 
-::: info 思维导图是什么？
-一种用图像整理信息的图解。
-:::
-
-- [Freeplane](https://docs.freeplane.org/) - Xmind、MindMeister 替代品
+- [Freeplane](https://docs.freeplane.org/) - Xmind、MindMeister 的替代品
 - [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/) - Web 思维导图
 - [Drawnix](https://drawnix.com/) - 开源白板工具
-- [MarkMap](https://markmap.js.org/) - Markdown 思维导图
-- [Mermaid](https://mermaid.js.org/) - 文本生成图表
+- [MarkMap](https://markmap.js.org/) - Markdown + 思维导图
+- [Mermaid](https://mermaid.js.org/) - 使用文本和代码创建图表
