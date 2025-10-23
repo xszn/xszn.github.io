@@ -4,7 +4,7 @@ export default [
         text: '软件推荐',
         items: [
             { text: '软件推荐', link: '/software/' },
-            { text: '软件合集', link: '/software/awesome' }
+            { text: '软件合集', link: '/software/lists/' }
         ]
     },
     // { text: '科技周刊', link: '/weekly/', activeMatch: '/weekly/' },
