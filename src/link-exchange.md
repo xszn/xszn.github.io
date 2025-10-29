@@ -12,8 +12,4 @@ license: false
     <!-- <ClientOnly>
         <Card href="https://ygpy.net/" target="_blank" img="https://ygpy.net/favicon.ico" title="一个朋友" details="出海工具推荐网站" />
     </ClientOnly> -->
-    <!-- <ClientOnly>
-        <Card href="http://website.diehunter1024.work/blog_website/" target="_blank" img="http://website.diehunter1024.work/head.jpg" title="阿宇的宝库
-" details="00 后 | 互联网 💻 | 办公室 🍵 茶农，希望通过技术改变生活 | 爱折腾 💪 | 收集各类 📚 网络资源，好物不私藏。全网搜：阿宇的宝库" />
-    </ClientOnly> -->
 </div>
