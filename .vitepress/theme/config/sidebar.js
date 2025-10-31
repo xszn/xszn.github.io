@@ -1,4 +1,21 @@
 export default {
+    '': [
+        {
+            text: '软件推荐',
+            items: [
+                { text: '系统软件', link: '/system-software/' },
+                { text: '互联网软件', link: '/internet-software/' },
+                { text: '教育软件', link: '/educational-software/' },
+                { text: '社交媒体软件', link: '/social-media-software/' },
+                { text: '游戏软件', link: '/game-software/' },
+                { text: '生产力软件', link: '/productivity-software/' },
+                { text: '文本软件', link: '/text-software/' },
+                { text: '图像软件', link: '/image-software/' },
+                { text: '音频软件', link: '/audio-software/' },
+                { text: '视频软件', link: '/video-software/' }
+            ]
+        }
+    ],
     '/software/': [
         {
             text: '软件推荐',
