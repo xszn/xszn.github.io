@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.8.3",
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.17"
+  },
+  "scripts": {
+    "dev": "vitepress dev --force",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "dependencies": {
+    "flowbite": "^3.1.2",
+    "flowbite-vue": "^0.2.1"
+  }
+}
