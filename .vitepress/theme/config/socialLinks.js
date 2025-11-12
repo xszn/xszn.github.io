@@ -1,3 +1,3 @@
 export default [
-    { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+    { icon: 'github', link: 'https://github.com/xszn/xszn.github.io' }
 ]
