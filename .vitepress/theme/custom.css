@@ -6,3 +6,12 @@
         --vp-home-hero-image-background-image: linear-gradient(-45deg, #e0a149 50%, #4cb8f3 50%);
         --vp-home-hero-image-filter: blur(44px);
 }
+
+.VPImage.logo {
+        border-radius: 4px;
+}
+
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+        z-index: 999;
+}
