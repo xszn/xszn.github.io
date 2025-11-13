@@ -5,7 +5,7 @@ title:
 description: 
 ---
 
-# Microsoft Activation Scripts
+# 
 
 ## 介绍
 
@@ -13,7 +13,7 @@ description:
 
 ## 屏幕截图
 
-
+<Img alt="屏幕截图" src="/images/foss/-software//screenshot.webp" />
 
 ## 下载
 

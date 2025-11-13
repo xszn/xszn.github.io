@@ -8,7 +8,7 @@
                         {{ title }}
                     </h5>
                 </div>
-                <p class="font-normal text-gray-700 dark:text-gray-400 truncate" :title="description">
+                <p class="font-normal text-gray-700 dark:text-gray-400 truncate">
                     {{ description }}
                 </p>
             </div>
