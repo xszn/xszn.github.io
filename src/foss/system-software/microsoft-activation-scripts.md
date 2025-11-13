@@ -1,6 +1,6 @@
 ---
 date: 2025-11-13
-icon: https://massgrave.dev/img/favicon.ico
+icon: /images/foss/system-software/microsoft-activation-scripts/favicon.ico
 title: Microsoft Activation Scripts
 description: KMS 激活工具。开源 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge 和在线 KMS 激活方法，并提供高级故障排除功能。
 ---
@@ -13,7 +13,7 @@ KMS 激活工具。开源 Windows 和 Office 激活工具，支持 HWID、Ohook�
 
 ## 屏幕截图
 
-![Microsoft Activation Scripts](/images/system-software/microsoft-activation-scripts.webp)
+<Img alt="Microsoft Activation Scripts 屏幕截图" src="/images/foss/system-software/microsoft-activation-scripts/screenshot.webp" />
 
 ## 下载
 

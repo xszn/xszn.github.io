@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "flowbite": "^3.1.2",
-    "flowbite-vue": "^0.2.1"
+    "flowbite-vue": "^0.2.1",
+    "medium-zoom": "^1.1.0"
   }
 }
