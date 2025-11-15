@@ -1,5 +1,5 @@
 <template>
-    <fwb-img :alt="alt" :caption="caption" :src="src" />
+    <fwb-img :alt="alt" :caption="alt" :src="src" />
 </template>
 
 <script setup lang="ts">

@@ -7,7 +7,8 @@
         <Card
             :icon="sys.frontmatter.icon"
             :link="sys.url"
-            :title="sys.frontmatter.title"
+            :subheading="sys.frontmatter.subheading"
+            :shortdesc="sys.frontmatter.shortdesc"
             :description="sys.frontmatter.description"
         />
     </ClientOnly>

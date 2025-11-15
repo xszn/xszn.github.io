@@ -5,12 +5,15 @@
                 <div class="flex flex-row gap-2 items-center">
                     <fwb-avatar bordered :img="icon" size="md" :alt="title" />
                     <h5 class="text-base font-bold tracking-tight text-gray-900 dark:text-white">
-                        {{ title }}
+                        {{ subheading }}
                     </h5>
                 </div>
                 <p class="font-normal text-gray-700 dark:text-gray-400 truncate">
                     {{ description }}
                 </p>
+                <div class="flex justify-end">
+                    <Badge type="info" :text="shortdesc" />
+                </div>
             </div>
         </fwb-card>
     </div>
@@ -26,6 +29,8 @@ defineProps<{
     icon: string
     link: string
     title: string
+    subheading: string
+    shortdesc: string
     description: string
 }>()
 </script>

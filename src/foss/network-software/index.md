@@ -7,7 +7,8 @@
         <Card
             :icon="net.frontmatter.icon"
             :link="net.url"
-            :title="net.frontmatter.title"
+            :subheading="net.frontmatter.subheading"
+            :shortdesc="net.frontmatter.shortdesc"
             :description="net.frontmatter.description"
         />
     </ClientOnly>

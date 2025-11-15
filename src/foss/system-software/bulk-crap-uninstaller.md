@@ -1,19 +1,39 @@
 ---
 date: 2025-11-13
 icon: /images/foss/system-software/bulk-crap-uninstaller/favicon.ico
-title: Bulk Crap Uninstaller
-description: 卸载程序。擅长以最少的用户操作卸载大量应用程序。可以清理残留文件、检测孤立应用程序、根据预设列表运行卸载程序等！尽管 BCU 最初是为IT专业人士设计的，但默认操作非常简单，任何人都可以轻松上手。
+title: 卸载程序：Bulk Crap Uninstaller
+subheading: Bulk Crap Uninstaller
+shortdesc: 卸载程序
+description: 擅长以最少的用户操作卸载大量应用程序。可以清理残留文件、检测孤立应用程序、根据预设列表运行卸载程序等！
+head:
+  - - meta
+    - property: og:title
+      content: 卸载程序：Bulk Crap Uninstaller
+  - - meta
+    - property: og:description
+      content: 擅长以最少的用户操作卸载大量应用程序。可以清理残留文件、检测孤立应用程序、根据预设列表运行卸载程序等！
+  - - meta
+    - property: og:url
+      content: https://xszn.org/foss/system-software/bulk-crap-uninstaller.html
+  - - meta
+    - property: og:image
+      content: https://xszn.org/images/foss/system-software/bulk-crap-uninstaller/screenshot.webp
+  - - meta
+    - property: og:image:alt
+      content: 卸载程序：Bulk Crap Uninstaller
 ---
 
 # Bulk Crap Uninstaller
 
 ## 介绍
 
-卸载程序。擅长以最少的用户操作卸载大量应用程序。可以清理残留文件、检测孤立应用程序、根据预设列表运行卸载程序等！尽管 BCU 最初是为IT专业人士设计的，但默认操作非常简单，任何人都可以轻松上手。
+<Img alt="“Bulk Crap Uninstaller”屏幕截图" src="/images/foss/system-software/bulk-crap-uninstaller/screenshot.webp" />
 
-## 屏幕截图
+Bulk Crap Uninstaller 是一款卸载程序。擅长以最少的用户操作卸载大量应用程序。可以清理残留文件、检测孤立应用程序、根据预设列表运行卸载程序等！
 
-<Img alt="屏幕截图" src="/images/foss/system-software/bulk-crap-uninstaller/screenshot.webp" />
+## 系统平台
+
+Windows
 
 ## 下载
 
@@ -24,3 +44,8 @@ description: 卸载程序。擅长以最少的用户操作卸载大量应用程�
 ## 使用教程
 
 [Bulk Crap Uninstaller Documentation - GitHub](https://htmlpreview.github.io/?https://github.com/Klocman/Bulk-Crap-Uninstaller/blob/master/doc/BCU_manual.html)
+
+**参考资料**
+
+1. [uninstaller - GitHub Topics](https://github.com/topics/uninstaller)
+2. [Category: Uninstallers - Wikipedia](https://en.wikipedia.org/wiki/Category:Uninstallers)

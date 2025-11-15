@@ -7,7 +7,8 @@
         <Card
             :icon="edu.frontmatter.icon"
             :link="edu.url"
-            :title="edu.frontmatter.title"
+            :subheading="edu.frontmatter.subheading"
+            :shortdesc="edu.frontmatter.shortdesc"
             :description="edu.frontmatter.description"
         />
     </ClientOnly>
