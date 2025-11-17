@@ -1,6 +1,6 @@
 # 网络软件 {#network-software}
 
-## 精选
+## 推荐
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <ClientOnly v-for="net of network" :key="net.url">

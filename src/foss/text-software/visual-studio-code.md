@@ -49,4 +49,4 @@ Web、Windows、macOS、Linux
 
 1. [editor - GitHub Topics](https://github.com/topics/editor)
 2. [Visual Studio Code - 维基百科](https://zh.wikipedia.org/wiki/Visual_Studio_Code)
-3. [分类：文本编辑器](https://zh.wikipedia.org/wiki/Category:%E6%96%87%E6%9C%AC%E7%BC%96%E8%BE%91%E5%99%A8)
+3. [源代码编辑器 - 维基百科](https://zh.wikipedia.org/wiki/%E6%BA%90%E4%BB%A3%E7%A0%81%E7%BC%96%E8%BE%91%E5%99%A8)

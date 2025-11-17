@@ -9,7 +9,7 @@ const webSiteUrl = 'https://xszn.org';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "行书指南",
-  description: "自由及开放源代码软件列表，精选高质量免费与开源软件，降低你寻找软件的时间成本。",
+  description: "自由及开放源代码软件列表，推荐高质量免费与开源软件，降低你寻找软件的时间成本。",
   head,
   lang: 'zh-CN',
   srcDir: './src',

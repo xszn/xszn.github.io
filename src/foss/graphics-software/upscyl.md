@@ -47,5 +47,5 @@ Windows、macOS、Linux
 
 **参考资料**
 
-1. [ESRGAN - GitHub Repository search results](https://github.com/search?q=ESRGAN&type=repositories&s=stars&o=desc)
+1. [esrgan - GitHub Repository search results](https://github.com/search?q=esrgan&type=repositories&s=stars&o=desc)
 2. [超分辨率成像 - 维基百科](https://zh.wikipedia.org/wiki/%E8%B6%85%E8%A7%A3%E6%9E%90%E5%BA%A6%E6%88%90%E5%83%8F)

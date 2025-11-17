@@ -1,7 +1,7 @@
 export default [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { property: 'og:title', content: '软件资源分享' }],
-    ['meta', { property: 'og:description', content: '自由及开放源代码软件列表，精选高质量免费与开源软件，降低你寻找软件的时间成本。' }],
+    ['meta', { property: 'og:description', content: '自由及开放源代码软件列表，推荐高质量免费与开源软件，降低你寻找软件的时间成本。' }],
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:url', content: 'https://xszn.org/' }],
     ['meta', { property: 'og:image', content: '/images/ogp.webp' }],

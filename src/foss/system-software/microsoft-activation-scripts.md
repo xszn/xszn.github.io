@@ -48,3 +48,4 @@ Windows
 **参考资料**
 
 1. [kms - GitHub Topics](https://github.com/topics/kms)
+2. [Key Management Service - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Key_Management_Service)

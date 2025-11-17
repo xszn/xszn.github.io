@@ -49,3 +49,4 @@ Windows、macOS、Linux
 
 1. [llm - GitHub Topics](https://github.com/topics/llm)
 2. [Ollama - 维基百科](https://zh.wikipedia.org/wiki/Ollama)
+3. [大型语言模型 - 维基百科](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)

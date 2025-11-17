@@ -49,4 +49,4 @@ Windows、Linux
 
 1. [disk-cleaner - GitHub Topics](https://github.com/topics/disk-cleaner)
 2. [BleachBit - Wikipedia](https://en.wikipedia.org/wiki/BleachBit)
-3. [分类：硬盘软件 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E7%A1%AC%E7%9B%98%E8%BD%AF%E4%BB%B6)
+3. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility)

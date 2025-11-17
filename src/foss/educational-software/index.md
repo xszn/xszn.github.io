@@ -1,6 +1,6 @@
 # 教育软件 {#educational-software}
 
-## 精选
+## 推荐
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <ClientOnly v-for="edu of educational" :key="edu.url">

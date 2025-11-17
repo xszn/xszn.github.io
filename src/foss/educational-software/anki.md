@@ -49,4 +49,4 @@ Web、Android、iOS、Windows、macOS、Linux
 
 1. [flashcards - GitHub Topics](https://github.com/topics/flashcards)
 2. [Anki - 维基百科](https://zh.wikipedia.org/wiki/Anki)
-3. [Category: Spaced repetition software - Wikipedia](https://en.wikipedia.org/wiki/Category:Spaced_repetition_software)
+3. [List of flashcard software - Wikipedia](https://en.wikipedia.org/wiki/List_of_flashcard_software)

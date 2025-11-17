@@ -4,14 +4,14 @@ icon: /images/foss/network-software/clash-verge-rev/favicon.ico
 title: 代理软件：Clash Verge Rev
 subheading: Clash Verge Rev
 shortdesc: 代理软件
-description: 基于 Tauri 的现代化 GUI 客户端，专为在 Windows、macOS 和 Linux 系统上运行而设计，可提供定制化的代理体验。
+description: Clash Verge 的延续。基于 Tauri 的现代化 GUI 客户端，专为在 Windows、macOS 和 Linux 系统上运行而设计，可提供定制化的代理体验。
 head:
   - - meta
     - property: og:title
       content: 代理软件：Clash Verge Rev
   - - meta
     - property: og:description
-      content: 基于 Tauri 的现代化 GUI 客户端，专为在 Windows、macOS 和 Linux 系统上运行而设计，可提供定制化的代理体验。
+      content: Clash Verge 的延续。基于 Tauri 的现代化 GUI 客户端，专为在 Windows、macOS 和 Linux 系统上运行而设计，可提供定制化的代理体验。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/network-software/clash-verge-rev.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Clash Verge Rev”屏幕截图" src="/images/foss/network-software/clash-verge-rev/screenshot.webp" />
 
-Clash Verge Rev 是一款代理软件。基于 Tauri 的现代化 GUI 客户端，专为在 Windows、macOS 和 Linux 系统上运行而设计，可提供定制化的代理体验。
+Clash Verge Rev 是一款代理软件。Clash Verge 的延续。基于 Tauri 的现代化 GUI 客户端，专为在 Windows、macOS 和 Linux 系统上运行而设计，可提供定制化的代理体验。
 
 ## 系统平台
 
