@@ -44,11 +44,14 @@ Windows、macOS、Linux
 ## 参考资料
 
 1. [llm - GitHub Topics](https://github.com/topics/llm)
-2. [Ollama - 维基百科](https://zh.wikipedia.org/wiki/Ollama)
+2. [Ollama's documentation - Ollama](https://docs.ollama.com/)
+3. [Ollama - 维基百科](https://zh.wikipedia.org/wiki/Ollama)
 
 <!-- Chat & build with open models
 
 Get up and running with large language models.
+
+Ollama is the easiest way to get up and running with large language models such as gpt-oss, Gemma 3, DeepSeek-R1, Qwen3 and more.
 
 Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 

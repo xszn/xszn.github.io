@@ -4,14 +4,14 @@ icon: /images/foss/network-software/localsend/favicon.ico
 title: 文件共享软件：LocalSend
 subheading: LocalSend
 shortdesc: 文件共享软件
-description: 将文件分享到附近的设备。通过本地网络与附近的设备安全地共享文件和消息，而无需互联网连接。
+description: 将文件分享到附近的设备。在本地网络上安全地与附近设备分享文件和消息，无需互联网连接。
 head:
   - - meta
     - property: og:title
       content: 文件共享软件：LocalSend
   - - meta
     - property: og:description
-      content: 将文件分享到附近的设备。通过本地网络与附近的设备安全地共享文件和消息，而无需互联网连接。
+      content: 将文件分享到附近的设备。在本地网络上安全地与附近设备分享文件和消息，无需互联网连接。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/network-software/localsend.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“LocalSend”屏幕截图" src="/images/foss/network-software/localsend/screenshot.webp" />
 
-LocalSend 是一款文件共享软件。将文件分享到附近的设备。通过本地网络与附近的设备安全地共享文件和消息，而无需互联网连接。
+LocalSend 是一款文件共享软件。将文件分享到附近的设备。在本地网络上安全地与附近设备分享文件和消息，无需互联网连接。
 
 ## 系统平台
 
@@ -46,15 +46,14 @@ Web、Android、iOS、Windows、macOS、Linux
 1. [file-sharing - GitHub Topics](https://github.com/topics/file-sharing)
 2. [Category: File sharing software - Wikipedia](https://en.wikipedia.org/wiki/Category:File_sharing_software)
 
-<!-- 将文件分享到附近的设备。
-免费、开源、跨平台。
+<!-- 将文件分享到附近的设备。免费、开源、跨平台。
 
 LocalSend是一个免费、开源、跨平台的文件分享工具，允许您将文件分享到附近的设备。
 
 An open-source cross-platform alternative to AirDrop
 
-LocalSend is a free, open-source app that allows you to securely share files and messages with nearby devices over your local network without needing an internet connection.
+LocalSend 是一个自由、开源的应用程序，允许你在本地网络上安全地与附近设备分享文件和消息，无需互联网连接。
 
 ---
 
-将文件分享到附近的设备。它允许您通过本地网络与附近的设备安全地共享文件和消息，而无需互联网连接。 -->
+将文件分享到附近的设备。允许你在本地网络上安全地与附近设备分享文件和消息，无需互联网连接。 -->

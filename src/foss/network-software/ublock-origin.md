@@ -4,14 +4,14 @@ icon: /images/foss/network-software/ublock-origin/favicon.ico
 title: 广告拦截软件：uBlock Origin
 subheading: uBlock Origin
 shortdesc: 广告拦截软件
-description: 默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。其主要特点是 CPU 和内存使用效率高。
+description: 默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。以 CPU 和内存使用率为主要特征。
 head:
   - - meta
     - property: og:title
       content: 广告拦截软件：uBlock Origin
   - - meta
     - property: og:description
-      content: 默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。其主要特点是 CPU 和内存使用效率高。
+      content: 默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。以 CPU 和内存使用率为主要特征。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/network-software/ublock-origin.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“uBlock Origin”屏幕截图" src="/images/foss/network-software/ublock-origin/screenshot.webp" />
 
-uBlock Origin 是一款广告拦截软件。默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。其主要特点是 CPU 和内存使用效率高。
+uBlock Origin 是一款广告拦截软件。默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。以 CPU 和内存使用率为主要特征。
 
 ## 系统平台
 
@@ -47,12 +47,9 @@ uBlock Origin 是一款广告拦截软件。默认会阻止广告和网站追踪
 2. [uBlock Origin - Wikipedia](https://en.wikipedia.org/wiki/UBlock_Origin)
 3. [Category: Ad blocking software - Wikipedia](https://en.wikipedia.org/wiki/Category:Ad_blocking_software)
 
-<!-- uBlock Origin - 免费、开源的广告内容拦截器。
-对CPU和内存很容易。
+<!-- uBlock Origin - 免费、开源的广告内容拦截器。对CPU和内存很容易。
 
 uBlock Origin不仅仅是一个 “广告拦截器“，它是一个以CPU和内存效率为主要特征的广谱内容拦截器。
-
-uBlock Origin is not just an “ad blocker“, it's a wide-spectrum content blocker with CPU and memory efficiency as a primary feature. Developed by Raymond Hill.
 
 uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
@@ -64,4 +61,4 @@ uBlock Origin（发音yoo-block，/ˈjuːblɒk/）是一款知名的自由、开
 
 ---
 
-默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。其主要特点是 CPU 和内存效率高。 -->
+uBlock Origin默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。它是一个以CPU和内存效率为主要特征的广谱内容拦截器。 -->

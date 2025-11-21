@@ -46,13 +46,11 @@ Windows、macOS、Linux
 1. [proxy - GitHub Repository search results](https://github.com/search?q=proxy&type=repositories&s=stars&o=desc)
 2. [分类：代理软件 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6)
 
-<!-- Clash Verge 的延续
-基于 Tauri 的 Mihomo GUI
+<!-- Clash Verge 的延续。基于 Tauri 的 Mihomo GUI
 
 A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
-Continuation of Clash Verge
-A Clash Meta GUI based on Tauri.
+Continuation of Clash Verge. A Clash Meta GUI based on Tauri.
 
 ---
 

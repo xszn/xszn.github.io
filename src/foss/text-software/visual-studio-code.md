@@ -4,14 +4,14 @@ icon: /images/foss/text-software/visual-studio-code/favicon.ico
 title: 源代码编辑器：Visual Studio Code
 subheading: Visual Studio Code
 shortdesc: 源代码编辑器
-description: 该软件以扩展的方式支持语法高亮、智能代码补全、代码重构功能。用户可以更改主题和键盘快捷方式实现个性化设置。
+description: 该软件以扩展的方式支持语法高亮、智能代码补全、代码重构功能等。用户可以更改主题和键盘快捷方式实现个性化设置等。
 head:
   - - meta
     - property: og:title
       content: 源代码编辑器：Visual Studio Code
   - - meta
     - property: og:description
-      content: 该软件以扩展的方式支持语法高亮、智能代码补全、代码重构功能。用户可以更改主题和键盘快捷方式实现个性化设置。
+      content: 该软件以扩展的方式支持语法高亮、智能代码补全、代码重构功能等。用户可以更改主题和键盘快捷方式实现个性化设置等。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/text-software/visual-studio-code.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Visual Studio Code”屏幕截图" src="/images/foss/text-software/visual-studio-code/screenshot.webp" />
 
-Visual Studio Code 是一款源代码编辑器。该软件以扩展的方式支持语法高亮、智能代码补全、代码重构功能。用户可以更改主题和键盘快捷方式实现个性化设置。
+Visual Studio Code 是一款源代码编辑器。该软件以扩展的方式支持语法高亮、智能代码补全、代码重构功能等。用户可以更改主题和键盘快捷方式实现个性化设置等。
 
 ## 系统平台
 
@@ -44,14 +44,15 @@ Web、Windows、macOS、Linux
 ## 参考资料
 
 1. [editor - GitHub Topics](https://github.com/topics/editor)
-2. [Visual Studio Code - Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code)
-3. [Source-code editor - Wikipedia](https://en.wikipedia.org/wiki/Source-code_editor)
+2. [Documentation - Visual Studio Code](https://code.visualstudio.com/docs)
+3. [Visual Studio Code - Wikipedia](https://en.wikipedia.org/wiki/Visual_Studio_Code)
+4. [Source-code editor - Wikipedia](https://en.wikipedia.org/wiki/Source-code_editor)
 
 <!-- The open source AI code editor
 
 Visual Studio Code redefines AI-powered coding with GitHub Copilot for building and debugging modern web and cloud applications. Visual Studio Code is free and available on your favorite platform - Linux, macOS, and Windows.
 
-Visual Studio Code
+VS Code is a free code editor, which runs on the macOS, Linux, and Windows operating systems. Getting up and running with Visual Studio Code is quick and easy. It is a small download so you can install in a matter of minutes and give VS Code a try.
 
 Visual Studio Code combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
 

@@ -51,9 +51,7 @@ Windows、macOS、Linux
 1. [7-Zip - Wikipedia](https://en.wikipedia.org/wiki/7-Zip)
 2. [Category: File archivers - Wikipedia](https://en.wikipedia.org/wiki/Category:File_archivers)
 
-<!-- 7-Zip is a file archiver with a high compression ratio.
-
-7-Zip 是一款拥有极高压缩比的开源压缩软件。
+<!-- 7-Zip 是一款拥有极高压缩比的开源压缩软件。
 
 7-Zip is a free and open-source file archiver, a utility used to place groups of files within compressed containers known as "archives". It is developed by Igor Pavlov and was first released in 1999.[2] 7-Zip has its own archive format called 7z introduced in 2001,[12] but can read and write several others.
 
@@ -61,7 +59,7 @@ Windows、macOS、Linux
 
 ---
 
-7-Zip 是一款拥有极高压缩比的开源压缩软件。[2] 7-Zip 有自己的压缩文件格式，称为 7z，于 2001 年推出，[12] 但它可以读取和写入其他几种压缩文件格式。 -->
+7-Zip 是一款拥有极高压缩比的开源压缩软件。7-Zip 有自己的压缩文件格式，称为 7z，于 2001 年推出，[12] 但它可以读取和写入其他几种压缩文件格式。 -->
 
 <!-- The 7-Zip derivative intended for the modern Windows experience
 

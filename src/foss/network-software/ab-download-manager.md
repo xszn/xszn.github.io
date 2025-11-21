@@ -46,8 +46,7 @@ Windows、macOS、Linux
 1. [download-manager - GitHub Topics](https://github.com/topics/download-manager)
 2. [Category: Download managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Download_managers)
 
-<!-- 下载从未这么简单
-通过与浏览器的无缝集成从任何地方轻松下载文件，享受快速、免费的下载体验
+<!-- 下载从未这么简单。通过与浏览器的无缝集成从任何地方轻松下载文件，享受快速、免费的下载体验
 
 A Download Manager that speeds up your downloads
 

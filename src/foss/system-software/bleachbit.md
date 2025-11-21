@@ -44,7 +44,7 @@ Windows、Linux
 ## 参考资料
 
 1. [disk-cleaner - GitHub Topics](https://github.com/topics/disk-cleaner)
-2. [Documentation - BleachBit Documentation](https://docs.bleachbit.org/)
+2. [Documentation - BleachBit](https://docs.bleachbit.org/)
 3. [BleachBit - Wikipedia](https://en.wikipedia.org/wiki/BleachBit)
 4. [Disk utility - Wikipedia](https://en.wikipedia.org/wiki/Disk_utility#Disk_cleaners)
 

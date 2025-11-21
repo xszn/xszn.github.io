@@ -50,9 +50,7 @@ Web、Android、iOS、Windows、macOS、Linux
 1. [rss-reader - GitHub Topics](https://github.com/topics/rss-reader)
 2. [Category: News aggregators - Wikipedia](https://en.wikipedia.org/wiki/Category:News_aggregators)
 
-<!-- Folo 是你的 AI RSS 阅读器
-这款 AI RSS 阅读器为你读遍全网，
-穿透噪音，只呈现你真正关心的洞见。
+<!-- Folo 是你的 AI RSS 阅读器。这款 AI RSS 阅读器为你读遍全网，穿透噪音，只呈现你真正关心的洞见。
 
 AI 驱动的 RSS 阅读器，具备上下文 AI，带来深度、无噪的阅读体验。
 
@@ -64,9 +62,10 @@ As they say, your thoughts are what you read—and we’ve been consuming noisy 
 
 将内容整理成一个时间线，让你专注于真正重要的信息，不受干扰。分享列表、探索合集，享受无干扰的浏览体验。 -->
 
-<!-- RSSHub
-万物皆可 RSS
-世界上最大的 RSS 网络
+<!-- 
+万物皆可 RSS。世界上最大的 RSS 网络
+
+🧡 Everything is RSSible
 
 RSSHub is the world's largest RSS network, consisting of over 5,000 global instances.
 

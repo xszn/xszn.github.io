@@ -46,8 +46,7 @@ Windows、macOS、Linux
 1. [image-upscaling - GitHub Topics](https://github.com/topics/image-upscaling)
 2. [Image scaling - Wikipedia](https://en.wikipedia.org/wiki/Image_scaling#Deep_convolutional_neural_networks)
 
-<!-- From Science Fiction to Reality
-Supercharging your images with AI
+From Science Fiction to Reality. Supercharging your images with AI
 
 Upscayl - AI Image Upscaler
 
@@ -58,4 +57,4 @@ Upscayl lets you enlarge and enhance low-resolution images using advanced AI alg
 
 ---
 
-利用先进的AI算法，让您放大并增强低分辨率图像。放大图像而不损失画质，简直就像魔法一样！🎩🪄 -->
+利用先进的AI算法，让您放大并增强低分辨率图像。放大图像而不损失画质，简直就像魔法一样！🎩🪄
