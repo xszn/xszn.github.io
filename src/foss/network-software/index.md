@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 网络软件 {#network-software}
 
 ## 推荐

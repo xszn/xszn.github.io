@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 社交媒体软件 {#social-media-software}
 
 ## 推荐

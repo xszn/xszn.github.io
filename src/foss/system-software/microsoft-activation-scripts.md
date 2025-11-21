@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Microsoft Activation Scripts”屏幕截图" src="/images/foss/system-software/microsoft-activation-scripts/screenshot.webp" />
 
-Microsoft Activation Scripts 是一款KMS 激活工具。开源 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge 和在线 KMS 激活方法，并提供高级故障排除功能。
+Microsoft Activation Scripts 是一款 KMS 激活工具。开源 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge 和在线 KMS 激活方法，并提供高级故障排除功能。
 
 ## 系统平台
 
@@ -41,11 +41,8 @@ Windows
 
 源码：https://github.com/massgravel/Microsoft-Activation-Scripts
 
-## 使用教程
-
-[Activate Windows / Office - MAS](https://massgrave.dev/)
-
-**参考资料**
+## 参考资料
 
 1. [kms - GitHub Topics](https://github.com/topics/kms)
-2. [Key Management Service - Simple English Wikipedia](https://simple.wikipedia.org/wiki/Key_Management_Service)
+
+<!-- 开源 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge 和在线 KMS 激活方法，并提供高级故障排除功能。 -->

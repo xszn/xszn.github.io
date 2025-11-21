@@ -41,12 +41,19 @@ Windows、macOS、Linux
 
 源码：https://github.com/ollama/ollama
 
-## 使用教程
-
-[Ollama's documentation - Ollama](https://docs.ollama.com/)
-
-**参考资料**
+## 参考资料
 
 1. [llm - GitHub Topics](https://github.com/topics/llm)
 2. [Ollama - 维基百科](https://zh.wikipedia.org/wiki/Ollama)
-3. [大型语言模型 - 维基百科](https://zh.wikipedia.org/wiki/%E5%A4%A7%E5%9E%8B%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)
+
+<!-- Chat & build with open models
+
+Get up and running with large language models.
+
+Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+
+Ollama是一款可以在本地电脑上执行语言模型（LLM）的软件，无需服务器。该软件以Go语言实现，并以MIT许可协议开放源代码形式发布。这个软件支持Llama 2、Mistral与Gemma等语言模型，并可在Linux、macOS和Windows平台上使用。[1][2][3]
+
+---
+
+Ollama是一款可以在本地电脑上执行语言模型（LLM）的软件，无需服务器。快速上手使用 OpenAI gpt-oss、DeepSeek-R1、Gemma 3 和其他模型。 -->

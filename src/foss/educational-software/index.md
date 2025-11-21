@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 教育软件 {#educational-software}
 
 ## 推荐

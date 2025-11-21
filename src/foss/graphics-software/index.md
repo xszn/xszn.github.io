@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 图像软件 {#graphics-software}
 
 ## 推荐

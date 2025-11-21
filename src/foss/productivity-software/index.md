@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 生产力软件 {#productivity-software}
 
 ## 推荐

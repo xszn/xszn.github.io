@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 文本软件 {#text-software}
 
 ## 推荐

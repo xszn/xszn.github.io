@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 音频软件 {#audio-software}
 
 ## 推荐

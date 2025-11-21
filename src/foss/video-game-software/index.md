@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 电子游戏软件 {#video-game-software}
 
 ## 推荐

@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 系统软件 {#system-software}
 
 ## 推荐

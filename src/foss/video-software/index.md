@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 视频软件 {#video-software}
 
 ## 推荐

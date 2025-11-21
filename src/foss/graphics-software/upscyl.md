@@ -1,17 +1,17 @@
 ---
 date: 2025-11-16
 icon: /images/foss/graphics-software/upscayl/favicon.ico
-title: 图像超分辨率软件：Upscayl
+title: 图片放大工具：Upscayl
 subheading: Upscayl
-shortdesc: 图像超分辨率软件
-description: 排名第一的免费开源 AI 图像放大工具。利用先进的 AI 算法，放大并增强低分辨率图像，且不会损失图像质量。
+shortdesc: 图片放大工具
+description: 利用先进的 AI 算法，放大并增强低分辨率图像。放大图像而不损失画质，就像魔法一样！
 head:
   - - meta
     - property: og:title
-      content: 图像超分辨率软件：Upscayl
+      content: 图片放大工具：Upscayl
   - - meta
     - property: og:description
-      content: 排名第一的免费开源 AI 图像放大工具。利用先进的 AI 算法，放大并增强低分辨率图像，且不会损失图像质量。
+      content: 利用先进的 AI 算法，放大并增强低分辨率图像。放大图像而不损失画质，就像魔法一样！
   - - meta
     - property: og:url
       content: https://xszn.org/foss/graphics-software/upscayl.html
@@ -20,7 +20,7 @@ head:
       content: https://xszn.org/images/foss/graphics-software/upscayl/screenshot.webp
   - - meta
     - property: og:image:alt
-      content: 图像超分辨率软件：Upscayl
+      content: 图片放大工具：Upscayl
 ---
 
 # Upscayl
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Upscayl”屏幕截图" src="/images/foss/graphics-software/upscayl/screenshot.webp" />
 
-Upscayl 是一款图像超分辨率软件。排名第一的免费开源 AI 图像放大工具。利用先进的 AI 算法，放大并增强低分辨率图像，且不会损失图像质量。
+Upscayl 是一款图片放大工具。利用先进的 AI 算法，放大并增强低分辨率图像。放大图像而不损失画质，就像魔法一样！
 
 ## 系统平台
 
@@ -41,11 +41,21 @@ Windows、macOS、Linux
 
 源码：https://github.com/upscayl/upscayl
 
-## 使用教程
+## 参考资料
 
-[Introduction - Upscayl](https://docs.upscayl.org/)
+1. [image-upscaling - GitHub Topics](https://github.com/topics/image-upscaling)
+2. [Image scaling - Wikipedia](https://en.wikipedia.org/wiki/Image_scaling#Deep_convolutional_neural_networks)
 
-**参考资料**
+<!-- From Science Fiction to Reality
+Supercharging your images with AI
 
-1. [esrgan - GitHub Repository search results](https://github.com/search?q=esrgan&type=repositories&s=stars&o=desc)
-2. [超分辨率成像 - 维基百科](https://zh.wikipedia.org/wiki/%E8%B6%85%E8%A7%A3%E6%9E%90%E5%BA%A6%E6%88%90%E5%83%8F)
+Upscayl - AI Image Upscaler
+
+🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+
+Free and Open Source AI Image Upscaler
+Upscayl lets you enlarge and enhance low-resolution images using advanced AI algorithms. Enlarge images without losing quality. It's almost like magic! 🎩🪄
+
+---
+
+利用先进的AI算法，让您放大并增强低分辨率图像。放大图像而不损失画质，简直就像魔法一样！🎩🪄 -->
