@@ -49,8 +49,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
         <!-- <Ads /> -->
       </div>
     </template>
-    <template #doc-after>
-      <br>
+    <template #doc-footer-before>
       <Giscus v-if="page.frontmatter.giscus !== false" repo="xszn/xszn.github.io" repo-id="R_kgDON7SifQ"
         category="Announcements" category-id="DIC_kwDON7Sifc4Cq7dH" mapping="pathname" strict="0" reactions-enabled="1"
         emit-metadata="0" input-position="bottom" theme="preferred_color_scheme" lang="zh-CN" crossorigin="anonymous"

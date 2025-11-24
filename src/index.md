@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: 开始阅读
       link: /foss/system-software/
+    - theme: alt
+      text: 更新日志
+      link: /changelog/2025
 
 features:
   - icon: ⚙️

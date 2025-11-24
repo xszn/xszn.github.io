@@ -31,8 +31,8 @@ head:
 
 7-Zip 是一款压缩软件。拥有极高压缩比。有自己的压缩文件格式，称为 7z，可以读取和写入其他几种压缩文件格式。
 
-::: info
-[NanaZip](https://github.com/M2Team/NanaZip)：另一款压缩软件。专为现代 Windows 体验而设计的 7-Zip 衍生版本。
+::: info 相关推荐
+[NanaZip](https://github.com/M2Team/NanaZip)：一款压缩软件。专为现代 Windows 体验而设计的 7-Zip 衍生版本。
 :::
 
 ## 系统平台

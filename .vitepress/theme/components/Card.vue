@@ -4,16 +4,19 @@
             <div class="p-5 flex flex-col gap-2">
                 <div class="flex flex-row gap-2 items-center">
                     <fwb-avatar bordered :img="icon" size="md" :alt="title" />
-                    <h5 class="text-base font-bold tracking-tight text-gray-900 dark:text-white">
-                        {{ subheading }}
-                    </h5>
+                    <div class="flex flex-col">
+                        <h5 class="text-base font-bold tracking-tight text-gray-900 dark:text-white">
+                            {{ subheading }}
+                        </h5>
+                        <p class="text-xs text-[var(--vp-badge-info-text)]">{{ shortdesc }}</p>
+                    </div>
                 </div>
                 <p class="font-normal text-gray-700 dark:text-gray-400 truncate">
                     {{ description }}
                 </p>
-                <div class="flex justify-end">
+                <!-- <div class="flex justify-end">
                     <Badge type="info" :text="shortdesc" />
-                </div>
+                </div> -->
             </div>
         </fwb-card>
     </div>

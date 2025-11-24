@@ -9,8 +9,8 @@ export default createContentLoader('foss/network-software/**/*.md', {
             !page.url.endsWith('/network-software/') &&
             !(page.file?.includes('index.md'))
         ).sort((a, b) => {
-            return +new Date(b.frontmatter.date) - +new Date(a.frontmatter.date)
-        }).slice(0, 6).map((page) => {
+            return a.url.localeCompare(b.url)
+        }).map((page) => {
             return {
                 ...page
             }

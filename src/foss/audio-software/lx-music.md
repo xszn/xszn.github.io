@@ -31,7 +31,7 @@ head:
 
 LX Music 是一款音乐搜索器。通过导入自定义源，可以在线播放、下载音乐，支持多个音乐平台切换。使用前建议调整一遍软件设置，阅读一遍说明文档。
 
-::: info
+::: info 相关推荐
 [lx-music-source](https://github.com/pdone/lx-music-source)：一个 LX Music 音源项目。汇总多个在线音源，并提供加速站点。
 :::
 
