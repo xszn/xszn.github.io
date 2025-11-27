@@ -60,4 +60,8 @@ Shotcut - a free, open source, cross-platform video editor
 
 Shotcut is a free and open-source, cross-platform video, audio, and image editing program for FreeBSD,[5] Linux, macOS and Windows.[6] Started in 2011 by Dan Dennedy, Shotcut is developed on the MLT Multimedia Framework,[7] in development since 2004 by the same author.[8][9]
 
-Shotcut是一款自由开源的跨平台影片剪辑软件，适用于FreeBSD、Linux 、MacOS和Microsoft Windows。Shotcut由Dan Dennedy于2011年开始开发，该软件基于Me
+Shotcut是一款自由开源的跨平台影片剪辑软件，适用于FreeBSD、Linux 、MacOS和Microsoft Windows。Shotcut由Dan Dennedy于2011年开始开发，该软件基于Media Lovin' Toolkit[5]，由同一作者于2004年开始开发[6][7]。
+
+---
+
+支持数百种音频和视频格式及编解码器。无需导入，即可进行原生编辑，并可在同一项目中使用多格式时间线、分辨率和帧速率。 -->
