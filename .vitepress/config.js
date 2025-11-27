@@ -13,6 +13,7 @@ export default defineConfig({
   head,
   lang: 'zh-CN',
   srcDir: './src',
+  outDir: 'C:/Users/lzl22/Desktop/dist',
   metaChunk: true,
   lastUpdated: true,
   markdown: {
