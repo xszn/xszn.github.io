@@ -6,6 +6,7 @@ import mediumZoom from 'medium-zoom'
 import Layout from './Layout.vue'
 import Ads from './components/Ads.vue'
 import Card from './components/Card.vue'
+import CardStacked from './components/CardStacked.vue'
 import Img from './components/Img.vue'
 import './style.css'
 import './custom.css'
@@ -17,6 +18,7 @@ export default {
   enhanceApp({ app }) {
     app.component('Ads', Ads)
     app.component('Card', Card)
+    app.component('CardStacked', CardStacked)
     app.component('Img', Img)
   },
   setup() {

@@ -14,6 +14,9 @@ hero:
       text: 开始阅读
       link: /foss/system-software/
     - theme: alt
+      text: 软件推荐
+      link: /software/
+    - theme: alt
       text: 更新日志
       link: /changelog/2025
 
