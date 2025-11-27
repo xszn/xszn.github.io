@@ -31,7 +31,7 @@ head:
 GIMP 是一款位图图像编辑器。用于图像照片润饰及编辑、自由绘图、调整大小、裁剪、照片蒙太奇、转换图像格式以及其他专业任务。还支持插件和脚本，允许用户扩展其功能并自动化任务。
 
 ::: info
-[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)：一个 GIMP 3+ 补丁。通过调整工具布局、快捷键、启动画面和默认设置等，使 GIMP 的操作体验更接近 Adobe Photoshop，旨在帮助 Photoshop 用户更轻松地迁移到 GIMP。
+[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)：一个 GIMP 3+ 补丁。通过调整工具布局、快捷键、启动画面和默认设置等，使 GIMP 的操作体验更接近 Adobe Photoshop。
 :::
 
 ## 系统平台
