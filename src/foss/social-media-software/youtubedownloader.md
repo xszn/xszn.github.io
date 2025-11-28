@@ -3,14 +3,14 @@ icon: /images/foss/social-media-software/youtubedownloader/favicon.ico
 title: YouTube 下载器：YoutubeDownloader
 subheading: YoutubeDownloader
 shortdesc: YouTube 下载器
-description: 允许用户通过粘贴视频、播放列表或频道的 URL，并选择所需的格式进行下载。该应用还支持关键词搜索，方便快速查找和下载视频。 
+description: 允许用户通过粘贴 YouTube 视频、播放列表或频道的 URL，然后选择所需的视频格式和质量来下载内容。
 head:
   - - meta
     - property: og:title
       content: YouTube 下载器：YoutubeDownloader
   - - meta
     - property: og:description
-      content: 允许用户通过粘贴视频、播放列表或频道的 URL，并选择所需的格式进行下载。该应用还支持关键词搜索，方便快速查找和下载视频。 
+      content: 允许用户通过粘贴 YouTube 视频、播放列表或频道的 URL，然后选择所需的视频格式和质量来下载内容。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/social-media-software/youtubedownloader.html
@@ -28,7 +28,7 @@ head:
 
 <Img alt="“YoutubeDownloader”屏幕截图" src="/images/foss/social-media-software/youtubedownloader/screenshot.webp" />
 
-YoutubeDownloader 是一款 YouTube 下载器。允许用户通过粘贴视频、播放列表或频道的 URL，并选择所需的格式进行下载。该应用还支持关键词搜索，方便快速查找和下载视频。 
+YoutubeDownloader 是一款 YouTube 下载器。允许用户通过粘贴 YouTube 视频、播放列表或频道的 URL，然后选择所需的视频格式和质量来下载内容。
 
 ## 系统平台
 

@@ -4,14 +4,14 @@ icon: /images/foss/system-software/7-zip/favicon.ico
 title: 压缩软件：7-Zip
 subheading: 7-Zip
 shortdesc: 压缩软件
-description: 拥有极高压缩比。有自己的压缩文件格式，称为 7z，可以读取和写入其他几种压缩文件格式。
+description: 以其高压缩比和对多种文件格式的支持而闻名。它拥有自己的 7z 格式，并能够解压包括 ZIP、RAR 和 TAR 在内的多种常见压缩格式。 
 head:
   - - meta
     - property: og:title
       content: 压缩软件：7-Zip
   - - meta
     - property: og:description
-      content: 拥有极高压缩比。有自己的压缩文件格式，称为 7z，可以读取和写入其他几种压缩文件格式。
+      content: 以其高压缩比和对多种文件格式的支持而闻名。它拥有自己的 7z 格式，并能够解压包括 ZIP、RAR 和 TAR 在内的多种常见压缩格式。 
   - - meta
     - property: og:url
       content: https://xszn.org/foss/system-software/7-zip.html
@@ -29,10 +29,10 @@ head:
 
 <Img alt="“7-Zip”屏幕截图" src="/images/foss/system-software/7-zip/screenshot.webp" />
 
-7-Zip 是一款压缩软件。拥有极高压缩比。有自己的压缩文件格式，称为 7z，可以读取和写入其他几种压缩文件格式。
+7-Zip 是一款压缩软件。以其高压缩比和对多种文件格式的支持而闻名。它拥有自己的 7z 格式，并能够解压包括 ZIP、RAR 和 TAR 在内的多种常见压缩格式。 
 
 ::: info 相关推荐
-[NanaZip](https://github.com/M2Team/NanaZip)：一款压缩软件。专为现代 Windows 体验而设计的 7-Zip 衍生版本。
+[NanaZip](https://github.com/M2Team/NanaZip)：一款压缩软件。是基于 7-Zip 代码库开发，并为现代 Windows 体验进行了优化的版本。
 :::
 
 ## 系统平台

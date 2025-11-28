@@ -4,14 +4,14 @@ icon: /images/foss/system-software/microsoft-powertoys/favicon.ico
 title: Windows 实用程序：Microsoft PowerToys
 subheading: Microsoft PowerToys
 shortdesc: Windows 工具箱
-description: 超过 25 个免费工具，如窗口管理器、快速启动程序、颜色选取器、文件名批量重命名以及更多。在 Windows 10/11 上提升高级用户的生产力。
+description: 专为高级用户设计的 Windows 实用工具集合，旨在提升生产力。它包含了一系列开源、免费的工具。
 head:
   - - meta
     - property: og:title
       content: Windows 工具箱：Microsoft PowerToys
   - - meta
     - property: og:description
-      content: 超过 25 个免费工具，如窗口管理器、快速启动程序、颜色选取器、文件名批量重命名以及更多。在 Windows 10/11 上提升高级用户的生产力。
+      content: 专为高级用户设计的 Windows 实用工具集合，旨在提升生产力。它包含了一系列开源、免费的工具。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/system-software/microsoft-powertoys.html
@@ -29,7 +29,9 @@ head:
 
 <Img alt="“Microsoft PowerToys”屏幕截图" src="/images/foss/system-software/microsoft-powertoys/screenshot.webp" />
 
-Microsoft PowerToys 是一款 Windows 工具箱。超过 25 个免费工具，如窗口管理器、快速启动程序、颜色选取器以及更多。在 Windows 10/11 上提升高级用户的生产力。
+Microsoft PowerToys 是一款 Windows 工具箱。专为高级用户设计的 Windows 实用工具集合，旨在提升生产力。它包含了一系列开源、免费的工具。
+
+
 
 ## 系统平台
 

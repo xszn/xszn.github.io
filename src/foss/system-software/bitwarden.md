@@ -3,14 +3,14 @@ icon: /images/foss/system-software/bitwarden/favicon.ico
 title: 密码管理器：Bitwarden
 subheading: Bitwarden
 shortdesc: 密码管理器
-description: 用户可在加密的保管库中存储敏感信息（例如网站登录凭据）。提供云端托管服务，并支持自行部署解决方案。
+description: 其设计宗旨是帮助用户在一个高度安全的、加密的保管库中存储和管理各种敏感信息，例如网站登录凭据、安全笔记和信用卡信息。
 head:
   - - meta
     - property: og:title
       content: 密码管理器：Bitwarden
   - - meta
     - property: og:description
-      content: 用户可在加密的保管库中存储敏感信息（例如网站登录凭据）。提供云端托管服务，并支持自行部署解决方案。
+      content: 其设计宗旨是帮助用户在一个高度安全的、加密的保管库中存储和管理各种敏感信息，例如网站登录凭据、安全笔记和信用卡信息。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/system-software/bitwarden.html
@@ -28,7 +28,7 @@ head:
 
 <Img alt="“Bitwarden”屏幕截图" src="/images/foss/system-software/bitwarden/screenshot.webp" />
 
-Bitwarden 是一款密码管理器。用户可在加密的保管库中存储敏感信息（例如网站登录凭据）。提供云端托管服务，并支持自行部署解决方案。
+Bitwarden 是一款密码管理器。其设计宗旨是帮助用户在一个高度安全的、加密的保管库中存储和管理各种敏感信息，例如网站登录凭据、安全笔记和信用卡信息。
 
 ## 系统平台
 

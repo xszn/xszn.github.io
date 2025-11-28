@@ -4,14 +4,14 @@ icon: /images/foss/system-software/bleachbit/favicon.ico
 title: 磁盘清理工具：BleachBit
 subheading: BleachBit
 shortdesc: 磁盘清理工具
-description: 可以清理文件，释放磁盘空间并保护隐私。只需勾选相应的复选框，即可删除不必要的文件，例如缓存、日志、Cookie、最近使用的文件列表等。
+description: 通过清理不必要的文件，如缓存、日志、Cookie 和最近使用的文件列表等，帮助用户优化系统性能。
 head:
   - - meta
     - property: og:title
       content: 磁盘清理工具：BleachBit
   - - meta
     - property: og:description
-      content: 可以清理文件，释放磁盘空间并保护隐私。只需勾选相应的复选框，即可删除不必要的文件，例如缓存、日志、Cookie、最近使用的文件列表等。
+      content: 通过清理不必要的文件，如缓存、日志、Cookie 和最近使用的文件列表等，帮助用户优化系统性能。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/system-software/bleachbit.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“BleachBit”屏幕截图" src="/images/foss/system-software/bleachbit/screenshot.webp" />
 
-BleachBit 是一款磁盘清理工具。可以清理文件，释放磁盘空间并保护隐私。只需勾选相应的复选框，即可删除不必要的文件，例如缓存、日志、Cookie、最近使用的文件列表等。
+BleachBit 是一款磁盘清理工具。通过清理不必要的文件，如缓存、日志、Cookie 和最近使用的文件列表等，帮助用户优化系统性能。
 
 ## 系统平台
 

@@ -4,14 +4,14 @@ icon: /images/foss/system-software/bulk-crap-uninstaller/favicon.ico
 title: 卸载程序：Bulk Crap Uninstaller
 subheading: Bulk Crap Uninstaller
 shortdesc: 卸载程序
-description: 擅长以最少的用户操作卸载大量应用程序。可以清理残留文件、检测孤立应用程序、根据预设列表运行卸载程序等。
+description: 可以批量卸载程序并清理残留文件，同时具备自动化的高级功能。
 head:
   - - meta
     - property: og:title
       content: 卸载程序：Bulk Crap Uninstaller
   - - meta
     - property: og:description
-      content: 擅长以最少的用户操作卸载大量应用程序。可以清理残留文件、检测孤立应用程序、根据预设列表运行卸载程序等。
+      content: 可以批量卸载程序并清理残留文件，同时具备自动化的高级功能。
   - - meta
     - property: og:url
       content: https://xszn.org/foss/system-software/bulk-crap-uninstaller.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Bulk Crap Uninstaller”屏幕截图" src="/images/foss/system-software/bulk-crap-uninstaller/screenshot.webp" />
 
-Bulk Crap Uninstaller 是一款卸载程序。擅长以最少的用户操作卸载大量应用程序。可以清理残留文件、检测孤立应用程序、根据预设列表运行卸载程序等。
+Bulk Crap Uninstaller 是一款卸载程序。可以批量卸载程序并清理残留文件，同时具备自动化的高级功能。
 
 ## 系统平台
 
