@@ -1,5 +1,6 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+titleTemplate: 软件资源分享
 layout: home
 
 hero:
