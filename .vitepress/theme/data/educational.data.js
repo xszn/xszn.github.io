@@ -1,6 +1,6 @@
 import { createContentLoader } from 'vitepress'
 
-export default createContentLoader('foss/educational-software/**/*.md', {
+export default createContentLoader('educational-software/**/*.md', {
     includeSrc: true,
     render: true,
     excerpt: true,
