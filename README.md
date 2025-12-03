@@ -18,7 +18,7 @@
 
 欢迎你的引荐，或向我们提问。
 
-- [![discussions](https://xszn.org/images/icons/chat-text-fill.svg) Discussions](https://xszn.org/bulletin-board.html)
+- ![discussions](https://xszn.org/images/icons/chat-text-fill.svg) [Discussions](https://xszn.org/bulletin-board.html)
 - [![Gmail](https://xszn.org/images/icons/envelope-fill.svg) Gmail](mailto:xsznorg@gmail.com)
 - [![Telegram](https://xszn.org/images/icons/telegram.svg) Telegram](https://t.me/xsznChatBot)
 
