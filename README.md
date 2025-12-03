@@ -12,7 +12,9 @@
 
 欢迎你的引荐，或向我们提问。
 
-![1](/images/icons/telegram.png)
+![1](https://xszn.org/images/icons/telegram.png)
+![1](https://xszn.org/images/icons/telegram.svg)
+![1](https://xszn.org/images/icons/envelope-fill.svg)
 
 <div v-if="page.frontmatter.license !== false" class="license flex items-center">
     已获&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>&nbsp;许可&nbsp;<img
