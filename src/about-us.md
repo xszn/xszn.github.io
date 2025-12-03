@@ -41,6 +41,3 @@ giscus: false
 如果您有任何问题，请随时与我们联系。
 
 感谢您访问我们的网站。
-
-![ff](/images/svg/telegram.svg)
-![ff](/images/svg/envelope-fill.svg)

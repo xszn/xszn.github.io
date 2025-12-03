@@ -12,10 +12,7 @@
 
 欢迎你的引荐，或向我们提问。
 
-
-![ff](/images/svg/telegram.svg)
-![ff](/images/svg/envelope-fill.svg)
-
+![1](/images/icons/telegram.png)
 
 <div v-if="page.frontmatter.license !== false" class="license flex items-center">
     已获&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>&nbsp;许可&nbsp;<img
@@ -26,5 +23,5 @@
     src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt=""
     style="max-width: 1em;max-height:1em;margin-left: .2em;"><img
     src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt=""
-    style="max-width: 8px;max-height:8px;margin-left: .2em;">
+    style="max-width: 1em;max-height:8px;margin-left: .2em;">
 </div>
