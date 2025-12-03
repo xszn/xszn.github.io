@@ -16,7 +16,7 @@ giscus: false
 
 软件依用途来划分、货比三家和择优录取。
 
-本站内容适用于 Windows、Android 和 Chromium 用户。
+本站适用于 Windows、Android 和 Chromium 的用户。
 
 本站不定期软件推荐，或通过提交留言引荐。
 
