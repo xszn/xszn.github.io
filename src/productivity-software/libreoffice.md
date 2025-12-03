@@ -1,4 +1,5 @@
 ---
+date: 2025-11-29
 icon: /images/productivity-software/libreoffice/favicon.ico
 title: 办公套件：LibreOffice
 subheading: LibreOffice

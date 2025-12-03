@@ -1,4 +1,5 @@
 ---
+date: 2025-11-26
 icon: /images/productivity-software/pot/favicon.ico
 title: 翻译软件：Pot
 subheading: Pot

@@ -1,4 +1,5 @@
 ---
+date: 2025-11-25
 icon: /images/productivity-software/draw.io/favicon.ico
 title: 流程图软件：draw.io
 subheading: draw.io

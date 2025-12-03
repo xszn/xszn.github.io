@@ -1,4 +1,5 @@
 ---
+date: 2025-11-24
 icon: /images/video-software/obs-studio/favicon.ico
 title: 屏幕录制软件：OBS Studio
 subheading: OBS Studio

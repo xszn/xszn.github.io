@@ -1,4 +1,5 @@
 ---
+date: 2025-11-28
 icon: /images/productivity-software/everything/favicon.ico
 title: 桌面搜索工具：Everything
 subheading: Everything

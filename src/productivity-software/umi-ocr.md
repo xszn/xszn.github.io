@@ -1,4 +1,5 @@
 ---
+date: 2025-11-24
 icon: /images/productivity-software/umi-ocr/favicon.ico
 title: 文字识别软件：Umi-OCR
 subheading: Umi-OCR

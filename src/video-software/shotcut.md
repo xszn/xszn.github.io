@@ -1,4 +1,5 @@
 ---
+date: 2025-11-27
 icon: /images/video-software/shotcut/favicon.ico
 title: 视频编辑软件：Shotcut
 subheading: Shotcut

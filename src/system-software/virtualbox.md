@@ -1,4 +1,5 @@
 ---
+date: 2025-12-1
 icon: /images/system-software/virtualbox/favicon.ico
 title: 虚拟机：VirtualBox
 subheading: VirtualBox

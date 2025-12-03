@@ -1,4 +1,5 @@
 ---
+date: 2025-11-26
 icon: /images/system-software/bitwarden/favicon.ico
 title: 密码管理器：Bitwarden
 subheading: Bitwarden

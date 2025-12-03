@@ -1,4 +1,5 @@
 ---
+date: 2025-11-27
 icon: /images/productivity-software/thunderbird/favicon.ico
 title: 电子邮件客户端：Thunderbird
 subheading: Thunderbird

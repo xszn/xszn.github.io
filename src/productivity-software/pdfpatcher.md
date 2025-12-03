@@ -1,4 +1,5 @@
 ---
+date: 2025-11-30
 icon: /images/productivity-software/pdfpatcher/favicon.ico
 title: PDF 软件：PDFPatcher
 subheading: PDFPatcher

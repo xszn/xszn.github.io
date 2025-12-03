@@ -4,7 +4,11 @@ giscus: false
 license: false
 ---
 
-# 软件推荐
+# 软件推荐 <Badge type="warning" text="已归档" />
+
+::: tip
+未来将移除该板块，全心投入 FOSS 推荐。
+:::
 
 ## 2025
 

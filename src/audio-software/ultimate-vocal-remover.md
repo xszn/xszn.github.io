@@ -1,4 +1,5 @@
 ---
+date: 2025-11-29
 icon: /images/audio-software/ultimate-vocal-remover/favicon.ico
 title: 音乐人声分离：Ultimate Vocal Remover
 subheading: Ultimate Vocal Remover

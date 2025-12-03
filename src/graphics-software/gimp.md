@@ -1,4 +1,5 @@
 ---
+date: 2025-11-27
 icon: /images/graphics-software/gimp/favicon.ico
 title: 位图图像编辑器：GIMP
 subheading: GIMP

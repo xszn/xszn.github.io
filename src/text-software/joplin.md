@@ -1,4 +1,5 @@
 ---
+date: 2025-11-26
 icon: /images/text-software/joplin/favicon.ico
 title: 笔记软件：Joplin
 subheading: Joplin

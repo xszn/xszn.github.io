@@ -1,4 +1,5 @@
 ---
+date: 2025-11-25
 icon: /images/video-game-software/openspeedy/favicon.ico
 title: 游戏变速器：OpenSpeedy
 subheading: OpenSpeedy

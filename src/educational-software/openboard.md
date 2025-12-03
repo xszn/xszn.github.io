@@ -1,4 +1,5 @@
 ---
+date: 2025-11-29
 icon: /images/educational-software/openboard/favicon.ico
 title: 白板软件：OpenBoard
 subheading: OpenBoard

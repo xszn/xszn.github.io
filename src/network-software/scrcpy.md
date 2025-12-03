@@ -1,4 +1,5 @@
 ---
+date: 2025-11-25
 icon: /images/network-software/scrcpy/favicon.ico
 title: 屏幕镜像软件：Scrcpy
 subheading: Scrcpy

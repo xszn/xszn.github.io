@@ -27,5 +27,9 @@ export default [
             { text: '音频软件', link: '/audio-software/', activeMatch: '/audio-software' },
             { text: '视频软件', link: '/video-software/', activeMatch: '/video-software' }
         ]
+    },
+    {
+        text: '留言板',
+        link: '/bulletin-board'
     }
 ]

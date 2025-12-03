@@ -1,4 +1,5 @@
 ---
+date: 2025-11-30
 icon: /images/audio-software/sound-lock/favicon.ico
 title: 声音限制器：Sound Lock
 subheading: Sound Lock
