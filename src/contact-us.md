@@ -17,11 +17,11 @@ const members = [
         title: '管理员',
         desc: 'XSZN.org 的传话筒',
         links: [
-            // {
-            //     icon: 'telegram',
-            //     link: 'https://t.me/xsznChatBot',
-            //     ariaLabel: 'telegram link'
-            // },
+            {
+                icon: 'telegram',
+                link: 'https://t.me/xsznChatBot',
+                ariaLabel: 'telegram link'
+            },
             {
                 icon: 'gmail',
                 link: 'mailto:xsznorg@gmail.com',
