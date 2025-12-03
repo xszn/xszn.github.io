@@ -20,6 +20,10 @@ export default {
     lastUpdated: {
         text: '最后更新于'
     },
+    editLink: {
+        pattern: 'https://github.com/xszn/xszn.github.io/edit/main/src/:path',
+        text: '在 GitHub 上编辑此页面'
+    },
     search: {
         provider: 'local',
         options: {
