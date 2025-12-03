@@ -11,19 +11,17 @@
 ## 贡献
 
 欢迎你的引荐，或向我们提问。
-
-![1](https://xszn.org/images/icons/telegram.png)
-![1](https://xszn.org/images/icons/telegram.svg)
-![1](https://xszn.org/images/icons/envelope-fill.svg)
+[![Gmail](https://xszn.org/images/icons/envelope-fill.svg)](mailto:xsznorg@gmail.com)
+[![Telegram](https://xszn.org/images/icons/telegram.svg)](https://t.me/xsznChatBot)
 
 <div v-if="page.frontmatter.license !== false" class="license flex items-center">
     已获&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>&nbsp;许可&nbsp;<img
-    src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt=""
+    src="src/public/images/icons/cc.svg" alt=""
     style="max-width: 1em;max-height:1em;margin-left: .2em;"><img
-    src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt=""
+    src="/src/public/images/icons/by.svg" alt=""
     style="max-width: 1em;max-height:1em;margin-left: .2em;"><img
-    src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt=""
+    src="/src/public/images/icons/nc.svg" alt=""
     style="max-width: 1em;max-height:1em;margin-left: .2em;"><img
-    src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt=""
+    src="/src/public/images/icons/nd.svg" alt=""
     style="max-width: 1em;max-height:8px;margin-left: .2em;">
 </div>
