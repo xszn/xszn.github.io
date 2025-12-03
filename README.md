@@ -6,9 +6,11 @@
 
 ## 如何挑选一款软件
 
-1. 免费：无定价、无高级版（视情况而定）
-2. 开源：
-3. 趋势
+综合以下条件：
+
+1. 免费：无定价、无高级版
+2. 开源：维护积极、现代化 UI
+3. 趋势：搜索指数、Stars 数
 
 ## :bust_in_silhouette: 适用于谁
 
@@ -19,8 +21,8 @@
 欢迎你的引荐，或向我们提问。
 
 - ![discussions](https://xszn.org/images/icons/chat-text-fill.svg) [Discussions](https://xszn.org/bulletin-board.html)
-- [![Gmail](https://xszn.org/images/icons/envelope-fill.svg) Gmail](mailto:xsznorg@gmail.com)
-- [![Telegram](https://xszn.org/images/icons/telegram.svg) Telegram](https://t.me/xsznChatBot)
+- ![Gmail](https://xszn.org/images/icons/envelope-fill.svg) [Gmail](mailto:xsznorg@gmail.com)
+- ![Telegram](https://xszn.org/images/icons/telegram.svg) [Telegram](https://t.me/xsznChatBot)
 
 ---
 
