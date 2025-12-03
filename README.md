@@ -8,12 +8,13 @@
 
 本项目适用于 Windows、Android 和 Chromium 的用户。
 
-## :shaking_hands: 如何贡献
+## :handshake: 如何贡献
 
 欢迎你的引荐，或向我们提问。
 
-[![Gmail](https://xszn.org/images/icons/envelope-fill.svg)](mailto:xsznorg@gmail.com)&nbsp;
-[![Telegram](https://xszn.org/images/icons/telegram.svg)](https://t.me/xsznChatBot)
+- [![discussions](https://xszn.org/images/icons/chat-text-fill.svg)](https://xszn.org/bulletin-board.html) Discussions
+- [![Gmail](https://xszn.org/images/icons/envelope-fill.svg)](mailto:xsznorg@gmail.com) Gmail
+- [![Telegram](https://xszn.org/images/icons/telegram.svg)](https://t.me/xsznChatBot) Telegram
 
 ---
 
