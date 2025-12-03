@@ -4,6 +4,12 @@
 
 行书指南是一个自由及开放源代码（FOSS）的软件列表项目，推荐高质量免费与开源软件，降低用户寻找软件的时间成本。
 
+## 如何挑选一款软件
+
+1. 免费：无定价、无高级版（视情况而定）
+2. 开源：
+3. 趋势
+
 ## :bust_in_silhouette: 适用于谁
 
 本项目适用于 Windows、Android 和 Chromium 的用户。
@@ -12,9 +18,9 @@
 
 欢迎你的引荐，或向我们提问。
 
-- [![discussions](https://xszn.org/images/icons/chat-text-fill.svg)](https://xszn.org/bulletin-board.html) Discussions
-- [![Gmail](https://xszn.org/images/icons/envelope-fill.svg)](mailto:xsznorg@gmail.com) Gmail
-- [![Telegram](https://xszn.org/images/icons/telegram.svg)](https://t.me/xsznChatBot) Telegram
+- [![discussions](https://xszn.org/images/icons/chat-text-fill.svg) Discussions](https://xszn.org/bulletin-board.html)
+- [![Gmail](https://xszn.org/images/icons/envelope-fill.svg) Gmail](mailto:xsznorg@gmail.com)
+- [![Telegram](https://xszn.org/images/icons/telegram.svg) Telegram](https://t.me/xsznChatBot)
 
 ---
 
