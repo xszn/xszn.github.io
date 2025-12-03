@@ -4,13 +4,13 @@
 
 行书指南是一个自由及开放源代码（FOSS）的软件列表项目，推荐高质量免费与开源软件，降低用户寻找软件的时间成本。
 
-## 👤 适用于谁
+## :bust_in_silhouette: 适用于谁
 
 本项目适用于 Windows、Android 和 Chromium 的用户。
 
-## 🤝 如何贡献
+## :shaking_hands: 如何贡献
 
-欢迎你的引荐，或向我们提问 :handshake:
+欢迎你的引荐，或向我们提问。
 
 [![Gmail](https://xszn.org/images/icons/envelope-fill.svg)](mailto:xsznorg@gmail.com)&nbsp;
 [![Telegram](https://xszn.org/images/icons/telegram.svg)](https://t.me/xsznChatBot)
