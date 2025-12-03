@@ -11,17 +11,18 @@
 ## 贡献
 
 欢迎你的引荐，或向我们提问。
-[![Gmail](https://xszn.org/images/icons/envelope-fill.svg)](mailto:xsznorg@gmail.com)
+
+[![Gmail](https://xszn.org/images/icons/envelope-fill.svg)](mailto:xsznorg@gmail.com)&nbsp;
 [![Telegram](https://xszn.org/images/icons/telegram.svg)](https://t.me/xsznChatBot)
 
-<div v-if="page.frontmatter.license !== false" class="license flex items-center">
+<div v-if="page.frontmatter.license !== false">
     已获&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>&nbsp;许可&nbsp;<img
     src="src/public/images/icons/cc.svg" alt=""
-    style="max-width: 1em;max-height:1em;margin-left: .2em;"><img
-    src="/src/public/images/icons/by.svg" alt=""
-    style="max-width: 1em;max-height:1em;margin-left: .2em;"><img
-    src="/src/public/images/icons/nc.svg" alt=""
-    style="max-width: 1em;max-height:1em;margin-left: .2em;"><img
-    src="/src/public/images/icons/nd.svg" alt=""
-    style="max-width: 1em;max-height:8px;margin-left: .2em;">
+    style="max-width: 1em;max-height:1em;margin-left: .2em;">&nbsp;<img
+    src="src/public/images/icons/by.svg" alt=""
+    style="max-width: 1em;max-height:1em;margin-left: .2em;">&nbsp;<img
+    src="src/public/images/icons/nc.svg" alt=""
+    style="max-width: 1em;max-height:1em;margin-left: .2em;">&nbsp;<img
+    src="src/public/images/icons/nd.svg" alt=""
+    style="max-width: 1em;max-height:1em;margin-left: .2em;">
 </div>
