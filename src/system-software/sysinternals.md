@@ -1,5 +1,5 @@
 ---
-date: 2025-12-2
+date: 2025-12-02
 icon: /images/system-software/sysinternals/favicon.ico
 title: Sysinternals 实用工具集：Sysinternals
 subheading: Sysinternals

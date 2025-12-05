@@ -1,5 +1,5 @@
 ---
-date: 2025-12-2
+date: 2025-12-02
 icon: /images/social-media-software/hitomi-downloader/favicon.ico
 title: 流媒体下载器：Hitomi Downloader
 subheading: Hitomi Downloader

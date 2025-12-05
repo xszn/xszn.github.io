@@ -1,5 +1,5 @@
 ---
-date: 2025-12-2
+date: 2025-12-02
 icon: /images/network-software/buster/favicon.ico
 title: 验证码自动识别：Buster
 subheading: Buster

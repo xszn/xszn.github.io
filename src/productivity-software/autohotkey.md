@@ -1,5 +1,5 @@
 ---
-date: 2025-12-1
+date: 2025-12-01
 icon: /images/productivity-software/autohotkey/favicon.ico
 title: 自动化软件：AutoHotkey
 subheading: AutoHotkey
