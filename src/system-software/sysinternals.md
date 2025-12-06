@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Sysinternals”屏幕截图" src="/images/system-software/sysinternals/screenshot.webp" />
 
-Sysinternals 是一款Sysinternals 实用工具集。用于管理、诊断、排除故障和监控 Microsoft Windows 环境。
+Sysinternals 是一款 Sysinternals 实用工具集。用于管理、诊断、排除故障和监控 Microsoft Windows 环境。
 
 ## 系统平台
 
