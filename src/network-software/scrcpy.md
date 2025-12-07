@@ -31,7 +31,7 @@ head:
 
 Scrcpy 是一款屏幕镜像软件。可以通过 USB 或 TCP/IP 连接将 Android 设备镜像到电脑，并使用电脑的键盘和鼠标进行控制。不需要在手机端安装任何应用，也无需 Root 权限。
 
-::: info 推荐
+::: info 相关推荐
 [QtScrcpy](https://github.com/barry-ran/QtScrcpy)：基于 scrcpy 的 GUI。
 :::
 
