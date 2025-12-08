@@ -24,7 +24,7 @@
 
 ### 前置准备
 
-- [Node.js](https://nodejs.org/zh-cn) 18 及以上版本
+[Node.js](https://nodejs.org/zh-cn) 18 及以上版本
 
 ### 克隆项目
 
@@ -52,7 +52,7 @@ npm run dev
 - ![Gmail](https://xszn.org/images/icons/envelope-fill.svg) [Gmail](mailto:xsznorg@gmail.com)
 - ![Telegram](https://xszn.org/images/icons/telegram.svg) [Telegram](https://t.me/xsznChatBot)
 
----
+## 📜 许可
 
 <div v-if="page.frontmatter.license !== false">
     已获&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>&nbsp;许可&nbsp;<img
