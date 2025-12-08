@@ -4,41 +4,41 @@
 
 [行书指南](https://xszn.org/)是一个自由及开放源代码（FOSS）的软件列表项目，推荐高质量免费与开源软件，降低用户寻找软件的时间成本。
 
-## :monocle_face: 如何挑选一款软件
+## :information: 关于项目
 
-- 免费
-  - 无定价
-  - 无高级版
-- 开源
-  - 维护积极
-  - 现代化 UI
-- 趋势
-  - 搜索指数
-  - Stars 数
+### :monocle_face: 如何挑选一款软件
+  
+- 免费。专有软件无定价和付费版
+- 开源。项目维护积极和具有现代化 UI
+- 趋势。搜索指数攀升和仓库 Stars 数
+- 影响。网站访问量和周边生态丰富
+- 易用。开箱即用，无需配置
+
+这些都是综合考虑因素。
 
 ## :bust_in_silhouette: 适用于谁
 
 本项目适用于 Windows、Android 和 Chromium 的用户。
 
-## 📦 安装
+## :package: 安装
 
-### 前置准备
+### 1. 前置准备
 
 [Node.js](https://nodejs.org/zh-cn) 18 及以上版本
 
-### 克隆项目
+### 2. 克隆项目
 
 ```
 git clone git@github.com:xszn/xszn.github.io.git
 ```
 
-### 安装依赖
+### 3. 安装依赖
 
 ```
 npm i
 ```
 
-### 启动并运行
+### 4. 启动并运行
 
 ```
 npm run dev
@@ -52,7 +52,7 @@ npm run dev
 - ![Gmail](https://xszn.org/images/icons/envelope-fill.svg) [Gmail](mailto:xsznorg@gmail.com)
 - ![Telegram](https://xszn.org/images/icons/telegram.svg) [Telegram](https://t.me/xsznChatBot)
 
-## 📜 许可
+## :scroll: 许可
 
 <div v-if="page.frontmatter.license !== false">
     已获&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND 4.0</a>&nbsp;许可&nbsp;<img
