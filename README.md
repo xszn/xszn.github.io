@@ -42,7 +42,7 @@ npm i
 ### 启动并运行
 
 ```
-npm run docs:dev
+npm run dev
 ```
 
 开发服务应该会运行在 `http://localhost:3000` 上。在浏览器中访问 URL 以查看新站点的运行情况吧！
