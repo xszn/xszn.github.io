@@ -42,3 +42,5 @@ Windows、macOS、Linux
 源码：https://github.com/dail8859/NotepadNext
 
 ## 参考资料
+
+无
