@@ -4,7 +4,7 @@
 
 [行书指南](https://xszn.org/)是一个自由及开放源代码（FOSS）的软件列表项目，推荐高质量免费与开源软件，降低用户寻找软件的时间成本。
 
-## :information: 关于项目
+## :information_source: 关于项目
 
 ### :monocle_face: 如何挑选一款软件
   
