@@ -20,14 +20,13 @@
 
 本项目适用于 Windows、Android 和 Chromium 的用户。
 
-## 安装
+## 📦 安装
 
 ### 前置准备
 
 - [Node.js](https://nodejs.org/zh-cn) 18 及以上版本
-- 通过命令行界面（CLI）访问 VitePress 的终端
-- 支持 [Markdown](https://daringfireball.net/projects/markdown/) 语法的编辑器
-- 推荐 [VSCode](https://code.visualstudio.com/) 及其官方[ Vue 扩展](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+### 克隆项目
 
 ```
 git clone git@github.com:xszn/xszn.github.io.git
@@ -44,8 +43,6 @@ npm i
 ```
 npm run dev
 ```
-
-开发服务应该会运行在 `http://localhost:3000` 上。在浏览器中访问 URL 以查看新站点的运行情况吧！
 
 ## :handshake: 如何贡献
 
