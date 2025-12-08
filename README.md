@@ -45,7 +45,7 @@ npm i
 npm run docs:dev
 ```
 
-开发服务应该会运行在 http://localhost:3000 上。在浏览器中访问 URL 以查看新站点的运行情况吧！
+开发服务应该会运行在 `http://localhost:3000` 上。在浏览器中访问 URL 以查看新站点的运行情况吧！
 
 ## :handshake: 如何贡献
 
