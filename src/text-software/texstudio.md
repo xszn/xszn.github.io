@@ -47,4 +47,3 @@ Windows、macOS、Linux
 2. [documentation - TeXstudio 4.9.0](https://texstudio-org.github.io/)
 3. [TeXstudio - Wikipedia](https://en.wikipedia.org/wiki/TeXstudio)
 4. [Category: TeX editors - Wikipedia](https://en.wikipedia.org/wiki/Category:TeX_editors)
-1

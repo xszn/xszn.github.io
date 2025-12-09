@@ -24,7 +24,7 @@
 
 ### 1. 前置准备
 
-[Node.js](https://nodejs.org/zh-cn) 18 及以上版本
+[Node.js](https://nodejs.org/zh-cn) 18 及以上版本。
 
 ### 2. 克隆项目
 
