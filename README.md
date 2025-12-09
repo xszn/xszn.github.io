@@ -6,7 +6,7 @@
 
 ## :information_source: 关于项目
 
-### :monocle_face: 如何挑选一款软件
+### 如何挑选一款软件
   
 - 免费。专有软件无定价和付费版
 - 开源。项目维护积极和具有现代化 UI
@@ -16,7 +16,7 @@
 
 这些都是综合考虑因素。
 
-## :bust_in_silhouette: 适用于谁
+### 适用于谁
 
 本项目适用于 Windows、Android 和 Chromium 的用户。
 
