@@ -29,7 +29,7 @@ head:
 
 <Img alt="“FileZilla”屏幕截图" src="/images/network-software/filezilla/screenshot.webp" />
 
-FileZilla 是一款FTP 客户端。由客户端和服务器组成，具有多种平台的软件包。不仅支持 FTP，客户端还支持基于 TLS 的 FTP (FTPS) 和 SFTP。
+FileZilla 是一款 FTP 客户端。由客户端和服务器组成，具有多种平台的软件包。不仅支持 FTP，客户端还支持基于 TLS 的 FTP (FTPS) 和 SFTP。
 
 ## 系统平台
 
