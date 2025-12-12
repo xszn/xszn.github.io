@@ -4,14 +4,14 @@ icon: /images/network-software/filezilla/favicon.ico
 title: FTP 客户端：FileZilla
 subheading: FileZilla
 shortdesc: FTP 客户端
-description: 由客户端和服务器组成，具有多种平台的软件包。客户端不仅支持 FTP，还支持基于 TLS 的 FTP (FTPS) 和 SFTP。
+description: 由客户端和服务器组成，具有多种平台的软件包。客户端不仅支持 FTP，还支持基于 TLS 的 FTP（FTPS）和 SFTP。
 head:
   - - meta
     - property: og:title
       content: FTP 客户端：FileZilla
   - - meta
     - property: og:description
-      content: 由客户端和服务器组成，具有多种平台的软件包。客户端不仅支持 FTP，还支持基于 TLS 的 FTP (FTPS) 和 SFTP。
+      content: 由客户端和服务器组成，具有多种平台的软件包。客户端不仅支持 FTP，还支持基于 TLS 的 FTP（FTPS）和 SFTP。
   - - meta
     - property: og:url
       content: https://xszn.org/network-software/filezilla.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“FileZilla”屏幕截图" src="/images/network-software/filezilla/screenshot.webp" />
 
-FileZilla 是一款 FTP 客户端。由客户端和服务器组成，具有多种平台的软件包。不仅支持 FTP，客户端还支持基于 TLS 的 FTP (FTPS) 和 SFTP。
+FileZilla 是一款 FTP 客户端。由客户端和服务器组成，具有多种平台的软件包。不仅支持 FTP，客户端还支持基于 TLS 的 FTP（FTPS）和 SFTP。
 
 ## 系统平台
 
