@@ -43,4 +43,4 @@ Windows、macOS、Linux
 
 ## 参考资料
 
-无
+1. [notepad - GitHub Topics](https://github.com/topics/notepad)
