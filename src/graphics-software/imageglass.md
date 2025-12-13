@@ -43,4 +43,5 @@ Windows
 
 ## 参考资料
 
-1. [Category:Image viewers - Wikipedia](https://en.wikipedia.org/wiki/Category:Image_viewers)
+1. [image-viewer - GitHub Topics](https://github.com/topics/image-viewer)
+2. [Category:Image viewers - Wikipedia](https://en.wikipedia.org/wiki/Category:Image_viewers)
