@@ -14,9 +14,6 @@
                 <p class="font-normal text-gray-700 dark:text-gray-400 truncate">
                     {{ description }}
                 </p>
-                <!-- <div class="flex justify-end">
-                    <Badge type="info" :text="shortdesc" />
-                </div> -->
             </div>
         </fwb-card>
     </div>

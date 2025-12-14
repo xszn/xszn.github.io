@@ -9,11 +9,11 @@ export default [
     ['meta', { property: 'og:image:width', content: '1920' }],
     ['meta', { property: 'og:image:height', content: '1080' }],
     ['meta', { property: 'og:og:image:alt', content: '行书指南，一个软件资源分享网站。' }],
+    ['meta', { property: 'og:locale', content: 'zh_CN' }],
+    ['meta', { property: 'og:site_name', content: '行书指南' }],
     ['meta', { property: 'twitter:card', content: 'summary_large_image' }],
     ['meta', { property: 'twitter:site', content: '@xszn_org' }],
     ['meta', { property: 'twitter:creator', content: '@xszn_org' }],
-    ['meta', { property: 'og:locale', content: 'zh_CN' }],
-    ['meta', { property: 'og:site_name', content: '行书指南' }],
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-TFCW4JSXFB' }],
     [
         'script',
