@@ -1,7 +1,6 @@
 ---
 next: false
 giscus: false
-license: false
 ---
 
 # 软件推荐 <Badge type="warning" text="已归档" />
