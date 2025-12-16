@@ -31,6 +31,14 @@ head:
 
 Clash Verge Rev 是一款代理软件。Clash Verge 的延续。基于 Tauri 的现代化 GUI 客户端，可提供定制化的代理体验。
 
+::: info 相关推荐
+- [V2Ray](https://www.v2fly.org/awesome/tools.html)：一个 Project V 工具集合。
+- [Mihomo](https://wiki.metacubex.one/startup/client/client/)：一个 Clash 生态系统下的三方工具与客户端。
+- [Shadowsocks](https://shadowsocks.org/doc/getting-started.html#gui-clients)：一个 Shadowsocks 图形化客户端。
+- [Xray](https://xtls.github.io/document/install.html#%E5%9B%BE%E5%BD%A2%E5%8C%96%E5%AE%A2%E6%88%B7%E7%AB%AF)：一个 Project X 图形化客户端。
+- [Hysteria](https://v2.hysteria.network/zh/docs/getting-started/3rd-party-apps/)：一个 Hysteria 2 第三方应用。
+:::
+
 ## 系统平台
 
 Windows、macOS、Linux
