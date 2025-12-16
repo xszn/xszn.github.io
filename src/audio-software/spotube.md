@@ -31,6 +31,10 @@ head:
 
 Spotube 是一款音乐搜索器。通过调用 Spotify 的 API 获取歌曲信息，但使用 YouTube Music、Piped 等第三方音源来播放，让用户无需 Premium 会员就能享受无广告、高品质音乐。 
 
+::: info 相关推荐
+[LX Music](lx-music)：一款音乐搜索器。针对国内音乐平台，如某我、某狗、某 Q、某云和某咪。
+:::
+
 ## 系统平台
 
 Android、iOS、Windows、macOS、Linux
