@@ -32,7 +32,7 @@ features:
     details: 提供网络服务功能的专用软件
     link: /network-software/
     linkText: 前往阅读
-  - icon: 🧑‍🎓
+  - icon: 🎓
     title: 教育软件
     details: 为教育服务设计的计算机程序
     link: /educational-software/

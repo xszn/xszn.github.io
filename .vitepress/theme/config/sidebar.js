@@ -5,7 +5,7 @@ export default {
             items: [
                 { text: '⚙️ 系统软件', link: '/system-software/' },
                 { text: '🌐 网络软件', link: '/network-software/' },
-                { text: '🧑‍🎓 教育软件', link: '/educational-software/' },
+                { text: '🎓 教育软件', link: '/educational-software/' },
                 { text: '📱 社交媒体软件', link: '/social-media-software/' },
                 { text: '🎮 电子游戏软件', link: '/video-game-software/' },
                 { text: '💼 生产力软件', link: '/productivity-software/' },
