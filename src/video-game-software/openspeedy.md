@@ -33,7 +33,7 @@ OpenSpeedy 是一款游戏变速器。让游戏突破帧率限制，提供更流
 
 ## 系统平台
 
-<Badge type="tip" text="Windows" />  
+Windows  
 
 ## 下载
 

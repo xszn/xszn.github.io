@@ -1,14 +1,14 @@
 ---
 date: 2025-12-02
 icon: /images/system-software/sysinternals/favicon.ico
-title: Sysinternals 实用工具集：Sysinternals
+title: Sysinternals 工具箱：Sysinternals
 subheading: Sysinternals
-shortdesc: Sysinternals 实用工具集
+shortdesc: Sysinternals 工具箱
 description: 用于管理、诊断、排除故障和监控 Microsoft Windows 环境。
 head:
   - - meta
     - property: og:title
-      content: Sysinternals 实用工具集：Sysinternals
+      content: Sysinternals 工具箱：Sysinternals
   - - meta
     - property: og:description
       content: 用于管理、诊断、排除故障和监控 Microsoft Windows 环境。
@@ -20,7 +20,7 @@ head:
       content: https://xszn.org/images/system-software/sysinternals/screenshot.webp
   - - meta
     - property: og:image:alt
-      content: Sysinternals 实用工具集：Sysinternals
+      content: Sysinternals 工具箱：Sysinternals
 ---
 
 # Sysinternals
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Sysinternals”屏幕截图" src="/images/system-software/sysinternals/screenshot.webp" />
 
-Sysinternals 是一款 Sysinternals 实用工具集。用于管理、诊断、排除故障和监控 Microsoft Windows 环境。
+Sysinternals 是一款 Sysinternals 工具箱。用于管理、诊断、排除故障和监控 Microsoft Windows 环境。
 
 ## 系统平台
 
