@@ -1,5 +1,5 @@
 ---
-date: 2025-12-15
+date: 2025-12-16
 icon: /images/audio-software/aimp/favicon.ico
 title: 音乐播放器：AIMP
 subheading: AIMP

@@ -1,5 +1,5 @@
 ---
-date: 2025-12-15
+date: 2025-12-16
 icon: /images/social-media-software/pear-desktop/favicon.ico
 title: YouTube Music 客户端：Pear Desktop
 subheading: Pear Desktop
