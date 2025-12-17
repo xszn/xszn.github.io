@@ -1,5 +1,5 @@
 ---
-date: 2025-12-01
+date: 2025-12-17
 icon: /images/graphics-software/godsvg/favicon.ico
 title: SVG 编辑器：GodSVG
 subheading: GodSVG
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“GodSVG”屏幕截图" src="/images/graphics-software/godsvg/screenshot.webp" />
 
-GodSVG 是一款SVG 编辑器。直接操作 SVG 的底层 XML 代码，不添加多余的元数据，提供低抽象度的编辑体验，旨在生成干净、高效、优化的 SVG 文件。 
+GodSVG 是一款 SVG 编辑器。直接操作 SVG 的底层 XML 代码，不添加多余的元数据，提供低抽象度的编辑体验，旨在生成干净、高效、优化的 SVG 文件。 
 
 ## 系统平台
 
