@@ -33,7 +33,7 @@ Bitwarden 是一款密码管理器。其设计宗旨是帮助用户在一个高�
 
 ## 系统平台
 
-Web、Android、iOS、Windows、macOS、Linux、浏览器扩展
+Web、Android、iOS、Windows、macOS、Linux、扩展程序
 
 ## 下载
 
@@ -46,15 +46,3 @@ Web、Android、iOS、Windows、macOS、Linux、浏览器扩展
 1. [password-manager - GitHub Topics](https://github.com/topics/password-manager)
 2. [Bitwarden - Wikipedia](https://en.wikipedia.org/wiki/Bitwarden)
 3. [Category: Password managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Password_managers)
-
-<!-- Defend against hackers and data breaches with Bitwarden, the best password manager for securely managing and sharing sensitive information.
-
-Bitwarden is the most trusted password manager for passwords and passkeys at home or at work, on any browser or device. Start with a free trial.
-
-Bitwarden is a freemium open-source password management service that is used to store sensitive information, such as website credentials, in an encrypted vault. It is owned and developed by Bitwarden, Inc.[9]
-
-Bitwarden是一款自由且开源的密码管理服务，用户可在加密的保管库中存储敏感信息（例如网站登录凭据）。Bitwarden平台提供有多种客户端应用程序，包括网页用户界面、桌面应用，浏览器扩展、移动应用以及命令行界面。[7]Bitwarden提供云端托管服务，并支持自行部署解决方案。[8]
-
----
-
-用户可在加密的保管库中存储敏感信息（例如网站登录凭据）。Bitwarden提供云端托管服务，并支持自行部署解决方案。[8] -->

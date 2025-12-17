@@ -33,7 +33,7 @@ uBlock Origin 是一款广告拦截软件。默认会阻止广告和网站追踪
 
 ## 系统平台
 
-浏览器扩展
+扩展程序
 
 ## 下载
 
@@ -46,19 +46,3 @@ uBlock Origin 是一款广告拦截软件。默认会阻止广告和网站追踪
 1. [blocker - GitHub Topics](https://github.com/topics/blocker)
 2. [uBlock Origin - Wikipedia](https://en.wikipedia.org/wiki/UBlock_Origin)
 3. [Category: Ad blocking software - Wikipedia](https://en.wikipedia.org/wiki/Category:Ad_blocking_software)
-
-<!-- uBlock Origin - 免费、开源的广告内容拦截器。对CPU和内存很容易。
-
-uBlock Origin不仅仅是一个 “广告拦截器“，它是一个以CPU和内存效率为主要特征的广谱内容拦截器。
-
-uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-uBlock Origin (uBO) is a CPU and memory-efficient wide-spectrum content blocker for Chromium and Firefox. It blocks ads, trackers, coin miners, popups, annoying anti-blockers, malware sites, etc., by default using EasyList, EasyPrivacy, Peter Lowe's Blocklist, Online Malicious URL Blocklist, and uBO filter lists. There are many other lists available to block even more. Hosts files are also supported. uBO uses the EasyList filter syntax and extends the syntax to work with custom rules and filters.
-
-uBlock Origin (/ˈjuːblɒk/ YOO-blok[5]) is a free and open-source browser extension for content filtering, including ad blocking. The extension is available for Firefox and Chromium-based browsers (such as Chrome, Edge, Brave, and Opera).[6]
-
-uBlock Origin（发音yoo-block，/ˈjuːblɒk/）是一款知名的自由、开源、跨平台内容过滤浏览器扩展[4][5][6]，uBlock Origin默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。[6][7][8]该扩展可在多款浏览器上使用，包括Chrome、Firefox、Edge和Opera。[9][10]
-
----
-
-uBlock Origin默认会阻止广告和网站追踪器，并供用户自行选择过滤其他内容。它是一个以CPU和内存效率为主要特征的广谱内容拦截器。 -->
