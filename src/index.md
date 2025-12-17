@@ -15,9 +15,6 @@ hero:
       text: 开始阅读
       link: /system-software/
     - theme: alt
-      text: 软件推荐 [已归档]
-      link: /software/
-    - theme: alt
       text: 更新日志
       link: /changelog/
 
