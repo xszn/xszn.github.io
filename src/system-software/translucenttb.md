@@ -4,14 +4,14 @@ icon: /images/system-software/translucenttb/favicon.ico
 title: 桌面美化软件：TranslucentTB
 subheading: TranslucentTB
 shortdesc: 桌面美化软件
-description: 能将任务栏设置为透明、半透明或模糊效果，支持动态模式（如窗口最大化时）、高级颜色定制和亚克力毛玻璃效果，极低占用内存和CPU，让桌面更美观，与 Wallpaper Engine 等软件搭配效果更佳。
+description: 能将任务栏设置为透明、半透明或模糊效果，支持动态模式、高级颜色定制和亚克力毛玻璃效果，极低占用内存和 CPU，让桌面更美观，与 Wallpaper Engine 等软件搭配效果更佳。
 head:
   - - meta
     - property: og:title
       content: 桌面美化软件：TranslucentTB
   - - meta
     - property: og:description
-      content: 能将任务栏设置为透明、半透明或模糊效果，支持动态模式（如窗口最大化时）、高级颜色定制和亚克力毛玻璃效果，极低占用内存和CPU，让桌面更美观，与 Wallpaper Engine 等软件搭配效果更佳。
+      content: 能将任务栏设置为透明、半透明或模糊效果，支持动态模式、高级颜色定制和亚克力毛玻璃效果，极低占用内存和 CPU，让桌面更美观，与 Wallpaper Engine 等软件搭配效果更佳。
   - - meta
     - property: og:url
       content: https://xszn.org/system-software/translucenttb.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“TranslucentTB”屏幕截图" src="/images/system-software/translucenttb/screenshot.webp" />
 
-TranslucentTB 是一款桌面美化软件。能将任务栏设置为透明、半透明或模糊效果，支持动态模式（如窗口最大化时）、高级颜色定制和亚克力毛玻璃效果，极低占用内存和CPU，让桌面更美观，与 Wallpaper Engine 等软件搭配效果更佳。
+TranslucentTB 是一款桌面美化软件。能将任务栏设置为透明、半透明或模糊效果，支持动态模式、高级颜色定制和亚克力毛玻璃效果，极低占用内存和 CPU，让桌面更美观，与 Wallpaper Engine 等软件搭配效果更佳。
 
 ## 系统平台
 
