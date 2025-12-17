@@ -1,14 +1,14 @@
 ---
 date: 2025-12-17
 icon: /images/social-media-software/grayjay/favicon.ico
-title: 聚合器：Grayjay
+title: 视频聚合器：Grayjay
 subheading: Grayjay
-shortdesc: 聚合器
+shortdesc: 视频聚合器
 description: 将来自 YouTube、PeerTube、Twitch 等多个平台的视频内容整合到一个应用程序中，无需在不同平台之间切换。
 head:
   - - meta
     - property: og:title
-      content: 聚合器：Grayjay
+      content: 视频聚合器：Grayjay
   - - meta
     - property: og:description
       content: 将来自 YouTube、PeerTube、Twitch 等多个平台的视频内容整合到一个应用程序中，无需在不同平台之间切换。
@@ -20,7 +20,7 @@ head:
       content: https://xszn.org/images/social-media-software/grayjay/screenshot.webp
   - - meta
     - property: og:image:alt
-      content: 聚合器：Grayjay
+      content: 视频聚合器：Grayjay
 ---
 
 # Grayjay
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Grayjay”屏幕截图" src="/images/social-media-software/grayjay/screenshot.webp" />
 
-Grayjay 是一款聚合器。将来自 YouTube、PeerTube、Twitch 等多个平台的视频内容整合到一个应用程序中，无需在不同平台之间切换。
+Grayjay 是一款视频聚合器。将来自 YouTube、PeerTube、Twitch 等多个平台的视频内容整合到一个应用程序中，无需在不同平台之间切换。
 
 ## 系统平台
 
