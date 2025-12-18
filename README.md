@@ -66,6 +66,6 @@ npm run dev
     style="max-width: 1em;max-height:1em;margin-left: .2em;">
 </div>
 
-## :chart_increasing: Star History
+## :chart_with_upwards_trend: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xszn/xszn.github.io&type=timeline&logscale&legend=top-left)](https://www.star-history.com/#xszn/xszn.github.io&type=timeline&logscale&legend=top-left)
