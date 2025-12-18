@@ -43,4 +43,4 @@ Android、Windows、macOS、Linux
 
 ## 参考资料
 
-1. [Telegram - GitHub 主题](https://github.com/topics/telegram)
+1. [Telegram - GitHub Topics](https://github.com/topics/telegram)

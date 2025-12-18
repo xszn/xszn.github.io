@@ -65,3 +65,7 @@ npm run dev
     src="src/public/images/icons/nd.svg" alt=""
     style="max-width: 1em;max-height:1em;margin-left: .2em;">
 </div>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xszn/xszn.github.io&type=timeline&logscale&legend=top-left)](https://www.star-history.com/#xszn/xszn.github.io&type=timeline&logscale&legend=top-left)
