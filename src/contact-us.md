@@ -38,7 +38,7 @@ const members = [
       联系我们
     </template>
     <template #lead>
-      提交项目、合作广告、友情链接
+      有什么想法，和我们说说
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members />
