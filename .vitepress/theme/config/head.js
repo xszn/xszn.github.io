@@ -50,4 +50,5 @@ export default [
         gtag('js', new Date());
         gtag('config', 'G-TFCW4JSXFB');`,
   ],
+  ["script", {}, `(adsbygoogle = window.adsbygoogle || []).push({});`],
 ];
