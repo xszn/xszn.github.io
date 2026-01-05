@@ -5,11 +5,15 @@ next: false
 
 # 更新日志
 
-增加新软件、移除和修改变更记录。
+::: info
+增加新软件记录。
+:::
 
-<ul v-for="log of changelog">
+<ul v-for="log of changelog.filter(item => 
+    typeof item.frontmatter.date === 'string'
+)">
     <li>
-        <a :href="log.url">{{ log.frontmatter.date }} 年</a>
+        {{ log.frontmatter.date.slice(0, 10) }}：<a :href="log.url">{{ log.url.replace(/\.html$/, '') }}</a>
     </li>
 </ul>
 
