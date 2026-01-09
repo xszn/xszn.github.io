@@ -29,7 +29,7 @@ head:
 
 <Img alt="“Vencord”屏幕截图" src="/images/social-media-software/vencord/screenshot.webp" />
 
-Vencord 是一款Discord 客户端。号称最可爱的 Discord 修改版。提供超过 100 个内置插件，支持自定义 CSS 主题，具有轻量级设计、浏览器兼容性强、隐私友好等特点。支持跨设备设置同步功能。
+Vencord 是一款 Discord 客户端。号称最可爱的 Discord 修改版。提供超过 100 个内置插件，支持自定义 CSS 主题，具有轻量级设计、浏览器兼容性强、隐私友好等特点。支持跨设备设置同步功能。
 
 ## 系统平台
 

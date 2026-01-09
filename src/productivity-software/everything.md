@@ -44,21 +44,5 @@ Windows
 ## 参考资料
 
 1. [常见问题 - voidtools](https://www.voidtools.com/zh-cn/faq/#everything_%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
-2. [Everything (software) - Wikipedia](https://en.wikipedia.org/wiki/Everything_(software))
+2. [Everything (software) - Wikipedia](<https://en.wikipedia.org/wiki/Everything_(software)>)
 3. [Category:Desktop search engines - Wikipedia](https://en.wikipedia.org/wiki/Category:Desktop_search_engines)
-
-<!-- 基于名称快速定位文件和文件夹。
-
-"Everything" 是 Windows 上一款搜索引擎，它能够基于文件名快速定文件和文件夹位置。
-
-不像 Windows 内置搜索，"Everything" 默认显示电脑上每个文件和文件夹 (就如其名 "Everything")。
-
-您在搜索框输入的关键词将会筛选显示的文件和文件夹。
-
-Everything is a freeware desktop search utility for Windows that can rapidly find files and folders by name. While the binaries are licensed under a permissive licence identical to the MIT License,[3] it is not open-source.
-
-Everything为私有的免费Windows桌面搜索工具，可以在NTFS卷上快速地根据名称查找文件和目录，由大卫·卡彭特（David Carpenter）开发。
-
----
-
-它能够基于文件名快速定文件和文件夹位置。不像 Windows 内置搜索，"Everything" 默认显示电脑上每个文件和文件夹 (就如其名 "Everything")。您在搜索框输入的关键词将会筛选显示的文件和文件夹。 -->

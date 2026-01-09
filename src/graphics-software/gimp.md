@@ -49,18 +49,3 @@ Windows、macOS、Linux
 
 1. [GIMP - Wikipedia](https://en.wikipedia.org/wiki/GIMP)
 2. [Category: Raster graphics editors - Wikipedia](https://en.wikipedia.org/wiki/Category:Raster_graphics_editors)
-
-<!-- GIMP is a cross-platform image editor available for GNU/Linux, macOS, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
-
-GIMP - The GNU Image Manipulation Program: The Free and Open Source Image Editor
-
-The GNU Image Manipulation Program, commonly known by its acronym GIMP (/ɡɪmp/ ⓘ GHIMP), is a free and open-source raster graphics editor.[3]
-It is commonly used for photo retouching, image editing, free-hand drawing, and converting between different image file formats.
-GIMP is freely available on Windows, Linux and macOS. It is licensed under the GNU General Public License (GPL 3.0 or later). The project is supported by a community of volunteers. Users are encouraged to contribute.[4]
-GIMP supports plugins and scripting, allowing users to extend its features and automate tasks. While it is not primarily designed for drawing, some artists and creators still use it for that purpose.[5]
-
-GIMP（名称由GNU Image Manipulation Program的首字母组成，意为“GNU图像处理程序”）是一个自由及开放源代码的图片编辑器，用于图像照片润饰及编辑、自由绘图、调整大小、裁剪、照片蒙太奇、转换图像格式以及其他专业任务。
-
----
-
-用于图像照片润饰及编辑、自由绘图、调整大小、裁剪、照片蒙太奇、转换图像格式以及其他专业任务。GIMP支持插件和脚本，允许用户扩展其功能并自动化任务。 -->

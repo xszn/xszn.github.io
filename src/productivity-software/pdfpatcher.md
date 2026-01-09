@@ -29,7 +29,7 @@ head:
 
 <Img alt="“PDFPatcher”屏幕截图" src="/images/productivity-software/pdfpatcher/screenshot.webp" />
 
-PDFPatcher 是一款PDF 软件。编辑书签、编辑/删除页面、调整顺序 OCR、生成/合并/拆分 PDF、提取图片、转换字库（避免乱码）。
+PDFPatcher 是一款 PDF 软件。编辑书签、编辑/删除页面、调整顺序 OCR、生成/合并/拆分 PDF、提取图片、转换字库（避免乱码）。
 
 ## 系统平台
 
@@ -45,7 +45,3 @@ Windows
 
 1. [PDF 软件列表 - 维基百科](https://zh.wikipedia.org/wiki/PDF%E8%BB%9F%E9%AB%94%E5%88%97%E8%A1%A8)
 2. [Category: PDF software - Wikipedia](https://en.wikipedia.org/wiki/Category:PDF_software)
-
-<!-- PDF补丁丁是一个用于修改PDF文件信息的工具。
-
-编辑书签、编辑/删除页面、调整顺序 OCR、生成/合并/拆分 PDF、提取图片、转换字库（避免乱码）。 -->

@@ -49,11 +49,3 @@ Windows、macOS、Linux
 
 1. [mirroring - GitHub Topics](https://github.com/topics/mirroring)
 2. [scrcpy - Wikipedia](https://en.wikipedia.org/wiki/Scrcpy)
-
-<!-- Display and control your Android device
-
-此程序可将通过 USB 或 TCP/IP 连接的 Android 设备镜像至电脑（视频和音频皆可），且可直接使用计算机的键盘和鼠标进行操作，无需 root 权限，也无需在设备端安装任何应用。支持 Linux、Windows 和 macOS 系统。
-
----
-
-此程序可将通过USB 或TCP/IP 连接的Android 设备镜像至电脑（视频和音频皆可），且可直接使用计算机的键盘和鼠标进行操作，无需root 权限，也无需在设备端安装任何应用。 -->

@@ -29,7 +29,7 @@ head:
 
 <Img alt="“AyuGram”屏幕截图" src="/images/social-media-software/ayugram/screenshot.webp" />
 
-AyuGram 是一款Telegram 客户端。提供了官方客户端所没有的、旨在提升用户体验和生活便利性的独特功能，虽然具体功能需查阅其官方介绍，但其核心价值在于“普通客户端无法实现的功能”。
+AyuGram 是一款 Telegram 客户端。提供了官方客户端所没有的、旨在提升用户体验和生活便利性的独特功能，虽然具体功能需查阅其官方介绍，但其核心价值在于“普通客户端无法实现的功能”。
 
 ## 系统平台
 

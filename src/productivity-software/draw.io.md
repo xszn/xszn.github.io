@@ -47,19 +47,3 @@ Web、Windows、macOS、Linux
 2. [Documentation - draw.io](https://www.drawio.com/doc/)
 3. [diagrams.net - Wikipedia](https://en.wikipedia.org/wiki/Diagrams.net)
 4. [Category: Diagramming software - Wikipedia](https://en.wikipedia.org/wiki/Category:Diagramming_software)
-
-<!-- Security-first diagramming for teams.
-
-draw.io and our online editor are the leading solutions for web based sketching and diagramming functionality. You can use our online editor with various storage platforms, and offline with our standalone desktop app.
-
-Official electron build of draw.io
-
-drawio-desktop is a diagramming desktop app based on Electron that wraps the core draw.io editor.
-
-diagrams.net (previously draw.io[2][3]) is a cross-platform graph drawing software application developed in HTML5 and JavaScript.[4] Its interface can be used to create diagrams such as flowcharts, wireframes, UML diagrams, organizational charts, and network diagrams.[5]
-
-diagrams.net（旧称 draw.io[2][3]）是一个以HTML5和JavaScript写成的跨平台绘图自由及开放源代码软件。[4] 它的页面可被用来创造许多图解，例如流程图、网页线框稿、 统一塑模语言图解、组织结构图和电脑网络图解。[5]
-
----
-
-它的界面可用于创建流程图、线框图、UML 图、组织结构图和网络图等图表。也可以使用我们的独立桌面应用程序离线使用。 -->

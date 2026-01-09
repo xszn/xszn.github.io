@@ -45,13 +45,3 @@ Windows、macOS、Linux
 
 1. [FileZilla - Wikipedia](https://en.wikipedia.org/wiki/FileZilla)
 2. [Category: FTP clients - Wikipedia](https://en.wikipedia.org/wiki/Category:FTP_clients)
-
-<!-- Welcome to the homepage of FileZilla®, the free FTP solution. The FileZilla Client not only supports FTP, but also FTP over TLS (FTPS) and SFTP. It is open source software distributed free of charge under the terms of the GNU General Public License.
-
-FileZilla is a free and open-source, cross-platform FTP application, consisting of FileZilla Client and FileZilla Server. Clients are available for Windows, Linux, and macOS. Both server and client support FTP and FTPS (FTP over SSL/TLS), while the client can in addition connect to SFTP servers. FileZilla's source code is hosted on SourceForge.
-
-FileZilla是一种免费的FTP客户端以及服务器端开放源代码程序，具有多种平台的软件包，可以在Windows，Linux和macOS平台上运行。服务器和客户端都支持FTP和FTPS（FTP over SSL/TLS），而客户端还可以连接到SFTP服务器。
-
----
-
-由 FileZilla 客户端和 FileZilla 服务器组成，具有多种平台的软件包。不仅支持 FTP，还支持基于 TLS 的 FTP (FTPS) 和 SFTP。 -->

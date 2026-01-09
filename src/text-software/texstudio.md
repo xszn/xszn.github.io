@@ -4,14 +4,14 @@ icon: /images/text-software/texstudio/favicon.ico
 title: LaTex 编辑器：TeXstudio
 subheading: TeXstudio
 shortdesc: LaTex 编辑器
-description: 集成了代码高亮、自动补全、语法检查、错误分析和便捷的编译与预览功能，大大提升了编写 LaTeX 文档的效率和舒适度，特别适合学术写作和复杂排版。 
+description: 集成了代码高亮、自动补全、语法检查、错误分析和便捷的编译与预览功能，大大提升了编写 LaTeX 文档的效率和舒适度，特别适合学术写作和复杂排版。
 head:
   - - meta
     - property: og:title
       content: LaTex 编辑器：TeXstudio
   - - meta
     - property: og:description
-      content: 集成了代码高亮、自动补全、语法检查、错误分析和便捷的编译与预览功能，大大提升了编写 LaTeX 文档的效率和舒适度，特别适合学术写作和复杂排版。 
+      content: 集成了代码高亮、自动补全、语法检查、错误分析和便捷的编译与预览功能，大大提升了编写 LaTeX 文档的效率和舒适度，特别适合学术写作和复杂排版。
   - - meta
     - property: og:url
       content: https://xszn.org/text-software/texstudio.html
@@ -29,7 +29,7 @@ head:
 
 <Img alt="“TeXstudio”屏幕截图" src="/images/text-software/texstudio/screenshot.webp" />
 
-TeXstudio 是一款LaTex 编辑器。集成了代码高亮、自动补全、语法检查、错误分析和便捷的编译与预览功能，大大提升了编写 LaTeX 文档的效率和舒适度，特别适合学术写作和复杂排版。 
+TeXstudio 是一款 LaTex 编辑器。集成了代码高亮、自动补全、语法检查、错误分析和便捷的编译与预览功能，大大提升了编写 LaTeX 文档的效率和舒适度，特别适合学术写作和复杂排版。
 
 ## 系统平台
 
