@@ -1,6 +1,6 @@
 # Network software
 
-## Ad blockers
+## Ad blocking software
 
 - [AdBlock](https://getadblock.com/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock.webp)
   - [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock-plus.webp)
@@ -15,28 +15,21 @@
 - [Page Assist](https://pageassist.xyz/) / [github](https://github.com/n4ze3m/page-assist)
 - [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk)
 
-::: details
-
-1. [ai-assistant · GitHub Topics](https://github.com/topics/ai-assistant)
-   :::
-
 ## Captcha solvers
 
-- Buster / [browser] / [github](https://github.com/dessant/buster)
-- [NopeCHA](https://nopecha.com/) / [browser] / [github](https://github.com/NopeCHALLC/nopecha-extension)
+- [Buster](https://github.com/dessant/buster) / [browser] / ![](/images/software/network/buster.webp)
+- [NopeCHA](https://nopecha.com/) / [browser] / [github](https://github.com/NopeCHALLC/nopecha-extension) / ![](/images/software/network/nopecha.webp)
 
 ## Download managers
 
-- [JDownloader](https://jdownloader.org/)
-- [Motrix](https://motrix.app/) / [github](https://github.com/agalwood/Motrix), [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next)
-- [AB Download Manager](https://abdownloadmanager.com/) / [github](https://github.com/amir1376/ab-download-manager)
-- [Gopeed](https://gopeed.com/) / [github](https://github.com/GopeedLab/gopeed)
-
-::: details
-
-1. [download-manager · GitHub Topics](https://github.com/topics/download-manager)
-2. [Category:Download managers - Wikipedia](https://en.wikipedia.org/wiki/Category:Download_managers)
-   :::
+- [JDownloader](https://jdownloader.org/) / ![](/images/software/network/jdownloader.webp)
+- [Motrix](https://motrix.app/) / [github](https://github.com/agalwood/Motrix) / ![](/images/software/network/motrix.webp)
+  - [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next) / ![](/images/software/network/motrix-next.webp)
+- [aria2](https://aria2.github.io/) / [cli] / [github](https://github.com/aria2/aria2)
+  - [AriaNg](http://ariang.mayswind.net/) / [web] / [github](https://github.com/mayswind/AriaNg) / ![](/images/software/network/ariang.webp)
+  - [AriaNg Native](https://ariang.mayswind.net/) / [github](https://github.com/mayswind/AriaNg-Native) / ![](/images/software/network/ariang-native.webp)
+- [Gopeed](https://gopeed.com/) / [github](https://github.com/GopeedLab/gopeed) / ![](/images/software/network/gopeed.webp)
+- [AB Download Manager](https://abdownloadmanager.com/) / [github](https://github.com/amir1376/ab-download-manager) / ![](/images/software/network/ab-download-manager.webp)
 
 ## File sharing software
 
