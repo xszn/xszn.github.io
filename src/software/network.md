@@ -5,15 +5,15 @@
 - [AdBlock](https://getadblock.com/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock.webp)
   - [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock-plus.webp)
 - [uBlock Origin](https://ublockorigin.com/) / [browser] / [github](https://github.com/gorhill/uBlock) / ![](/images/software/network/ublock-origin.webp)
-- [SponsorBlock](https://sponsor.ajay.app/) - Skip YouTube sponsors / [browser] / [github](https://github.com/ajayyy/SponsorBlock)
+- [SponsorBlock](https://sponsor.ajay.app/) - Skip YouTube sponsors / [browser] / [github](https://github.com/ajayyy/SponsorBlock) / ![](/images/software/network/sponsorblock.webp)
 - [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway) / ![](/images/software/network/adaway.webp)
 
 ## AI assistants
 
-- [Tabby](https://www.tabbyml.com/) / [github](https://github.com/TabbyML/tabby)
-- [QwenPaw](https://qwenpaw.agentscope.io/) / [github](https://github.com/agentscope-ai/QwenPaw)
-- [Page Assist](https://pageassist.xyz/) / [github](https://github.com/n4ze3m/page-assist)
-- [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk)
+- [QwenPaw](https://qwenpaw.agentscope.io/) / [github](https://github.com/agentscope-ai/QwenPaw) / ![](/images/software/network/qwenpaw.webp)
+- [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk) / ![](/images/software/network/aingdesk.webp)
+- [N.E.K.O.](https://project-neko.online/) / [github](https://github.com/Project-N-E-K-O/N.E.K.O) / ![](/images/software/network/project-neko.webp)
+<!-- - [Page Assist](https://pageassist.xyz/) / [github](https://github.com/n4ze3m/page-assist) -->
 
 ## Captcha solvers
 
@@ -33,17 +33,15 @@
 
 ## File sharing software
 
-- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend)
-- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc)
-- B0Pass / [cli] / [github](https://github.com/jinsi-ai/b0pass)
-- FlyingCarpet / [android] / [github](https://github.com/spieglt/FlyingCarpet)
+### P2P file sharing clients
 
-::: details
+- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend) / ![](/images/software/network/localsend.webp)
+- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc) / ![](/images/software/network/croc.webp)
+- [AltSendme](https://www.altsendme.com/) / [github](https://github.com/tonyantony300/alt-sendme) / ![](/images/software/network/altsendme.webp)
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) / ![](/images/software/network/flying-carpet.webp)
+- [File Transfer](https://transfer.52python.cn/) / [web] / [github](https://github.com/MatrixSeven/file-transfer-go) / ![](/images/software/network/file-transfer.webp)
 
-1. [file-sharing · GitHub Topics](https://github.com/topics/file-sharing)
-2. [file-transfer · GitHub Topics](https://github.com/topics/file-transfer)
-3. [Category:File sharing software - Wikipedia](https://en.wikipedia.org/wiki/Category:File_sharing_software)
-   :::
+## File transfer software
 
 ### FTP clients
 
