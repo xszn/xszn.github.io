@@ -10,10 +10,9 @@
 
 ## AI 助手
 
-- [Tabby](https://www.tabbyml.com/) / [github](https://github.com/TabbyML/tabby)
-- [QwenPaw](https://qwenpaw.agentscope.io/) / [github](https://github.com/agentscope-ai/QwenPaw)
-- [Page Assist](https://pageassist.xyz/) / [github](https://github.com/n4ze3m/page-assist)
-- [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk)
+- [QwenPaw](https://qwenpaw.agentscope.io/) / [github](https://github.com/agentscope-ai/QwenPaw) / ![](/images/software/network/qwenpaw.webp)
+- [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk) / ![](/images/software/network/aingdesk.webp)
+- [N.E.K.O.](https://project-neko.online/) / [github](https://github.com/Project-N-E-K-O/N.E.K.O) / ![](/images/software/network/project-neko.webp)
 
 ## 验证码识别工具 {#captcha-solvers}
 
@@ -31,21 +30,19 @@
 - [Gopeed](https://gopeed.com/) / [github](https://github.com/GopeedLab/gopeed) / ![](/images/software/network/gopeed.webp)
 - [AB Download Manager](https://abdownloadmanager.com/) / [github](https://github.com/amir1376/ab-download-manager) / ![](/images/software/network/ab-download-manager.webp)
 
-## 文件传输工具
+## 文件共享软件 {#file-sharing-software}
 
-- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend)
-- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc)
-- B0Pass / [cli] / [github](https://github.com/jinsi-ai/b0pass)
-- FlyingCarpet / [android] / [github](https://github.com/spieglt/FlyingCarpet)
+### P2P 文件共享客户端 {#p2p-file-sharing-clients}
 
-::: details
+- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend) / ![](/images/software/network/localsend.webp)
+- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc) / ![](/images/software/network/croc.webp)
+- [AltSendme](https://www.altsendme.com/) / [github](https://github.com/tonyantony300/alt-sendme) / ![](/images/software/network/altsendme.webp)
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) / ![](/images/software/network/flying-carpet.webp)
+- [File Transfer](https://transfer.52python.cn/) / [web] / [github](https://github.com/MatrixSeven/file-transfer-go) / ![](/images/software/network/file-transfer.webp)
 
-1. [file-sharing · GitHub Topics](https://github.com/topics/file-sharing)
-2. [file-transfer · GitHub Topics](https://github.com/topics/file-transfer)
-3. [Category:File sharing software - Wikipedia](https://en.wikipedia.org/wiki/Category:File_sharing_software)
-   :::
+## 文件传输工具 {#file-transfer-software}
 
-### FTP 客户端
+### FTP 客户端 {#ftp-clients}
 
 - [FileZilla](https://filezilla-project.org/)
 - [WinSCP](https://winscp.net/) / [windows] / [github](https://github.com/winscp/winscp)
