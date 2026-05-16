@@ -26,13 +26,13 @@
 - [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac 替代品 / [apple] / ![](/images/software/system/puremac.webp)
 - [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
 
-### 磁盘分区工具 {#disk-partitioning-software}
+### 磁盘分区软件 {#disk-partitioning-software}
 
 - [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
 - [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
 - [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
 
-## 数据管理工具 {#data-management-software}
+## 数据管理软件 {#data-management-software}
 
 ### 压缩软件 {#file-archivers}
 
@@ -42,6 +42,8 @@
 - [PeaZip](https://peazip.github.io/) - WinRAR, WinZip 替代品 / [github](https://github.com/peazip/PeaZip/) / ![](/images/software/system/peazip.webp)
 - [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka) / ![](/images/software/system/keka.webp)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
+
+### [文件传输软件](network#file-transfer-software) {#file-transfer-software}
 
 ## 输入法 {#input-methods}
 
@@ -72,15 +74,23 @@
 - [KeePass](https://keepass.info/) / [indexes](https://keepass.info/download.html) / [sourceforge](https://sourceforge.net/projects/keepass/) / ![](/images/software/system/keepass.webp)
   - [KeePassXC](https://keepassxc.org/) / [github](https://github.com/keepassxreboot/keepassxc) / ![](/images/software/system/keepassxc.webp)
   - [KeeWeb](https://keeweb.info/) / [github](https://github.com/keeweb/keeweb) / ![](/images/software/system/keeweb.webp)
+  - [MacPass](https://macpassapp.org/) / [apple] / [github](https://github.com/MacPass/MacPass)
+  - [KeePassDX](https://www.keepassdx.com/) / [android] / [github](https://github.com/Kunzisoft/KeePassDX)
+  - [Keepass2Android](https://github.com/PhilippC/keepass2android) / [android]
 - [Gopass](https://www.gopass.pw/) / [cli] / [github](https://github.com/gopasspw/gopass) / ![](/images/software/system/gopass.webp)
 - [LessPass](https://www.lesspass.com/) - 无状态密码管理器 / [web] / [github](https://github.com/lesspass/lesspass) / ![](/images/software/system/lesspass.webp)
+- [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
 
 ## 卸载软件 {#uninstallers}
 
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [windows] / [github](https://github.com/Klocman/Bulk-Crap-Uninstaller) / ![](/images/software/system/bulk-crap-uninstaller.webp)
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [apple] / [github](https://github.com/alienator88/Pearcleaner) / ![](/images/software/system/pearcleaner.webp)
 
-## 实用工具 {#utility-software}
+## 实用软件 {#utility-software}
+
+### Linux 实用工具 {#linux-utility}
+
+未完成。
 
 ### Mac 实用工具 {#mac-utility}
 

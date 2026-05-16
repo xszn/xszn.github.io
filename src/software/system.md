@@ -43,6 +43,8 @@
 - [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka) / ![](/images/software/system/keka.webp)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
 
+### [File transfer software](network#file-transfer-software)
+
 ## Input methods
 
 - [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard) / ![](/images/software/system/florisboard.webp)
@@ -72,8 +74,12 @@
 - [KeePass](https://keepass.info/) / [indexes](https://keepass.info/download.html) / [sourceforge](https://sourceforge.net/projects/keepass/) / ![](/images/software/system/keepass.webp)
   - [KeePassXC](https://keepassxc.org/) / [github](https://github.com/keepassxreboot/keepassxc) / ![](/images/software/system/keepassxc.webp)
   - [KeeWeb](https://keeweb.info/) / [github](https://github.com/keeweb/keeweb) / ![](/images/software/system/keeweb.webp)
+  - [MacPass](https://macpassapp.org/) / [apple] / [github](https://github.com/MacPass/MacPass)
+  - [KeePassDX](https://www.keepassdx.com/) / [android] / [github](https://github.com/Kunzisoft/KeePassDX)
+  - [Keepass2Android](https://github.com/PhilippC/keepass2android) / [android]
 - [Gopass](https://www.gopass.pw/) / [cli] / [github](https://github.com/gopasspw/gopass) / ![](/images/software/system/gopass.webp)
 - [LessPass](https://www.lesspass.com/) - Stateless password manager / [web] / [github](https://github.com/lesspass/lesspass) / ![](/images/software/system/lesspass.webp)
+- [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
 
 ## Uninstallers
 
@@ -81,6 +87,10 @@
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [apple] / [github](https://github.com/alienator88/Pearcleaner) / ![](/images/software/system/pearcleaner.webp)
 
 ## Utility software
+
+### Linux utility
+
+Unfinished.
 
 ### Mac utility
 

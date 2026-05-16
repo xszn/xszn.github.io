@@ -3,16 +3,10 @@
 ## 广告拦截软件 {#ad-blocking-software}
 
 - [AdBlock](https://getadblock.com/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock.webp)
-  - [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock-plus.webp)
+- [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock-plus.webp)
 - [uBlock Origin](https://ublockorigin.com/) / [browser] / [github](https://github.com/gorhill/uBlock) / ![](/images/software/network/ublock-origin.webp)
 - [SponsorBlock](https://sponsor.ajay.app/) - 跳过 YouTube 广告 / [browser] / [github](https://github.com/ajayyy/SponsorBlock)
 - [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway) / ![](/images/software/network/adaway.webp)
-
-## AI 助手
-
-- [QwenPaw](https://qwenpaw.agentscope.io/) / [github](https://github.com/agentscope-ai/QwenPaw) / ![](/images/software/network/qwenpaw.webp)
-- [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk) / ![](/images/software/network/aingdesk.webp)
-- [N.E.K.O.](https://project-neko.online/) / [github](https://github.com/Project-N-E-K-O/N.E.K.O) / ![](/images/software/network/project-neko.webp)
 
 ## 验证码识别工具 {#captcha-solvers}
 
@@ -23,24 +17,14 @@
 
 - [JDownloader](https://jdownloader.org/) / ![](/images/software/network/jdownloader.webp)
 - [Motrix](https://motrix.app/) / [github](https://github.com/agalwood/Motrix) / ![](/images/software/network/motrix.webp)
-  - [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next) / ![](/images/software/network/motrix-next.webp)
+- [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next) / ![](/images/software/network/motrix-next.webp)
 - [aria2](https://aria2.github.io/) / [cli] / [github](https://github.com/aria2/aria2)
   - [AriaNg](http://ariang.mayswind.net/) / [web] / [github](https://github.com/mayswind/AriaNg) / ![](/images/software/network/ariang.webp)
   - [AriaNg Native](https://ariang.mayswind.net/) / [github](https://github.com/mayswind/AriaNg-Native) / ![](/images/software/network/ariang-native.webp)
 - [Gopeed](https://gopeed.com/) / [github](https://github.com/GopeedLab/gopeed) / ![](/images/software/network/gopeed.webp)
 - [AB Download Manager](https://abdownloadmanager.com/) / [github](https://github.com/amir1376/ab-download-manager) / ![](/images/software/network/ab-download-manager.webp)
 
-## 文件共享软件 {#file-sharing-software}
-
-### P2P 文件共享客户端 {#p2p-file-sharing-clients}
-
-- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend) / ![](/images/software/network/localsend.webp)
-- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc) / ![](/images/software/network/croc.webp)
-- [AltSendme](https://www.altsendme.com/) / [github](https://github.com/tonyantony300/alt-sendme) / ![](/images/software/network/altsendme.webp)
-- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) / ![](/images/software/network/flying-carpet.webp)
-- [File Transfer](https://transfer.52python.cn/) / [web] / [github](https://github.com/MatrixSeven/file-transfer-go) / ![](/images/software/network/file-transfer.webp)
-
-## 文件传输工具 {#file-transfer-software}
+## 文件传输软件 {#file-transfer-software}
 
 ### FTP 客户端 {#ftp-clients}
 
@@ -50,11 +34,13 @@
 - [File Centipede](https://filecxx.com/) / [github](https://github.com/filecxx/FileCentipede)
 - Termscp / [cli] / [github](https://github.com/veeso/termscp)
 
-::: details
+### P2P 文件共享客户端 {#p2p-file-sharing-clients}
 
-1. [ftp-client · GitHub Topics](https://github.com/topics/ftp-client)
-2. [Category:FTP clients - Wikipedia](https://en.wikipedia.org/wiki/Category:FTP_clients)
-   :::
+- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend) / ![](/images/software/network/localsend.webp)
+- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc) / ![](/images/software/network/croc.webp)
+- [AltSendme](https://www.altsendme.com/) / [github](https://github.com/tonyantony300/alt-sendme) / ![](/images/software/network/altsendme.webp)
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) / ![](/images/software/network/flying-carpet.webp)
+- [File Transfer](https://transfer.52python.cn/) / [web] / [github](https://github.com/MatrixSeven/file-transfer-go) / ![](/images/software/network/file-transfer.webp)
 
 ## 智能家居软件
 
