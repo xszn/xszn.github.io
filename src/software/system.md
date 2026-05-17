@@ -6,32 +6,6 @@
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![](/images/software/system/rufus.webp)
 - [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
 
-## Desktop environments
-
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
-- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
-- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
-
-## Storage software
-
-### Data recovery software
-
-- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
-- [Digler](https://github.com/ostafen/digler)
-
-### Disk cleaners
-
-- [Mole](https://mole.fit/) / [github](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
-- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
-- [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac alternatives / [apple] / ![](/images/software/system/puremac.webp)
-- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
-
-### Disk partitioning software
-
-- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
-- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
-- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
-
 ## Data management software
 
 ### File archivers
@@ -44,6 +18,12 @@
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
 
 ### [File transfer software](network#file-transfer-software)
+
+## Desktop environments
+
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
+- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
+- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
 
 ## Input methods
 
@@ -80,6 +60,26 @@
 - [Gopass](https://www.gopass.pw/) / [cli] / [github](https://github.com/gopasspw/gopass) / ![](/images/software/system/gopass.webp)
 - [LessPass](https://www.lesspass.com/) - Stateless password manager / [web] / [github](https://github.com/lesspass/lesspass) / ![](/images/software/system/lesspass.webp)
 - [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
+
+## Storage software
+
+### Data recovery software
+
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
+- [Digler](https://github.com/ostafen/digler)
+
+### Disk cleaners
+
+- [Mole](https://mole.fit/) / [github](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
+- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
+- [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac alternatives / [apple] / ![](/images/software/system/puremac.webp)
+- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
+
+### Disk partitioning software
+
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
+- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
+- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
 
 ## Uninstallers
 

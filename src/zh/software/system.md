@@ -6,32 +6,6 @@
 - [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus) / ![](/images/software/system/rufus.webp)
 - [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
 
-## 桌面美化软件 {#desktop-environments}
-
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
-- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
-- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
-
-## 存储软件 {#storage-software}
-
-### 数据恢复软件 {#data-recovery-software}
-
-- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
-- [Digler](https://github.com/ostafen/digler)
-
-### 磁盘清理工具 {#disk-cleaners}
-
-- [Mole](https://mole.fit/) / [github](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
-- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
-- [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac 替代品 / [apple] / ![](/images/software/system/puremac.webp)
-- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
-
-### 磁盘分区软件 {#disk-partitioning-software}
-
-- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
-- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
-- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
-
 ## 数据管理软件 {#data-management-software}
 
 ### 压缩软件 {#file-archivers}
@@ -44,6 +18,12 @@
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android] / ![](/images/software/system/zipxtract.webp)
 
 ### [文件传输软件](network#file-transfer-software) {#file-transfer-software}
+
+## 桌面美化软件 {#desktop-environments}
+
+- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui) / ![](/images/software/system/seelen-ui.webp)
+- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter) / ![](/images/software/system/rainmeter.webp)
+- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell) / ![](/images/software/system/cairo.webp)
 
 ## 输入法 {#input-methods}
 
@@ -80,6 +60,26 @@
 - [Gopass](https://www.gopass.pw/) / [cli] / [github](https://github.com/gopasspw/gopass) / ![](/images/software/system/gopass.webp)
 - [LessPass](https://www.lesspass.com/) - 无状态密码管理器 / [web] / [github](https://github.com/lesspass/lesspass) / ![](/images/software/system/lesspass.webp)
 - [AuthPass](https://authpass.app/) / [github](https://github.com/authpass/authpass)
+
+## 存储软件 {#storage-software}
+
+### 数据恢复软件 {#data-recovery-software}
+
+- [PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec) / [github](https://github.com/cgsecurity/testdisk)
+- [Digler](https://github.com/ostafen/digler)
+
+### 磁盘清理工具 {#disk-cleaners}
+
+- [Mole](https://mole.fit/) / [github](https://github.com/tw93/mole) / [apple] / ![](/images/software/system/mole.webp)
+- [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit) / ![](/images/software/system/bleachbit.webp)
+- [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac 替代品 / [apple] / ![](/images/software/system/puremac.webp)
+- [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner) / ![](/images/software/system/windowscleaner.webp)
+
+### 磁盘分区软件 {#disk-partitioning-software}
+
+- [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) / [github](https://github.com/cgsecurity/testdisk)
+- [GParted](https://gparted.org/) / [linux] / [github](https://github.com/GNOME/gparted) / ![](/images/software/system/gparted.webp)
+- [KDE Partition Manager](https://apps.kde.org/partitionmanager/) / [linux] / [github](https://github.com/KDE/partitionmanager) / ![](/images/software/system/kde-partition-manager.webp)
 
 ## 卸载软件 {#uninstallers}
 
