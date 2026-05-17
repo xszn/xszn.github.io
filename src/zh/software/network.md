@@ -29,10 +29,10 @@
 ### FTP 客户端 {#ftp-clients}
 
 - [FileZilla](https://filezilla-project.org/)
-- [WinSCP](https://winscp.net/) / [windows] / [github](https://github.com/winscp/winscp)
-- [Cyberduck](https://cyberduck.io/) / [github](https://github.com/iterate-ch/cyberduck)
 - [File Centipede](https://filecxx.com/) / [github](https://github.com/filecxx/FileCentipede)
-- Termscp / [cli] / [github](https://github.com/veeso/termscp)
+- [Cyberduck](https://cyberduck.io/) / [github](https://github.com/iterate-ch/cyberduck)
+- [WinSCP](https://winscp.net/) / [windows] / [github](https://github.com/winscp/winscp)
+- [Termscp](https://termscp.veeso.dev/) / [cli] / [github](https://github.com/veeso/termscp)
 
 ### P2P 文件共享客户端 {#p2p-file-sharing-clients}
 
