@@ -3,7 +3,7 @@
 ## 广告拦截软件 {#ad-blocking-software}
 
 - [AdBlock](https://getadblock.com/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock.webp)
-- [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock-plus.webp)
+  - [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock-plus.webp)
 - [uBlock Origin](https://ublockorigin.com/) / [browser] / [github](https://github.com/gorhill/uBlock) / ![](/images/software/network/ublock-origin.webp)
 - [SponsorBlock](https://sponsor.ajay.app/) - 跳过 YouTube 广告 / [browser] / [github](https://github.com/ajayyy/SponsorBlock)
 - [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway) / ![](/images/software/network/adaway.webp)
@@ -17,7 +17,7 @@
 
 - [JDownloader](https://jdownloader.org/) / ![](/images/software/network/jdownloader.webp)
 - [Motrix](https://motrix.app/) / [github](https://github.com/agalwood/Motrix) / ![](/images/software/network/motrix.webp)
-- [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next) / ![](/images/software/network/motrix-next.webp)
+  - [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next) / ![](/images/software/network/motrix-next.webp)
 - [aria2](https://aria2.github.io/) / [cli] / [github](https://github.com/aria2/aria2)
   - [AriaNg](http://ariang.mayswind.net/) / [web] / [github](https://github.com/mayswind/AriaNg) / ![](/images/software/network/ariang.webp)
   - [AriaNg Native](https://ariang.mayswind.net/) / [github](https://github.com/mayswind/AriaNg-Native) / ![](/images/software/network/ariang-native.webp)
@@ -42,18 +42,15 @@
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) / ![](/images/software/network/flying-carpet.webp)
 - [File Transfer](https://transfer.52python.cn/) / [web] / [github](https://github.com/MatrixSeven/file-transfer-go) / ![](/images/software/network/file-transfer.webp)
 
-## 智能家居软件
+## 智能家居软件 {#home-automation-software}
 
 - [Home Assistant](https://www.home-assistant.io/) / [github](https://github.com/home-assistant)
 - [openHAB](https://www.openhab.org/) / [github](https://github.com/openhab)
+- [Gladys Assistant](https://gladysassistant.com/) / [github](https://github.com/GladysAssistant/Gladys)
+- [FastBee](https://fastbee.cn/) / [github](https://github.com/kerwincui/FastBee)
+- [ioBroker](https://www.iobroker.net/) / [github](https://github.com/ioBroker/ioBroker)
 
-::: details
-
-1. [home-automation · GitHub Topics](https://github.com/topics/home-automation)
-2. [List of home automation software - Wikipedia](https://en.wikipedia.org/wiki/List_of_home_automation_software)
-   :::
-
-## 代理软件
+## 代理软件 {#proxy-software}
 
 - [Mihomo](https://wiki.metacubex.one/) / [Indexes](https://wiki.metacubex.one/startup/client/client/) / [github](https://github.com/MetaCubeX/mihomo)
 - [Xray](https://xtls.github.io/) / [Indexes](https://xtls.github.io/en/document/install.html#graphical-clients) / [github](https://github.com/XTLS/Xray-core)
@@ -61,24 +58,16 @@
 - [V2Ray](https://www.v2fly.org/) / [Indexes](https://www.v2fly.org/en_US/awesome/tools.html) / [github](https://github.com/v2fly)
 - [Shadowsocks](https://shadowsocks.org/) / [Indexes](https://shadowsocks.org/doc/getting-started.html#gui-clients) / [github](https://github.com/shadowsocks)
 
-::: details
-
-1. [Repository search results for proxy](https://github.com/search?q=proxy&type=repositories&s=stars&o=desc)
-2. [分类:代理软件 - 维基百科](https://zh.wikipedia.org/wiki/Category:%E4%BB%A3%E7%90%86%E8%BD%AF%E4%BB%B6)
-   :::
-
-## 远程桌面软件
+## 远程桌面软件 {#remote-desktop-software}
 
 - [RustDesk](https://rustdesk.com/) / [github](https://github.com/rustdesk/rustdesk)
-- [FreeRDP](https://www.freerdp.com/) / [cli] / [github](https://github.com/FreeRDP/FreeRDP), [Remmina](https://remmina.org/) / [linux] / [github](https://github.com/freerdp/remmina)
 - [TightVNC](https://www.tightvnc.com/) / [sourceforge](https://sourceforge.net/projects/vnc-tight/)
+- [FreeRDP](https://www.freerdp.com/) / [cli] / [github](https://github.com/FreeRDP/FreeRDP)
+  - [Remmina](https://remmina.org/) / [linux] / [github](https://github.com/freerdp/remmina)
 - [HopToDesk](https://www.hoptodesk.com/) / [gitlab](https://gitlab.com/hoptodesk/hoptodesk)
-
-::: details
-
-1. [remote-desktop · GitHub Topics](https://github.com/topics/remote-desktop)
-2. [Remote desktop software - Wikipedia](https://en.wikipedia.org/wiki/Remote_desktop_software)
-   :::
+- [BilldDesk](https://desk.hsslive.cn/) / [github](https://github.com/galaxy-s10/billd-desk)
+- [1Remote](https://1remote.github.io/) / [github](https://github.com/1Remote/1Remote)
+- [CrossDesk](https://www.crossdesk.cn/) / [github](https://github.com/kunkundi/crossdesk)
 
 ## RSS 阅读器
 
