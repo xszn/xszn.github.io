@@ -6,7 +6,7 @@ Xingshu is a list of free and open-source software that recommends high-quality 
 
 ## TODO
 
-- [ ] Add software screenshots
+~~- [ ] Add software screenshots~~
 
 ## INSTALL
 

@@ -2,43 +2,43 @@
 
 ## 广告拦截软件 {#ad-blocking-software}
 
-- [AdBlock](https://getadblock.com/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock.webp)
-  - [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions) / ![](/images/software/network/adblock-plus.webp)
-- [uBlock Origin](https://ublockorigin.com/) / [browser] / [github](https://github.com/gorhill/uBlock) / ![](/images/software/network/ublock-origin.webp)
+- [AdBlock](https://getadblock.com/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions)
+  - [Adblock Plus](https://adblockplus.org/) / [browser] / [gitlab](https://gitlab.com/eyeo/browser-extensions-and-premium/extensions/extensions)
+- [uBlock Origin](https://ublockorigin.com/) / [browser] / [github](https://github.com/gorhill/uBlock)
 - [SponsorBlock](https://sponsor.ajay.app/) - 跳过 YouTube 广告 / [browser] / [github](https://github.com/ajayyy/SponsorBlock)
-- [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway) / ![](/images/software/network/adaway.webp)
+- [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway)
 
 ## AI 助手
 
-- [QwenPaw](https://qwenpaw.agentscope.io/) / [github](https://github.com/agentscope-ai/QwenPaw) / ![](/images/software/network/qwenpaw.webp)
-- [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk) / ![](/images/software/network/aingdesk.webp)
-- [N.E.K.O.](https://project-neko.online/) / [github](https://github.com/Project-N-E-K-O/N.E.K.O) / ![](/images/software/network/project-neko.webp)
+- [QwenPaw](https://qwenpaw.agentscope.io/) / [github](https://github.com/agentscope-ai/QwenPaw)
+- [AingDesk](https://www.aingdesk.com/) / [github](https://github.com/aingdesk/AingDesk)
+- [N.E.K.O.](https://project-neko.online/) / [github](https://github.com/Project-N-E-K-O/N.E.K.O)
 
 ## 验证码识别工具 {#captcha-solvers}
 
-- [Buster](https://github.com/dessant/buster) / [browser] / ![](/images/software/network/buster.webp)
-- [NopeCHA](https://nopecha.com/) / [browser] / [github](https://github.com/NopeCHALLC/nopecha-extension) / ![](/images/software/network/nopecha.webp)
+- [Buster](https://github.com/dessant/buster) / [browser]
+- [NopeCHA](https://nopecha.com/) / [browser] / [github](https://github.com/NopeCHALLC/nopecha-extension)
 
 ## 下载管理器 {#download-managers}
 
-- [JDownloader](https://jdownloader.org/) / ![](/images/software/network/jdownloader.webp)
-- [Motrix](https://motrix.app/) / [github](https://github.com/agalwood/Motrix) / ![](/images/software/network/motrix.webp)
-  - [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next) / ![](/images/software/network/motrix-next.webp)
+- [JDownloader](https://jdownloader.org/)
+- [Motrix](https://motrix.app/) / [github](https://github.com/agalwood/Motrix)
+  - [Motrix Next](https://motrix-next.pages.dev/) / [github](https://github.com/AnInsomniacy/motrix-next)
 - [aria2](https://aria2.github.io/) / [cli] / [github](https://github.com/aria2/aria2)
-  - [AriaNg](http://ariang.mayswind.net/) / [web] / [github](https://github.com/mayswind/AriaNg) / ![](/images/software/network/ariang.webp)
-  - [AriaNg Native](https://ariang.mayswind.net/) / [github](https://github.com/mayswind/AriaNg-Native) / ![](/images/software/network/ariang-native.webp)
-- [Gopeed](https://gopeed.com/) / [github](https://github.com/GopeedLab/gopeed) / ![](/images/software/network/gopeed.webp)
-- [AB Download Manager](https://abdownloadmanager.com/) / [github](https://github.com/amir1376/ab-download-manager) / ![](/images/software/network/ab-download-manager.webp)
+  - [AriaNg](http://ariang.mayswind.net/) / [web] / [github](https://github.com/mayswind/AriaNg)
+  - [AriaNg Native](https://ariang.mayswind.net/) / [github](https://github.com/mayswind/AriaNg-Native)
+- [Gopeed](https://gopeed.com/) / [github](https://github.com/GopeedLab/gopeed)
+- [AB Download Manager](https://abdownloadmanager.com/) / [github](https://github.com/amir1376/ab-download-manager)
 
 ## 文件共享软件 {#file-sharing-software}
 
 ### P2P 文件共享客户端 {#p2p-file-sharing-clients}
 
-- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend) / ![](/images/software/network/localsend.webp)
-- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc) / ![](/images/software/network/croc.webp)
-- [AltSendme](https://www.altsendme.com/) / [github](https://github.com/tonyantony300/alt-sendme) / ![](/images/software/network/altsendme.webp)
-- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) / ![](/images/software/network/flying-carpet.webp)
-- [File Transfer](https://transfer.52python.cn/) / [web] / [github](https://github.com/MatrixSeven/file-transfer-go) / ![](/images/software/network/file-transfer.webp)
+- [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend)
+- [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc)
+- [AltSendme](https://www.altsendme.com/) / [github](https://github.com/tonyantony300/alt-sendme)
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet)
+- [File Transfer](https://transfer.52python.cn/) / [web] / [github](https://github.com/MatrixSeven/file-transfer-go)
 
 ## 文件传输工具 {#file-transfer-software}
 
