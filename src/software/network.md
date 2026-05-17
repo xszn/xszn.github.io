@@ -84,15 +84,9 @@
 ## RSS readers
 
 - [Folo](https://folo.is/) / [github](https://github.com/RSSNext/folo)
+- [Glance](https://github.com/glanceapp/glance) / [cli]
 - [NetNewsWire](https://netnewswire.com/) / [apple] / [github](https://github.com/Ranchero-Software/NetNewsWire/)
 - [Fluent Reader](https://hyliu.me/fluent-reader/) / [github](https://github.com/yang991178/fluent-reader)
-- Glance / [cli] / [github](https://github.com/glanceapp/glance)
-
-::: details
-
-1. [rss-reader · GitHub Topics](https://github.com/topics/rss-reader)
-2. [RSS - Wikipedia](https://en.wikipedia.org/wiki/RSS)
-   :::
 
 ## Screen mirroring software
 

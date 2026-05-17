@@ -53,10 +53,22 @@
 ## 代理软件 {#proxy-software}
 
 - [Mihomo](https://wiki.metacubex.one/) / [Indexes](https://wiki.metacubex.one/startup/client/client/) / [github](https://github.com/MetaCubeX/mihomo)
-- [Xray](https://xtls.github.io/) / [Indexes](https://xtls.github.io/en/document/install.html#graphical-clients) / [github](https://github.com/XTLS/Xray-core)
-- [Hysteria](https://v2.hysteria.network/) / [Indexes](https://v2.hysteria.network/docs/getting-started/3rd-party-apps/) / [github](https://github.com/apernet/hysteria)
+  - [Clash Verge Rev](https://www.clashverge.dev/) / [github](https://github.com/clash-verge-rev/clash-verge-rev)
+  - [FlClash](https://github.com/chen08209/FlClash)
+  - [Clash Nyanpasu](https://nyanpasu.org/) / [github](https://github.com/libnyanpasu/clash-nyanpasu)
 - [V2Ray](https://www.v2fly.org/) / [Indexes](https://www.v2fly.org/en_US/awesome/tools.html) / [github](https://github.com/v2fly)
+  - [v2rayN](https://v2rayn.2dust.link/) / [github](https://github.com/2dust/v2rayN)
+  - [v2rayA](https://v2raya.org/) / [github](https://github.com/v2rayA/v2rayA)
+- [Xray](https://xtls.github.io/) / [Indexes](https://xtls.github.io/en/document/install.html#third-party-graphical-clients) / [github](https://github.com/XTLS/Xray-core)
+  - [v2rayNG](https://v2rayng.2dust.link/) / [android] / [github](https://github.com/2dust/v2rayNG)
+  - [V2rayU](https://github.com/yanue/V2rayU)
+- [Hysteria](https://v2.hysteria.network/) / [Indexes](https://v2.hysteria.network/docs/getting-started/3rd-party-apps/) / [github](https://github.com/apernet/hysteria)
+  - [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) / [android]
+  - [Sing-box](https://sing-box.sagernet.org/) / [github](https://github.com/SagerNet/sing-box)
+  - [Hiddify](https://hiddify.com/) / [github](https://github.com/hiddify/hiddify-app)
+  - [NekoBox for Android](https://matsuridayo.github.io/) / [android] / [github](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 - [Shadowsocks](https://shadowsocks.org/) / [Indexes](https://shadowsocks.org/doc/getting-started.html#gui-clients) / [github](https://github.com/shadowsocks)
+  - [Shadowsocks for Android](https://github.com/shadowsocks/shadowsocks-android) / [android]
 
 ## 远程桌面软件 {#remote-desktop-software}
 
@@ -69,18 +81,12 @@
 - [1Remote](https://1remote.github.io/) / [github](https://github.com/1Remote/1Remote)
 - [CrossDesk](https://www.crossdesk.cn/) / [github](https://github.com/kunkundi/crossdesk)
 
-## RSS 阅读器
+## RSS 阅读器 {#rss-readers}
 
 - [Folo](https://folo.is/) / [github](https://github.com/RSSNext/folo)
+- [Glance](https://github.com/glanceapp/glance) / [cli]
 - [NetNewsWire](https://netnewswire.com/) / [apple] / [github](https://github.com/Ranchero-Software/NetNewsWire/)
 - [Fluent Reader](https://hyliu.me/fluent-reader/) / [github](https://github.com/yang991178/fluent-reader)
-- Glance / [cli] / [github](https://github.com/glanceapp/glance)
-
-::: details
-
-1. [rss-reader · GitHub Topics](https://github.com/topics/rss-reader)
-2. [RSS - Wikipedia](https://en.wikipedia.org/wiki/RSS)
-   :::
 
 ## 投屏软件
 
