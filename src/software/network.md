@@ -34,7 +34,7 @@
 - [WinSCP](https://winscp.net/) / [windows] / [github](https://github.com/winscp/winscp)
 - [Termscp](https://termscp.veeso.dev/) / [cli] / [github](https://github.com/veeso/termscp)
 
-### P2P file sharing clients
+### LAN file transfer software
 
 - [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend)
 - [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc)

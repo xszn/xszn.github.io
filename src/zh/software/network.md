@@ -34,7 +34,7 @@
 - [WinSCP](https://winscp.net/) / [windows] / [github](https://github.com/winscp/winscp)
 - [Termscp](https://termscp.veeso.dev/) / [cli] / [github](https://github.com/veeso/termscp)
 
-### P2P 文件共享客户端 {#p2p-file-sharing-clients}
+### 局域网文件传输工具 {#lan-file-transfer-software}
 
 - [LocalSend](https://localsend.org/) / [github](https://github.com/localsend/localsend)
 - [Croc](https://infinitedigits.co/croc/) / [cli] / [github](https://github.com/schollz/croc)
@@ -98,3 +98,21 @@
 - [Glance](https://github.com/glanceapp/glance) / [cli]
 - [NetNewsWire](https://netnewswire.com/) / [apple] / [github](https://github.com/Ranchero-Software/NetNewsWire/)
 - [Fluent Reader](https://hyliu.me/fluent-reader/) / [github](https://github.com/yang991178/fluent-reader)
+
+## 网页浏览器 {#web-browsers}
+
+- [Ladybird](https://ladybird.org/) / [github](https://github.com/LadybirdBrowser/ladybird)
+- [Nyxt](https://nyxt-browser.com/) / [linux] / [github](https://github.com/atlas-engineer/nyxt)
+
+### Chromium
+
+- [Brave](https://brave.com/) / [github](https://github.com/brave/brave-browser)
+- [Helium](https://helium.computer/) / [windows] / [github](https://github.com/imputnet/helium)
+
+### Gecko
+
+- [Firefox](https://www.firefox.com/) / [github](https://github.com/mozilla-firefox/firefox)
+- [Zen Browser](https://zen-browser.app/) / [github](https://github.com/zen-browser/desktop)
+- [Waterfox](https://www.waterfox.com/) / [github](https://github.com/BrowserWorks/waterfox)
+- [LibreWolf](https://librewolf.net/)
+- [Pale Moon](https://www.palemoon.org/)
