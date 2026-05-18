@@ -70,7 +70,9 @@
 - [Shadowsocks](https://shadowsocks.org/) / [Indexes](https://shadowsocks.org/doc/getting-started.html#gui-clients) / [github](https://github.com/shadowsocks)
   - [Shadowsocks for Android](https://github.com/shadowsocks/shadowsocks-android) / [android]
 
-## Remote desktop software
+## Remote administration software
+
+### Remote desktop software
 
 - [RustDesk](https://rustdesk.com/) / [github](https://github.com/rustdesk/rustdesk)
 - [TightVNC](https://www.tightvnc.com/) / [sourceforge](https://sourceforge.net/projects/vnc-tight/)
@@ -81,6 +83,15 @@
 - [1Remote](https://1remote.github.io/) / [github](https://github.com/1Remote/1Remote)
 - [CrossDesk](https://www.crossdesk.cn/) / [github](https://github.com/kunkundi/crossdesk)
 
+### Screen mirroring
+
+- [Scrcpy](https://github.com/genymobile/scrcpy) / [cli]
+  - [QtScrcpy](https://github.com/barry-ran/qtscrcpy)
+  - [Escrcpy](https://viarotel.eu.org/) / [github](https://github.com/viarotel-org/escrcpy)
+- [Weylus](https://github.com/H-M-H/Weylus)
+- [PlainApp](https://plainapp.app/) / [android] / [github](https://github.com/plainhub/plain-app)
+- [ScreenStream](https://screenstream.io/) / [android] / [github](https://github.com/dkrivoruchko/ScreenStream)
+
 ## RSS readers
 
 - [Folo](https://folo.is/) / [github](https://github.com/RSSNext/folo)
@@ -88,14 +99,20 @@
 - [NetNewsWire](https://netnewswire.com/) / [apple] / [github](https://github.com/Ranchero-Software/NetNewsWire/)
 - [Fluent Reader](https://hyliu.me/fluent-reader/) / [github](https://github.com/yang991178/fluent-reader)
 
-## Screen mirroring software
+## Web browsers
 
-- Scrcpy / [cli] / [github](https://github.com/genymobile/scrcpy), QtScrcpy / [github](https://github.com/barry-ran/qtscrcpy), [Escrcpy](https://viarotel.eu.org/) / [github](https://github.com/viarotel-org/escrcpy)
-- Weylus / [github](https://github.com/H-M-H/Weylus)
-- [PlainApp](https://plainapp.app/) / [android] / [github](https://github.com/plainhub/plain-app)
+- [Ladybird](https://ladybird.org/) / [github](https://github.com/LadybirdBrowser/ladybird)
+- [Nyxt](https://nyxt-browser.com/) / [linux] / [github](https://github.com/atlas-engineer/nyxt)
 
-::: details
+### Chromium
 
-1. [mirroring · GitHub Topics](https://github.com/topics/mirroring)
-2. [https://github.com/topics/screen-mirroring](https://github.com/topics/screen-mirroring)
-   :::
+- [Brave](https://brave.com/) / [github](https://github.com/brave/brave-browser)
+- [Helium](https://helium.computer/) / [windows] / [github](https://github.com/imputnet/helium)
+
+### Gecko
+
+- [Firefox](https://www.firefox.com/) / [github](https://github.com/mozilla-firefox/firefox)
+- [Zen Browser](https://zen-browser.app/) / [github](https://github.com/zen-browser/desktop)
+- [Waterfox](https://www.waterfox.com/) / [github](https://github.com/BrowserWorks/waterfox)
+- [LibreWolf](https://librewolf.net/)
+- [Pale Moon](https://www.palemoon.org/)

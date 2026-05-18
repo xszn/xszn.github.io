@@ -70,7 +70,9 @@
 - [Shadowsocks](https://shadowsocks.org/) / [Indexes](https://shadowsocks.org/doc/getting-started.html#gui-clients) / [github](https://github.com/shadowsocks)
   - [Shadowsocks for Android](https://github.com/shadowsocks/shadowsocks-android) / [android]
 
-## 远程桌面软件 {#remote-desktop-software}
+## 远程管理软件 {#remote-administration-software}
+
+### 远程桌面软件 {#remote-desktop-software}
 
 - [RustDesk](https://rustdesk.com/) / [github](https://github.com/rustdesk/rustdesk)
 - [TightVNC](https://www.tightvnc.com/) / [sourceforge](https://sourceforge.net/projects/vnc-tight/)
@@ -81,21 +83,18 @@
 - [1Remote](https://1remote.github.io/) / [github](https://github.com/1Remote/1Remote)
 - [CrossDesk](https://www.crossdesk.cn/) / [github](https://github.com/kunkundi/crossdesk)
 
+### 投屏软件 {#screen-mirroring}
+
+- [Scrcpy](https://github.com/genymobile/scrcpy) / [cli]
+  - [QtScrcpy](https://github.com/barry-ran/qtscrcpy)
+  - [Escrcpy](https://viarotel.eu.org/) / [github](https://github.com/viarotel-org/escrcpy)
+- [Weylus](https://github.com/H-M-H/Weylus)
+- [PlainApp](https://plainapp.app/) / [android] / [github](https://github.com/plainhub/plain-app)
+- [ScreenStream](https://screenstream.io/) / [android] / [github](https://github.com/dkrivoruchko/ScreenStream)
+
 ## RSS 阅读器 {#rss-readers}
 
 - [Folo](https://folo.is/) / [github](https://github.com/RSSNext/folo)
 - [Glance](https://github.com/glanceapp/glance) / [cli]
 - [NetNewsWire](https://netnewswire.com/) / [apple] / [github](https://github.com/Ranchero-Software/NetNewsWire/)
 - [Fluent Reader](https://hyliu.me/fluent-reader/) / [github](https://github.com/yang991178/fluent-reader)
-
-## 投屏软件
-
-- Scrcpy / [cli] / [github](https://github.com/genymobile/scrcpy), QtScrcpy / [github](https://github.com/barry-ran/qtscrcpy), [Escrcpy](https://viarotel.eu.org/) / [github](https://github.com/viarotel-org/escrcpy)
-- Weylus / [github](https://github.com/H-M-H/Weylus)
-- [PlainApp](https://plainapp.app/) / [android] / [github](https://github.com/plainhub/plain-app)
-
-::: details
-
-1. [mirroring · GitHub Topics](https://github.com/topics/mirroring)
-2. [https://github.com/topics/screen-mirroring](https://github.com/topics/screen-mirroring)
-   :::
