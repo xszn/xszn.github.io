@@ -2,13 +2,9 @@
 
 ## Classroom management software
 
-- [Veyon](https://veyon.io/) / [github](https://github.com/veyon/veyon)
+- [Moodle](https://moodle.org/) / [github](https://github.com/moodle/moodle)
 - [ClassIsland](https://classisland.tech/) / [github](https://github.com/ClassIsland/ClassIsland)
-
-::: details
-
-1. [Category:Classroom management software - Wikipedia](https://en.wikipedia.org/wiki/Category:Classroom_management_software)
-   :::
+- [Veyon](https://veyon.io/) / [github](https://github.com/veyon/veyon)
 
 ## E-readers
 
