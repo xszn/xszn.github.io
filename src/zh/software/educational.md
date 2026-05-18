@@ -6,48 +6,23 @@
 - [ClassIsland](https://classisland.tech/) / [github](https://github.com/ClassIsland/ClassIsland)
 - [Veyon](https://veyon.io/) / [github](https://github.com/veyon/veyon)
 
-## 电子书阅读器
+## 间隔重复软件 {#spaced-repetition-software}
 
-- [Legado](https://gedoor.github.io/) / [android] / [github](https://github.com/gedoor/legado)
-- [Koodo Reader](https://koodoreader.com/) / [github](https://github.com/koodo-reader/koodo-reader)
-- [KOReader](https://koreader.rocks/) / [github](https://github.com/koreader/koreader)
-- [calibre](https://calibre-ebook.com/) / [github](https://github.com/kovidgoyal/calibre)
-- [Readest](https://readest.com/) / [github](https://github.com/readest/readest)
-- [FBReader](https://fbreader.org/)
-
-::: details
-
-1. [ebook-reader · GitHub Topics](https://github.com/topics/ebook-reader)
-   :::
-
-## 闪卡软件
+### 闪卡软件 {#flashcard-software}
 
 - [Anki](https://apps.ankiweb.net/) / [github](https://github.com/ankitects/anki)
+- [Hashcards](https://github.com/eudoxia0/hashcards) / [web]
 - [Mnemosyne](https://mnemosyne-proj.org/) / [windows] / [github](https://github.com/mnemosyne-proj/mnemosyne)
-- Hashcards / [cli] / [github](https://github.com/eudoxia0/hashcards)
+- [Repeater](https://shaankhosla.github.io/repeater/) / [cli] / [github](https://github.com/shaankhosla/repeater)
 
-::: details
+## 语言软件 {#language-software}
 
-1. [flashcards · GitHub Topics](https://github.com/topics/flashcards)
-2. [List of flashcard software - Wikipedia](https://en.wikipedia.org/wiki/List_of_flashcard_software)
-   :::
-
-## 语言软件
-
-### 语法检查器
+### 语法检查器 {#grammar-checkers}
 
 - [LanguageTool](https://languagetool.org/) / [github](https://github.com/languagetool-org/languagetool)
-- [Harper](https://github.com/automattic/harper) / [github](https://github.com/automattic/harper)
-- Scramble / [browser] / [github](https://github.com/zlwaterfield/scramble)
-- Writing Tools / [github](https://github.com/theJayTea/WritingTools)
-- [AutoCorrect](https://huacnlee.github.io/autocorrect/) / [github](https://github.com/huacnlee/autocorrect)
-
-::: details
-
-1. [grammar-checker · GitHub Topics](https://github.com/topics/grammar-checker)
-2. [spellcheck · GitHub Topics](https://github.com/topics/spellcheck)
-3. [Category:Grammar checkers - Wikipedia](https://en.wikipedia.org/wiki/Category:Grammar_checkers)
-   :::
+- [Harper](https://writewithharper.com/) / [github](https://github.com/automattic/harper)
+- [Writing Tools](https://github.com/theJayTea/WritingTools)
+- [Scramble](https://github.com/zlwaterfield/scramble) / [browser]
 
 ### 语言学习软件
 

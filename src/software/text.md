@@ -1,14 +1,24 @@
 # Text software
 
+## E-readers
+
+- [Legado](https://gedoor.github.io/) / [android] / [github](https://github.com/gedoor/legado)
+- [Koodo Reader](https://koodoreader.com/) / [github](https://github.com/koodo-reader/koodo-reader)
+- [KOReader](https://koreader.rocks/) / [github](https://github.com/koreader/koreader)
+- [calibre](https://calibre-ebook.com/) / [github](https://github.com/kovidgoyal/calibre)
+- [Readest](https://readest.com/) / [github](https://github.com/readest/readest)
+- [FBReader](https://fbreader.org/)
+
 ## Hex editors
 
 - [ImHex](https://imhex.werwolv.net/) / [github](https://github.com/werwolv/imhex)
 - hexyl / [cli] / [github](https://github.com/sharkdp/hexyl)
 
 ::: details
+
 1. [hex-editor · GitHub Topics](https://github.com/topics/hex-editor)
 2. [Category:Hex editors - Wikipedia](https://en.wikipedia.org/wiki/Category:Hex_editors)
-:::
+   :::
 
 ## Note taking software
 
@@ -26,9 +36,10 @@
 - [NoteGen](https://notegen.top/) / [github](https://github.com/codexu/note-gen)
 
 ::: details
+
 1. [note-taking · GitHub Topics](https://github.com/topics/note-taking)
 2. [Category:Note-taking software - Wikipedia](https://en.wikipedia.org/wiki/Category:Note-taking_software)
-:::
+   :::
 
 ## Text editors
 
@@ -58,12 +69,13 @@
 - [Eclipse Theia](https://theia-ide.org/) / [github](https://github.com/eclipse-theia/theia)
 
 ::: details
+
 1. [text-editor · GitHub Topics](https://github.com/topics/text-editor)
 2. [code-editor · GitHub Topics](https://github.com/topics/code-editor)
 3. [editor · GitHub Topics](https://github.com/topics/editor)
 4. [Collection: Text editors](https://github.com/collections/text-editors)
 5. [Category:Text editors - Wikipedia](https://en.wikipedia.org/wiki/Category:Text_editors)
-:::
+   :::
 
 ### TeX editors
 
@@ -75,6 +87,7 @@
 - [TeXworks](https://tug.org/texworks/) / [github](https://github.com/TeXworks/texworks)
 
 ::: details
+
 1. [latex-editor · GitHub Topics](https://github.com/topics/latex-editor)
 2. [Category:TeX editors - Wikipedia](https://en.wikipedia.org/wiki/Category:TeX_editors)
-:::
+   :::
