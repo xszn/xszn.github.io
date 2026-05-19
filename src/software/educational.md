@@ -32,22 +32,24 @@
 
 ## Language learning software
 
+### English learning software
+
 - [Enjoy](https://enjoy.bot/) / [github](https://github.com/ZuodaoTech/everyone-can-use-english)
+- [Qwerty Learner](https://qwerty.kaiyi.cool/) / [web] / [github](https://github.com/RealKai42/qwerty-learner)
+- [Type Words](https://typewords.cc/) / [web] / [github](https://github.com/zyronon/TypeWords)
 - [Read Frog](https://www.readfrog.app/) / [browser] / [github](https://github.com/mengxi-ream/read-frog)
 - [MuJing](https://mujingx.com/) / [github](https://github.com/tangshimin/MuJing)
 - [LLPlayer](https://llplayer.com/) / [windows] / [github](https://github.com/umlx5h/LLPlayer)
-- Immersive Language Learning Assistant / [browser] / [github](https://github.com/xiao-zaiyi/illa-helper)
+- [Immersive Language Learning Assistant](https://illa.xlike.cc/) / [browser] / [github](https://github.com/xiao-zaiyi/illa-helper)
+
+### Japanese learning software
+
 - [Yomitan](https://yomitan.wiki/) / [browser] / [github](https://github.com/yomidevs/yomitan)
-- jidoujisho / [android] / [github](https://github.com/arianneorpilla/jidoujisho)
+- [KanaDojo](https://kanadojo.com/) / [web] / [github](https://github.com/lingdojo/kana-dojo)
+- [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) / [android]
 - [Memento](https://ripose-jp.github.io/Memento/) / [github](https://github.com/ripose-jp/Memento)
-- [asbplayer](https://docs.asbplayer.dev/) / [browser] / [github](https://github.com/killergerbah/asbplayer)
+- [Asbplayer](https://app.asbplayer.dev/) / [github](https://github.com/killergerbah/asbplayer)
 - [Linguist](https://linguister.io/) / [browser] / [github](https://github.com/translate-tools/linguist)
-
-::: details
-
-1. [language-learning · GitHub Topics](https://github.com/topics/language-learning)
-2. [Category:Language learning software - Wikipedia](https://en.wikipedia.org/wiki/Category:Language_learning_software)
-   :::
 
 ## Mathematical software
 
