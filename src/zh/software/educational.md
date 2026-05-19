@@ -53,15 +53,18 @@
 
 ## 数学软件
 
-- [SageMath](https://www.sagemath.org/) / [github](https://github.com/sagemath/sage)
-- [Maxima](https://maxima.sourceforge.io/) / [sourceforge](https://sourceforge.net/projects/maxima/)
-- [GeoGebra](https://www.geogebra.org/) - Interactive geometry software / [github](https://github.com/geogebra/geogebra)
+### 动态几何软件 {#interactive-geometry-software}
 
-::: details
+- [GeoGebra](https://www.geogebra.org/) / [github](https://github.com/geogebra/geogebra)
+- [Kig](https://apps.kde.org/kig/) / [github](https://github.com/KDE/kig)
 
-1. [Category:Interactive geometry software - Wikipedia](https://en.wikipedia.org/wiki/Category:Interactive_geometry_software)
-2. [Category:Mathematical software - Wikipedia](https://en.wikipedia.org/wiki/Category:Mathematical_software)
-   :::
+### 计算器软件 {#software-calculators}
+
+- [Windows Calculator](https://github.com/microsoft/calculator) / [windows]
+- [Numi](https://numi.app/) / [github](https://github.com/nikolaeu/numi)
+- [OpenCalc](https://github.com/clementwzk/OpenCalc) / [android]
+- [Qalculate](https://qalculate.github.io/) / [github](https://github.com/Qalculate/libqalculate)
+- [Kalker](https://kalker.xyz/) / [github](https://github.com/PaddiM8/kalker)
 
 ## 思维导图软件
 
