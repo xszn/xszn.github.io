@@ -34,14 +34,14 @@ export default [
       src: "https://www.googletagmanager.com/gtag/js?id=G-TFCW4JSXFB",
     },
   ],
-  [
-    "script",
-    {
-      async: "",
-      src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4067183961394663",
-      crossorigin: "anonymous",
-    },
-  ],
+  // [
+  //   "script",
+  //   {
+  //     async: "",
+  //     src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4067183961394663",
+  //     crossorigin: "anonymous",
+  //   },
+  // ],
   [
     "script",
     {},
@@ -50,5 +50,5 @@ export default [
         gtag('js', new Date());
         gtag('config', 'G-TFCW4JSXFB');`,
   ],
-  ["script", {}, `(adsbygoogle = window.adsbygoogle || []).push({});`],
+  // ["script", {}, `(adsbygoogle = window.adsbygoogle || []).push({});`],
 ];
