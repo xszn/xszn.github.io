@@ -24,7 +24,13 @@
 - [Writing Tools](https://github.com/theJayTea/WritingTools)
 - [Scramble](https://github.com/zlwaterfield/scramble) / [browser]
 
-### 语言学习软件
+### 拼写检查工具 {#spell-checkers}
+
+- [Typos](https://github.com/crate-ci/typos) / [cli]
+- [Hunspell](https://hunspell.github.io/) / [cli] / [github](https://github.com/hunspell/hunspell)
+- [AutoCorrect](https://huacnlee.github.io/autocorrect/) / [github](https://github.com/huacnlee/autocorrect)
+
+## 语言学习软件
 
 - [Enjoy](https://enjoy.bot/) / [github](https://github.com/ZuodaoTech/everyone-can-use-english)
 - [Read Frog](https://www.readfrog.app/) / [browser] / [github](https://github.com/mengxi-ream/read-frog)

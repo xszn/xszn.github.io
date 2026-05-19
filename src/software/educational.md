@@ -26,6 +26,8 @@
 
 ### Spell checkers
 
+- [Typos](https://github.com/crate-ci/typos) / [cli]
+- [Hunspell](https://hunspell.github.io/) / [cli] / [github](https://github.com/hunspell/hunspell)
 - [AutoCorrect](https://huacnlee.github.io/autocorrect/) / [github](https://github.com/huacnlee/autocorrect)
 
 ## Language learning software
