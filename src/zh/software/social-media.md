@@ -1,31 +1,15 @@
 # 社交媒体软件
 
-## 应用商店
+## 第三方客户端
 
-- [GitHub Store](https://github-store.org/) / [github](https://github.com/OpenHub-Store/Github-Store)
-- Mas / [cli] / [github](https://github.com/mas-cli/mas)
-- [F-Droid](https://f-droid.org/) / [android] / [github](https://github.com/f-droid/fdroidclient)
-- [Aurora](https://auroraoss.com/) / [android] / [gitlab](https://gitlab.com/AuroraOSS/AuroraStore)
-- [Pi-Apps](https://pi-apps.io/) - Raspberry Pi / [github](https://github.com/Botspot/pi-apps)
-- [OpenStore](https://next.open-store.io/) - Ubuntu Touch / [gitlab](https://gitlab.com/theopenstore/openstore)
-- Neo Store / [github](https://github.com/NeoApplications/Neo-Store)
-
-::: details
-1. [app-store · GitHub Topics](https://github.com/topics/app-store)
-2. [App store - Wikipedia](https://en.wikipedia.org/wiki/App_store)
-:::
-
-## Telegram 第三方
+### Telegram
 
 - [AyuGram](https://docs.ayugram.one/) / [github](https://github.com/AyuGram/AyuGramDesktop)
 - [Unigram](https://unigramdev.github.io/) - WinUI / [windows] / [github](https://github.com/unigramdev/unigram)
-- [Nekogram](https://nekogram.app/) / [android] / [github](https://github.com/nextalone/nagram)
-- Forkgram / [android] / [github](https://github.com/forkgram/TelegramAndroid)
-
-::: details
-1. [telegram · GitHub Topics](https://github.com/topics/telegram)
-2. [Repository search results for telegram](https://github.com/search?q=telegram&type=repositories&s=stars&o=desc)
-:::
+- [Nekogram](https://nekogram.app/) / [android] / [github](https://github.com/Nekogram/Nekogram)
+- [Nagram](https://github.com/NextAlone/Nagram) / [android]
+  - [Nagram X](https://github.com/risin42/NagramX) / [android]
+- [Forkgram](https://github.com/forkgram/TelegramAndroid) / [android]
 
 ## 流媒体下载工具
 
@@ -36,8 +20,9 @@
 - [VidBee](https://vidbee.org/) / [github](https://github.com/nexmoe/VidBee)
 
 ::: details
+
 1. [Stream ripping - Wikipedia](https://en.wikipedia.org/wiki/Stream_ripping)
-:::
+   :::
 
 ## YouTube
 
@@ -48,9 +33,10 @@
 - YoutubeDownloader / [github](https://github.com/Tyrrrz/YoutubeDownloader)
 
 ::: details
+
 1. [youtube-downloader · GitHub Topics](https://github.com/topics/youtube-downloader)
 2. [Comparison of YouTube downloaders - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_YouTube_downloaders)
-:::
+   :::
 
 ### YouTube 音乐第三方
 
@@ -62,5 +48,6 @@
 - OuterTune / [github](https://github.com/OuterTune/OuterTune)
 
 ::: details
+
 1. [youtube-music · GitHub Topics](https://github.com/topics/youtube-music)
-:::
+   :::

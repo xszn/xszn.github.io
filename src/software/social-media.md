@@ -1,17 +1,15 @@
 # Social media software
 
-## Telegram third-party
+## Third-party clients
+
+### Telegram
 
 - [AyuGram](https://docs.ayugram.one/) / [github](https://github.com/AyuGram/AyuGramDesktop)
 - [Unigram](https://unigramdev.github.io/) - WinUI / [windows] / [github](https://github.com/unigramdev/unigram)
-- [Nekogram](https://nekogram.app/) / [android] / [github](https://github.com/nextalone/nagram)
-- Forkgram / [android] / [github](https://github.com/forkgram/TelegramAndroid)
-
-::: details
-
-1. [telegram · GitHub Topics](https://github.com/topics/telegram)
-2. [Repository search results for telegram](https://github.com/search?q=telegram&type=repositories&s=stars&o=desc)
-   :::
+- [Nekogram](https://nekogram.app/) / [android] / [github](https://github.com/Nekogram/Nekogram)
+- [Nagram](https://github.com/NextAlone/Nagram) / [android]
+  - [Nagram X](https://github.com/risin42/NagramX) / [android]
+- [Forkgram](https://github.com/forkgram/TelegramAndroid) / [android]
 
 ## Stream ripping tools
 

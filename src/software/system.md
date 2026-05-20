@@ -12,7 +12,7 @@
 
 - [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip)
   - [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/)
-  - [NanaZip](https://nanazip.org/) - Modern UI / [windows] / [github](https://github.com/M2Team/NanaZip)
+  - [NanaZip](https://nanazip.org/) - WinUI / [windows] / [github](https://github.com/M2Team/NanaZip)
 - [PeaZip](https://peazip.github.io/) - WinRAR, WinZip alternatives / [github](https://github.com/peazip/PeaZip/)
 - [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android]
