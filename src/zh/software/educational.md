@@ -76,7 +76,7 @@
 - [Minder](https://appcenter.elementary.io/com.github.phase1geo.minder/) / [linux] / [github](https://github.com/phase1geo/Minder)
 - [Heimer](https://juzzlin.github.io/Heimer/) / [github](https://github.com/juzzlin/Heimer)
 
-## 打字练习软件
+## 打字练习软件 {#typing-software}
 
 - [Qwerty Learner](https://qwerty.kaiyi.cool/) / [web] / [github](https://github.com/RealKai42/qwerty-learner)
 - [Monkeytype](https://monkeytype.com/) / [web] / [github](https://github.com/monkeytypegame/monkeytype)
@@ -86,13 +86,12 @@
 - [Ttyper](https://github.com/max-niederman/ttyper) / [cli]
 - [GitType](https://github.com/unhappychoice/gittype) / [cli]
 
-## 白板
+## 白板软件 {#whiteboard}
 
 - [Excalidraw](https://excalidraw.com/) / [web] / [github](https://github.com/excalidraw/excalidraw)
+- [Tldraw](https://www.tldraw.com/) / [web] / [github](https://github.com/tldraw/tldraw)
 - [Drawnix](https://drawnix.com/) / [web] / [github](https://github.com/plait-board/drawnix)
+- [Lorien](https://github.com/mbrlabs/Lorien)
 - [OpenBoard](https://openboard.ch/) / [github](https://github.com/openboard-org/openboard)
 - [WBO](https://wbo.ophir.dev/) / [web] / [github](https://github.com/lovasoa/whitebophir)
-
-::: details
-[whiteboard · GitHub Topics](https://github.com/topics/whiteboard)
-:::
+- [DGM](https://dgm.sh/) / [web] / [github](https://github.com/dgmjs/dgmjs)
