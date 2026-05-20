@@ -21,8 +21,12 @@
 
 ### 软件更新工具 {#software-updaters}
 
+- [Obtainium](https://obtainium.imranr.dev/) / [android] / [github](https://github.com/ImranR98/Obtainium/)
+  - [Discoverium](https://github.com/cygnusx-1-org/Discoverium/) / [android]
+- [Latest](https://max.codes/latest/) / [apple] / [github](https://github.com/mangerlahn/Latest)
 - [APKUpdater](https://github.com/rumboalla/apkupdater) / [android]
 - [UpgradeAll](https://up-a.org/) / [android] / [github](https://github.com/DUpdateSystem/UpgradeAll)
+- [Application Manager](https://portable-linux-apps.github.io/) / [linux] / [github](https://github.com/ivan-hc/AM)
 
 ## 验证码识别工具 {#captcha-solvers}
 

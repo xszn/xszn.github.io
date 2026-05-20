@@ -2,6 +2,12 @@
 
 ## Third-party clients
 
+### Reddit
+
+- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [android]
+  - [Continuum](https://github.com/cygnusx-1-org/continuum) / [android]
+- [RedReader](https://github.com/QuantumBadger/RedReader) / [android]
+
 ### Telegram
 
 - [AyuGram](https://docs.ayugram.one/) / [github](https://github.com/AyuGram/AyuGramDesktop)
@@ -9,6 +15,7 @@
 - [Nekogram](https://nekogram.app/) / [android] / [github](https://github.com/Nekogram/Nekogram)
 - [Nagram](https://github.com/NextAlone/Nagram) / [android]
   - [Nagram X](https://github.com/risin42/NagramX) / [android]
+- [Cherrygram](https://github.com/arslan4k1390/Cherrygram) / [android]
 - [Forkgram](https://github.com/forkgram/TelegramAndroid) / [android]
 
 ## Stream ripping tools
