@@ -8,6 +8,22 @@
 - [SponsorBlock](https://sponsor.ajay.app/) - Skip YouTube sponsors / [browser] / [github](https://github.com/ajayyy/SponsorBlock)
 - [AdAway](https://adaway.org/) / [android] / [github](https://github.com/AdAway/AdAway)
 
+## App stores
+
+- [GitHub Store](https://github-store.org/) / [github](https://github.com/OpenHub-Store/Github-Store)
+- [Mas](https://github.com/mas-cli/mas) - Mac Apple Store / [apple]
+- [F-Droid](https://f-droid.org/) / [android] / [github](https://github.com/f-droid/fdroidclient)
+  - [Droid-ify](https://droidify.app/) / [android] / [github](https://github.com/Droid-ify/client)
+  - [Neo Store](https://github.com/NeoApplications/Neo-Store) / [android]
+- [Aurora](https://auroraoss.com/) - Google Play Store alternatives / [android] / [gitlab](https://gitlab.com/AuroraOSS/AuroraStore)
+- [Pi-Apps](https://pi-apps.io/) - Raspberry Pi / [linux] / [github](https://github.com/Botspot/pi-apps)
+- [OpenStore](https://next.open-store.io/) - Ubuntu Touch / [linux] / [gitlab](https://gitlab.com/theopenstore/openstore)
+
+### Software updaters
+
+- [APKUpdater](https://github.com/rumboalla/apkupdater) / [android]
+- [UpgradeAll](https://up-a.org/) / [android] / [github](https://github.com/DUpdateSystem/UpgradeAll)
+
 ## Captcha solvers
 
 - [Buster](https://github.com/dessant/buster) / [browser]
