@@ -2,6 +2,19 @@
 
 ## 第三方客户端 {#third-party-clients}
 
+### Discord
+
+- [Vencord](https://vencord.dev/) / [github](https://github.com/Vendicated/Vencord)
+- [BetterDiscord](https://betterdiscord.app/) / [github](https://github.com/BetterDiscord/BetterDiscord)
+- [Discordo](https://github.com/ayn2op/discordo) / [cli]
+- [Aliucord](https://github.com/Aliucord/Aliucord) / [android]
+- [Legcord](https://legcord.app/) / [github](https://github.com/legcord/legcord)
+- [WebCord](https://github.com/SpacingBat3/WebCord)
+- [Dorion](https://spikehd.dev/projects/dorion/) / [github](https://github.com/SpikeHD/Dorion)
+- [Discord Messenger](https://iprogramincpp.com/discordmessenger/) / [windows] / [github](https://github.com/DiscordMessenger/dm)
+- [Abaddon](https://github.com/uowuo/abaddon)
+- [Dissent](https://github.com/diamondburned/dissent)
+
 ### Reddit
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [android]
