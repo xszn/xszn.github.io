@@ -76,23 +76,15 @@
 - [Minder](https://appcenter.elementary.io/com.github.phase1geo.minder/) / [linux] / [github](https://github.com/phase1geo/Minder)
 - [Heimer](https://juzzlin.github.io/Heimer/) / [github](https://github.com/juzzlin/Heimer)
 
-## 打字软件
+## 打字练习软件
 
 - [Qwerty Learner](https://qwerty.kaiyi.cool/) / [web] / [github](https://github.com/RealKai42/qwerty-learner)
-- [Monkeytype](https://monkeytype.com/) / [github](https://github.com/monkeytypegame/monkeytype)
-- [Type Words](https://typewords.cc/) / [github](https://github.com/zyronon/TypeWords)
-- [Keybr](https://www.keybr.com/) / [github](https://github.com/aradzie/keybr.com)
-- Smassh / [cli] / [github](https://github.com/kraanzu/smassh)
-- ttyper / [cli] / [github](https://github.com/max-niederman/ttyper)
-- GitType / [cli] / [github](https://github.com/unhappychoice/gittype)
-- typioca / [cli] / [github](https://github.com/bloznelis/typioca)
-
-::: details
-
-1. [typing · GitHub Topics](https://github.com/topics/typing)
-2. [typing-trainer · GitHub Topics](https://github.com/topics/typing-trainer)
-3. [Category:Typing software - Wikipedia](https://en.wikipedia.org/wiki/Category:Typing_software)
-   :::
+- [Monkeytype](https://monkeytype.com/) / [web] / [github](https://github.com/monkeytypegame/monkeytype)
+- [Type Words](https://typewords.cc/) / [web] / [github](https://github.com/zyronon/TypeWords)
+- [Keybr](https://www.keybr.com/) / [web] / [github](https://github.com/aradzie/keybr.com)
+- [Smassh](https://github.com/kraanzu/smassh) / [cli]
+- [Ttyper](https://github.com/max-niederman/ttyper) / [cli]
+- [GitType](https://github.com/unhappychoice/gittype) / [cli]
 
 ## 白板
 
