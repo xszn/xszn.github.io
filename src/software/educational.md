@@ -66,20 +66,15 @@
 - [Qalculate](https://qalculate.github.io/) / [github](https://github.com/Qalculate/libqalculate)
 - [Kalker](https://kalker.xyz/) / [github](https://github.com/PaddiM8/kalker)
 
-## Mind mapping software
+## Mind-mapping software
 
-- [Freeplane](https://github.com/freeplane/freeplane) / [github](https://github.com/freeplane/freeplane)
+- [FreeMind](https://freemind.sourceforge.io/) / [sourceforge](https://sourceforge.net/projects/freemind/)
+  - [Freeplane](https://www.freeplane.org/) / [github](https://github.com/freeplane/freeplane) - XMind, MindMeister alternatives
 - [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/) / [github](https://github.com/wanglin2/mind-map)
 - [WiseMapping](https://www.wisemapping.com/) / [github](https://github.com/wisemapping/wisemapping-open-source/tree/main)
 - [Neurite](https://neurite.network/) / [github](https://github.com/satellitecomponent/Neurite)
 - [Minder](https://appcenter.elementary.io/com.github.phase1geo.minder/) / [linux] / [github](https://github.com/phase1geo/Minder)
 - [Heimer](https://juzzlin.github.io/Heimer/) / [github](https://github.com/juzzlin/Heimer)
-
-::: details
-
-1. [mindmap · GitHub Topics](https://github.com/topics/mindmap)
-2. [Category:Mind-mapping software - Wikipedia](https://en.wikipedia.org/wiki/Category:Mind-mapping_software)
-   :::
 
 ## Typing software
 
