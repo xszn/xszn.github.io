@@ -31,6 +31,12 @@
 - [Cherrygram](https://github.com/arslan4k1390/Cherrygram) / [android]
 - [Forkgram](https://github.com/forkgram/TelegramAndroid) / [android]
 
+### X (Twitter)
+
+- [Piko](https://github.com/crimera/twitter-apk) / [android]
+- [Fritter](https://fritter.cc/) / [android] / [github](https://github.com/jonjomckay/fritter)
+  - [Squawker](https://github.com/j-fbriere/squawker) / [android]
+
 ## Stream ripping tools
 
 - yt-dlp / [cli] / [github](https://github.com/yt-dlp/yt-dlp), Seal / [android] / [github](https://github.com/JunkFood02/Seal), [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader) |
