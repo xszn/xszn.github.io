@@ -2,6 +2,16 @@
 
 ## Third-party clients
 
+### Bilibili
+
+- [PiliPala](https://pilipala.life/) / [github](https://github.com/guozhigq/pilipala)
+  - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) / [android]
+- [WiliWili](https://www.xfangfang.cn/wiliwili/) / [github](https://github.com/xfangfang/wiliwili)
+- [BiliCopilot](https://github.com/Richasy/Bili.Copilot) / [windows]
+- [BV](https://github.com/aaa1115910/bv) / [android]
+- [BiliPai](https://github.com/jay3-yy/BiliPai) / [android]
+- [Bilimiao](https://10miaomiao.cn/project/bilimiao) / [android] / [github](https://github.com/10miaomiao/bilimiao2)
+
 ### Discord
 
 - [Vencord](https://vencord.dev/) / [github](https://github.com/Vendicated/Vencord)
