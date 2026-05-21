@@ -74,6 +74,7 @@
 - [BleachBit](https://www.bleachbit.org/) / [github](https://github.com/bleachbit/bleachbit)
 - [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac alternatives / [apple]
 - [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
+- [FluentCleaner](https://github.com/builtbybel/FluentCleaner) - CCleaner alternatives / [windows]
 
 ### Disk partitioning software
 

@@ -37,6 +37,13 @@
   - [Continuum](https://github.com/cygnusx-1-org/continuum) / [android]
 - [RedReader](https://github.com/QuantumBadger/RedReader) / [android]
 
+### Spotify
+
+- [Psst](https://github.com/jpochyla/psst)
+- [Spotify Player](https://github.com/aome510/spotify-player) / [cli]
+- [Spotify-qt](https://kraxarn.github.io/spotify-qt-nightly/) / [github](https://github.com/kraxarn/spotify-qt)
+- [Spotatui](https://github.com/LargeModGames/spotatui) / [cli]
+
 ### Telegram
 
 - [AyuGram](https://docs.ayugram.one/) / [github](https://github.com/AyuGram/AyuGramDesktop)
