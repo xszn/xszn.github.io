@@ -72,7 +72,6 @@
 
 - [Pear](https://github.com/pear-devs/pear-desktop)
 - [Metrolist](https://metrolist.cc/) / [android] / [github](https://github.com/MetrolistGroup/Metrolist)
-- [SimpMusic](https://www.simpmusic.org/) / [github](https://github.com/maxrave-dev/SimpMusic)
 - [InnerTune](https://github.com/z-huang/InnerTune/) / [android]
 - [YTMDesktop](https://ytmdesktop.github.io/) / [github](https://github.com/ytmdesktop/ytmdesktop)
 - [OpenTune](https://github.com/Arturo254/OpenTune) / [android]

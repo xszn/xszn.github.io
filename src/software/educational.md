@@ -35,8 +35,6 @@
 ### English learning software
 
 - [Enjoy](https://enjoy.bot/) / [github](https://github.com/ZuodaoTech/everyone-can-use-english)
-- [Qwerty Learner](https://qwerty.kaiyi.cool/) / [web] / [github](https://github.com/RealKai42/qwerty-learner)
-- [Type Words](https://typewords.cc/) / [web] / [github](https://github.com/zyronon/TypeWords)
 - [Read Frog](https://www.readfrog.app/) / [browser] / [github](https://github.com/mengxi-ream/read-frog)
 - [MuJing](https://mujingx.com/) / [github](https://github.com/tangshimin/MuJing)
 - [LLPlayer](https://llplayer.com/) / [windows] / [github](https://github.com/umlx5h/LLPlayer)
@@ -78,9 +76,14 @@
 
 ## Typing software
 
+### English typing practice software
+
 - [Qwerty Learner](https://qwerty.kaiyi.cool/) / [web] / [github](https://github.com/RealKai42/qwerty-learner)
-- [Monkeytype](https://monkeytype.com/) / [web] / [github](https://github.com/monkeytypegame/monkeytype)
 - [Type Words](https://typewords.cc/) / [web] / [github](https://github.com/zyronon/TypeWords)
+
+### Typing tutors
+
+- [Monkeytype](https://monkeytype.com/) / [web] / [github](https://github.com/monkeytypegame/monkeytype)
 - [Keybr](https://www.keybr.com/) / [web] / [github](https://github.com/aradzie/keybr.com)
 - [Smassh](https://github.com/kraanzu/smassh) / [cli]
 - [Ttyper](https://github.com/max-niederman/ttyper) / [cli]
