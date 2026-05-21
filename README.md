@@ -10,7 +10,7 @@ Xingshu is a list of free and open-source software that recommends high-quality 
 
 ## INSTALL
 
-## Prerequisites
+### Prerequisites
 
 - [Node.js](https://nodejs.org/) version 20 or higher.
 - Terminal for accessing VitePress via its command line interface (CLI).
