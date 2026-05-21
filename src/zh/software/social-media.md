@@ -25,6 +25,12 @@
 - [Abaddon](https://github.com/uowuo/abaddon)
 - [Dissent](https://github.com/diamondburned/dissent)
 
+### 网易云音乐 {#netease-cloud-music}
+
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+- [VutronMusic](https://github.com/stark81/VutronMusic)
+- [HyPlayer](https://hyplayer.kengwang.com.cn/) / [github](https://github.com/HyPlayer/HyPlayer)
+
 ### Reddit
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [android]
