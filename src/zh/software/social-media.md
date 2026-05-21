@@ -37,6 +37,14 @@
 - [Fritter](https://fritter.cc/) / [android] / [github](https://github.com/jonjomckay/fritter)
   - [Squawker](https://github.com/j-fbriere/squawker) / [android]
 
+### YouTube
+
+- [NewPipe](https://newpipe.net/) / [android] / [github](https://github.com/TeamNewPipe/NewPipe/)
+- [SmartTube](https://smarttubeapp.github.io/) / [android] / [github](https://github.com/yuliskov/SmartTube)
+- [FreeTube](https://libretube.dev/) / [github](https://github.com/FreeTubeApp/FreeTube)
+- [LibreTube](https://libretube.dev/) / [android] / [github](https://github.com/libre-tube/LibreTube)
+- [SkyTube](https://github.com/SkyTubeTeam/SkyTube) / [android]
+
 ## 流媒体下载工具
 
 - yt-dlp / [cli] / [github](https://github.com/yt-dlp/yt-dlp), Seal / [android] / [github](https://github.com/JunkFood02/Seal), [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader) |

@@ -37,9 +37,17 @@
 - [Fritter](https://fritter.cc/) / [android] / [github](https://github.com/jonjomckay/fritter)
   - [Squawker](https://github.com/j-fbriere/squawker) / [android]
 
+### YouTube
+
+- [NewPipe](https://newpipe.net/) / [android] / [github](https://github.com/TeamNewPipe/NewPipe/)
+- [SmartTube](https://smarttubeapp.github.io/) / [android] / [github](https://github.com/yuliskov/SmartTube)
+- [FreeTube](https://libretube.dev/) / [github](https://github.com/FreeTubeApp/FreeTube)
+- [LibreTube](https://libretube.dev/) / [android] / [github](https://github.com/libre-tube/LibreTube)
+- [SkyTube](https://github.com/SkyTubeTeam/SkyTube) / [android]
+
 ## Stream ripping tools
 
-- yt-dlp / [cli] / [github](https://github.com/yt-dlp/yt-dlp), Seal / [android] / [github](https://github.com/JunkFood02/Seal), [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader) |
+- yt-dlp / [cli] / [github](https://github.com/yt-dlp/yt-dlp), Seal / [android] / [github](https://github.com/JunkFood02/Seal), [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader)
 - [res-downloader](https://res.putyy.com/) / [github](https://github.com/putyy/res-downloader)
 - [Cat Catch](https://o2bmm.gitbook.io/cat-catch) / [github](https://github.com/xifangczy/cat-catch)
 - [MediaGo](https://downloader.caorushizi.cn/) / [github](https://github.com/caorushizi/mediago)
