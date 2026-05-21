@@ -61,6 +61,17 @@
 - [LibreTube](https://libretube.dev/) / [android] / [github](https://github.com/libre-tube/LibreTube)
 - [SkyTube](https://github.com/SkyTubeTeam/SkyTube) / [android]
 
+### YouTube Music
+
+- [Pear](https://github.com/pear-devs/pear-desktop)
+- [Metrolist](https://metrolist.cc/) / [android] / [github](https://github.com/MetrolistGroup/Metrolist)
+- [SimpMusic](https://www.simpmusic.org/) / [github](https://github.com/maxrave-dev/SimpMusic)
+- [InnerTune](https://github.com/z-huang/InnerTune/) / [android]
+- [YTMDesktop](https://ytmdesktop.github.io/) / [github](https://github.com/ytmdesktop/ytmdesktop)
+- [OpenTune](https://github.com/Arturo254/OpenTune) / [android]
+- [Echo Music](https://echomusic.fun/) / [android] / [github](https://github.com/EchoMusicApp/Echo-Music)
+- [Flow](https://flow.aedev.me/) / [android] / [github](https://github.com/A-EDev/Flow)
+
 ## 流媒体下载工具
 
 - yt-dlp / [cli] / [github](https://github.com/yt-dlp/yt-dlp), Seal / [android] / [github](https://github.com/JunkFood02/Seal), [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader) |
