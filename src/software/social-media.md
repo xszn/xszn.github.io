@@ -39,13 +39,21 @@
 
 ## Discord
 
+### Discord rich presence tools
+
+- [Music Presence](https://musicpresence.app/) / [github](https://github.com/ungive/discord-music-presence)
+- [PreMiD](https://premid.app/) / [browser] / [github](https://github.com/PreMiD/PreMiD)
+- [Kizzy](https://kizzy.dead8309.xyz/) / [android] / [github](https://github.com/dead8309/Kizzy)
+- [CustomRP](https://www.customrp.xyz/) / [windows] / [github](https://github.com/maximmax42/Discord-CustomRP)
+
 ### Discord third-party clients
 
 - [Vencord](https://vencord.dev/) / [github](https://github.com/Vendicated/Vencord)
 - [BetterDiscord](https://betterdiscord.app/) / [github](https://github.com/BetterDiscord/BetterDiscord)
 - [Discordo](https://github.com/ayn2op/discordo) / [cli]
-- [Aliucord](https://github.com/Aliucord/Aliucord) / [android]
+- [Aliucord](https://github.com/Aliucord/Aliucord) / [android] & [Aliucord Manager](https://github.com/Aliucord/Manager) / [android]
 - [Legcord](https://legcord.app/) / [github](https://github.com/legcord/legcord)
+  - [GoofCord](https://github.com/Milkshiift/GoofCord)
 - [WebCord](https://github.com/SpacingBat3/WebCord)
 - [Dorion](https://spikehd.dev/projects/dorion/) / [github](https://github.com/SpikeHD/Dorion)
 - [Discord Messenger](https://iprogramincpp.com/discordmessenger/) / [windows] / [github](https://github.com/DiscordMessenger/dm)
@@ -118,3 +126,4 @@
 - [OpenTune](https://github.com/Arturo254/OpenTune) / [android]
 - [Echo Music](https://echomusic.fun/) / [android] / [github](https://github.com/EchoMusicApp/Echo-Music)
 - [Flow](https://flow.aedev.me/) / [android] / [github](https://github.com/A-EDev/Flow)
+- [YouTube Music for Desktop](https://youtube-music.app/) / [github](https://github.com/Venipa/ytmdesktop2)
