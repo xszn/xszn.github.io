@@ -1,9 +1,24 @@
 # Social media software
 
-## Third-party clients
+## Bilibili
 
-### Bilibili
+### Bilibili live Tools
 
+- [Bililive-go](https://github.com/bililive-go/bililive-go) - Bilibili live recorder
+- [BililiveRecorder](https://rec.danmuji.org/) - Bilibili live recorder / [github](https://github.com/BililiveRecorder/BililiveRecorder)
+- [Blivechat](https://blive.chat/) / [web] / [github](https://github.com/xfgryujk/blivechat)
+- [Bilibili Live Chat](https://blc.lolicon.app/) / [web] / [github](https://github.com/Tsuk1ko/bilibili-live-chat)
+- [DDTV](https://github.com/CHKZL/DDTV)
+- [BiliBili ShadowReplay](https://bsr.xinrea.cn/) / [github](https://github.com/Xinrea/bili-shadowreplay)
+
+### Bilibili music player
+
+- [Biu](https://github.com/wood3n/biu)
+- [Azusa Player Mobile](https://azusa-player-mobile.vercel.app/) / [github](https://github.com/lovegaoshi/azusa-player-mobile)
+
+### Bilibili third-party clients
+
+- [BBLL](https://github.com/xiaye13579/BBLL) / [android]
 - [PiliPala](https://pilipala.life/) / [github](https://github.com/guozhigq/pilipala)
   - [PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) / [android]
 - [WiliWili](https://www.xfangfang.cn/wiliwili/) / [github](https://github.com/xfangfang/wiliwili)
@@ -11,8 +26,20 @@
 - [BV](https://github.com/aaa1115910/bv) / [android]
 - [BiliPai](https://github.com/jay3-yy/BiliPai) / [android]
 - [Bilimiao](https://10miaomiao.cn/project/bilimiao) / [android] / [github](https://github.com/10miaomiao/bilimiao2)
+- [Bilibili Linux](https://github.com/msojocs/bilibili-linux) / [linux]
+- [BiliLite](https://github.com/ywmoyue/biliuwp-lite) - UWP / [windows]
 
-### Discord
+### Bilibili video downloaders
+
+- [DownKyi](https://github.com/yaobiao131/downkyicore)
+- [Bili23 Downloader](https://bili23.scott-sloan.cn/) / [github](https://github.com/ScottSloan/Bili23-Downloader)
+- [BilibiliDown](https://nicelee.top/BilibiliDown/) / [github](https://github.com/nICEnnnnnnnLee/BilibiliDown)
+- [Bilidown](https://github.com/iuroc/bilidown)
+- [Bilibili Video Downloader](https://github.com/lanyeeee/bilibili-video-downloader)
+
+## Discord
+
+### Discord third-party clients
 
 - [Vencord](https://vencord.dev/) / [github](https://github.com/Vendicated/Vencord)
 - [BetterDiscord](https://betterdiscord.app/) / [github](https://github.com/BetterDiscord/BetterDiscord)
@@ -25,26 +52,34 @@
 - [Abaddon](https://github.com/uowuo/abaddon)
 - [Dissent](https://github.com/diamondburned/dissent)
 
-### NetEase Cloud Music
+## NetEase Cloud Music
+
+### NetEase Cloud Music third-party clients
 
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
 - [VutronMusic](https://github.com/stark81/VutronMusic)
 - [HyPlayer](https://hyplayer.kengwang.com.cn/) / [github](https://github.com/HyPlayer/HyPlayer)
 
-### Reddit
+## Reddit
+
+### Reddit third-party clients
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [android]
   - [Continuum](https://github.com/cygnusx-1-org/continuum) / [android]
 - [RedReader](https://github.com/QuantumBadger/RedReader) / [android]
 
-### Spotify
+## Spotify
+
+### Spotify third-party clients
 
 - [Psst](https://github.com/jpochyla/psst)
 - [Spotify Player](https://github.com/aome510/spotify-player) / [cli]
 - [Spotify-qt](https://kraxarn.github.io/spotify-qt-nightly/) / [github](https://github.com/kraxarn/spotify-qt)
 - [Spotatui](https://github.com/LargeModGames/spotatui) / [cli]
 
-### Telegram
+## Telegram
+
+### Telegram third-party clients
 
 - [AyuGram](https://docs.ayugram.one/) / [github](https://github.com/AyuGram/AyuGramDesktop)
 - [Unigram](https://unigramdev.github.io/) - WinUI / [windows] / [github](https://github.com/unigramdev/unigram)
@@ -54,13 +89,17 @@
 - [Cherrygram](https://github.com/arslan4k1390/Cherrygram) / [android]
 - [Forkgram](https://github.com/forkgram/TelegramAndroid) / [android]
 
-### X (Twitter)
+## X (Twitter)
+
+### X third-party clients
 
 - [Piko](https://github.com/crimera/twitter-apk) / [android]
 - [Fritter](https://fritter.cc/) / [android] / [github](https://github.com/jonjomckay/fritter)
   - [Squawker](https://github.com/j-fbriere/squawker) / [android]
 
-### YouTube
+## YouTube
+
+### YouTube third-party clients
 
 - [NewPipe](https://newpipe.net/) / [android] / [github](https://github.com/TeamNewPipe/NewPipe/)
 - [SmartTube](https://smarttubeapp.github.io/) / [android] / [github](https://github.com/yuliskov/SmartTube)
@@ -68,7 +107,9 @@
 - [LibreTube](https://libretube.dev/) / [android] / [github](https://github.com/libre-tube/LibreTube)
 - [SkyTube](https://github.com/SkyTubeTeam/SkyTube) / [android]
 
-### YouTube Music
+## YouTube Music
+
+### YouTube Music third-party clients
 
 - [Pear](https://github.com/pear-devs/pear-desktop)
 - [Metrolist](https://metrolist.cc/) / [android] / [github](https://github.com/MetrolistGroup/Metrolist)
@@ -77,44 +118,3 @@
 - [OpenTune](https://github.com/Arturo254/OpenTune) / [android]
 - [Echo Music](https://echomusic.fun/) / [android] / [github](https://github.com/EchoMusicApp/Echo-Music)
 - [Flow](https://flow.aedev.me/) / [android] / [github](https://github.com/A-EDev/Flow)
-
-## Stream ripping tools
-
-- yt-dlp / [cli] / [github](https://github.com/yt-dlp/yt-dlp), Seal / [android] / [github](https://github.com/JunkFood02/Seal), [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader)
-- [res-downloader](https://res.putyy.com/) / [github](https://github.com/putyy/res-downloader)
-- [Cat Catch](https://o2bmm.gitbook.io/cat-catch) / [github](https://github.com/xifangczy/cat-catch)
-- [MediaGo](https://downloader.caorushizi.cn/) / [github](https://github.com/caorushizi/mediago)
-- [VidBee](https://vidbee.org/) / [github](https://github.com/nexmoe/VidBee)
-
-::: details
-
-1. [Stream ripping - Wikipedia](https://en.wikipedia.org/wiki/Stream_ripping)
-   :::
-
-## YouTube
-
-### YouTube downloaders
-
-- [youtube-dl](https://ytdl-org.github.io/youtube-dl/) / [github](https://github.com/ytdl-org/youtube-dl)
-- [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) - youtube-dl GUI / [github](https://github.com/jely2002/youtube-dl-gui)
-- YoutubeDownloader / [github](https://github.com/Tyrrrz/YoutubeDownloader)
-
-::: details
-
-1. [youtube-downloader · GitHub Topics](https://github.com/topics/youtube-downloader)
-2. [Comparison of YouTube downloaders - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_YouTube_downloaders)
-   :::
-
-### YouTube music third-party
-
-- Pear Desktop / [github](https://github.com/pear-devs/pear-desktop)
-- [Metrolist](https://metrolist.cc/) / [android] / [github](https://github.com/MetrolistGroup/Metrolist)
-- [SimpMusic](https://www.simpmusic.org/) / [github](https://github.com/maxrave-dev/SimpMusic)
-- InnerTune / [android] / [github](https://github.com/z-huang/InnerTune)
-- [YTMDesktop](https://ytmdesktop.github.io/) / [github](https://github.com/ytmdesktop/ytmdesktop)
-- OuterTune / [github](https://github.com/OuterTune/OuterTune)
-
-::: details
-
-1. [youtube-music · GitHub Topics](https://github.com/topics/youtube-music)
-   :::
