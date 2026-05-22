@@ -32,12 +32,14 @@
 ### Bilibili video downloaders
 
 - [DownKyi](https://github.com/yaobiao131/downkyicore)
-- [Bili23 Downloader](https://bili23.scott-sloan.cn/) / [github](https://github.com/ScottSloan/Bili23-Downloader)
 - [BilibiliDown](https://nicelee.top/BilibiliDown/) / [github](https://github.com/nICEnnnnnnnLee/BilibiliDown)
+- [Bili23 Downloader](https://bili23.scott-sloan.cn/) / [github](https://github.com/ScottSloan/Bili23-Downloader)
 - [Bilidown](https://github.com/iuroc/bilidown)
 - [Bilibili Video Downloader](https://github.com/lanyeeee/bilibili-video-downloader)
 
 ## Discord
+
+- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 
 ### Discord rich presence tools
 
@@ -59,8 +61,13 @@
 - [Discord Messenger](https://iprogramincpp.com/discordmessenger/) / [windows] / [github](https://github.com/DiscordMessenger/dm)
 - [Abaddon](https://github.com/uowuo/abaddon)
 - [Dissent](https://github.com/diamondburned/dissent)
+- [DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient)
 
 ## NetEase Cloud Music
+
+- [Ponymusic](https://github.com/wangchenyan/ponymusic) - Music player / [android]
+- [Musicfox](https://github.com/go-musicfox/go-musicfox) / [cli]
+- [ZonyLrcToolsX](https://docs.myzony.com/) / [github](https://github.com/real-zony/ZonyLrcToolsX)
 
 ### NetEase Cloud Music third-party clients
 
@@ -70,11 +77,15 @@
 
 ## Reddit
 
+- [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) / [browser]
+
 ### Reddit third-party clients
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [android]
   - [Continuum](https://github.com/cygnusx-1-org/continuum) / [android]
 - [RedReader](https://github.com/QuantumBadger/RedReader) / [android]
+- [Apollo for Reddit](https://balackburn.github.io/Apollo/) / [apple] / [github](https://github.com/Balackburn/Apollo)
+- [Reddix](https://github.com/ck-zhang/reddix) / [cli]
 
 ## Spotify
 
@@ -96,6 +107,10 @@
   - [Nagram X](https://github.com/risin42/NagramX) / [android]
 - [Cherrygram](https://github.com/arslan4k1390/Cherrygram) / [android]
 - [Forkgram](https://github.com/forkgram/TelegramAndroid) / [android]
+
+## TikTok
+
+Unfinished.
 
 ## X (Twitter)
 

@@ -26,7 +26,7 @@
 - [BV](https://github.com/aaa1115910/bv) / [android]
 - [BiliPai](https://github.com/jay3-yy/BiliPai) / [android]
 - [Bilimiao](https://10miaomiao.cn/project/bilimiao) / [android] / [github](https://github.com/10miaomiao/bilimiao2)
-- [Bilibili For Linux](https://github.com/msojocs/bilibili-linux) / [linux]
+- [Bilibili Linux](https://github.com/msojocs/bilibili-linux) / [linux]
 - [BiliLite](https://github.com/ywmoyue/biliuwp-lite) - UWP / [windows]
 
 ### Bilibili 视频下载工具 {#bilibili-video-downloaders}
@@ -38,6 +38,8 @@
 - [Bilibili Video Downloader](https://github.com/lanyeeee/bilibili-video-downloader)
 
 ## Discord
+
+- [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 
 ### Discord 丰富状态工具 {#discord-rich-presence-tools}
 
@@ -59,8 +61,13 @@
 - [Discord Messenger](https://iprogramincpp.com/discordmessenger/) / [windows] / [github](https://github.com/DiscordMessenger/dm)
 - [Abaddon](https://github.com/uowuo/abaddon)
 - [Dissent](https://github.com/diamondburned/dissent)
+- [DiscordBotClient](https://github.com/aiko-chan-ai/DiscordBotClient)
 
 ## 网易云音乐 {#netease-cloud-music}
+
+- [Ponymusic](https://github.com/wangchenyan/ponymusic) - 音乐播放器 / [android]
+- [Musicfox](https://github.com/go-musicfox/go-musicfox) / [cli]
+- [ZonyLrcToolsX](https://docs.myzony.com/) / [github](https://github.com/real-zony/ZonyLrcToolsX)
 
 ### 网易云音乐第三方客户端 {#netease-cloud-music-third-party-clients}
 
@@ -70,11 +77,15 @@
 
 ## Reddit
 
+- [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) / [browser]
+
 ### Reddit 第三方客户端 {#reddit-third-party-clients}
 
 - [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) / [android]
   - [Continuum](https://github.com/cygnusx-1-org/continuum) / [android]
 - [RedReader](https://github.com/QuantumBadger/RedReader) / [android]
+- [Apollo for Reddit](https://balackburn.github.io/Apollo/) / [apple] / [github](https://github.com/Balackburn/Apollo)
+- [Reddix](https://github.com/ck-zhang/reddix) / [cli]
 
 ## Spotify
 
@@ -96,6 +107,10 @@
   - [Nagram X](https://github.com/risin42/NagramX) / [android]
 - [Cherrygram](https://github.com/arslan4k1390/Cherrygram) / [android]
 - [Forkgram](https://github.com/forkgram/TelegramAndroid) / [android]
+
+## TikTok
+
+未完成。
 
 ## X (Twitter)
 
