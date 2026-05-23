@@ -114,6 +114,17 @@
 
 ## Telegram
 
+### Telegram 官方客户端 {#telegram-official-clients}
+
+- [Telegram](https://telegram.org/) / [indexes](https://telegram.org/apps#source-code)
+  - [Telegram Desktop](https://desktop.telegram.org/) / [github](https://github.com/telegramdesktop/tdesktop)
+  - [Telegram for macOS](https://macos.telegram.org/) / [apple] / [github](https://github.com/overtake/TelegramSwift)
+  - [Telegram for Android ](https://telegram.org/android) / [android] / [github](https://github.com/DrKLO/Telegram)
+  - [Telegram X for Android](https://github.com/TGX-Android/Telegram-X) / [android]
+  - [Telegram for iOS](https://telegram.org/dl/ios) / [apple] / [github](https://github.com/TelegramMessenger/Telegram-iOS)
+  - [Telegram WebA](https://web.telegram.org/a/) / [web] /[github](https://github.com/Ajaxy/telegram-tt)
+  - [Telegram WebK](https://web.telegram.org/k/) / [web] / [github](https://github.com/morethanwords/tweb)
+
 ### Telegram 第三方客户端 {#telegram-third-party-clients}
 
 - [AyuGram](https://docs.ayugram.one/) / [github](https://github.com/AyuGram/AyuGramDesktop)
@@ -123,10 +134,12 @@
   - [Nagram X](https://github.com/risin42/NagramX) / [android]
 - [Cherrygram](https://github.com/arslan4k1390/Cherrygram) / [android]
 - [Forkgram](https://github.com/forkgram/TelegramAndroid) / [android]
+- [Materialgram](https://kukuruzka165.github.io/materialgram/) / [github](https://github.com/kukuruzka165/materialgram)
 
 ## TikTok
 
-未完成。
+- [DouK-Downloader](https://github.com/JoeanAmier/TikTokDownloader) / [cli]
+- [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 抖音直播录制工具
 
 ## X (Twitter)
 

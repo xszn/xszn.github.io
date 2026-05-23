@@ -138,8 +138,8 @@
 
 ## TikTok
 
-- https://github.com/JoeanAmier/TikTokDownloader
-- https://github.com/ihmily/DouyinLiveRecorder
+- [DouK-Downloader](https://github.com/JoeanAmier/TikTokDownloader) / [cli]
+- [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)
 
 ## X (Twitter)
 
