@@ -143,9 +143,17 @@
 
 ## X (Twitter)
 
+<!-- - https://github.com/BandarHL/BHTwitter
+- https://github.com/dimdenGD/OldTwitter
+- https://github.com/insin/control-panel-for-twitter
+- https://github.com/lcomplete/huntly
+- https://github.com/EltonChou/TwitterMediaHarvest
+- https://github.com/typefully/minimal-twitter -->
+
 ### X third-party clients
 
 - [Piko](https://github.com/crimera/twitter-apk) / [android]
+- [NeoFreeBird](https://neofreebird.com/) / [apple] / [github](https://github.com/NeoFreeBird/app)
 - [Fritter](https://fritter.cc/) / [android] / [github](https://github.com/jonjomckay/fritter)
   - [Squawker](https://github.com/j-fbriere/squawker) / [android]
 
