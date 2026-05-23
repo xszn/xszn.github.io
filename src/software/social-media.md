@@ -141,21 +141,24 @@
 - [DouK-Downloader](https://github.com/JoeanAmier/TikTokDownloader) / [cli]
 - [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder)
 
-## X (Twitter)
+## X/Twitter
 
-<!-- - https://github.com/BandarHL/BHTwitter
-- https://github.com/dimdenGD/OldTwitter
-- https://github.com/insin/control-panel-for-twitter
-- https://github.com/lcomplete/huntly
-- https://github.com/EltonChou/TwitterMediaHarvest
-- https://github.com/typefully/minimal-twitter -->
+- [BHTwitter](https://github.com/BandarHL/BHTwitter) / [apple]
+- [Control Panel for Twitter](https://github.com/insin/control-panel-for-twitter) / [browser]
+- [Huntly](https://huntly.codelc.com/) / [browser] / [github](https://github.com/lcomplete/huntly)
+- [Media Harvest](https://github.com/EltonChou/TwitterMediaHarvest) / [browser]
 
-### X third-party clients
+### X/Twitter third-party clients
 
 - [Piko](https://github.com/crimera/twitter-apk) / [android]
 - [NeoFreeBird](https://neofreebird.com/) / [apple] / [github](https://github.com/NeoFreeBird/app)
 - [Fritter](https://fritter.cc/) / [android] / [github](https://github.com/jonjomckay/fritter)
   - [Squawker](https://github.com/j-fbriere/squawker) / [android]
+
+### X/Twitter UI extension
+
+- [OldTwitter](https://github.com/dimdenGD/OldTwitter) / [browser]
+- [Minimal Theme for Twitter](https://github.com/typefully/minimal-twitter) / [browser]
 
 ## YouTube
 

@@ -141,13 +141,24 @@
 - [DouK-Downloader](https://github.com/JoeanAmier/TikTokDownloader) / [cli]
 - [DouyinLiveRecorder](https://github.com/ihmily/DouyinLiveRecorder) - 抖音直播录制工具
 
-## X (Twitter)
+## X/Twitter
 
-### X 第三方客户端 {#x-third-party-clients}
+- [BHTwitter](https://github.com/BandarHL/BHTwitter) - iOS 客户端增强工具 / [apple]
+- [Control Panel for Twitter](https://github.com/insin/control-panel-for-twitter) - 时间线控制 / [browser]
+- [Huntly](https://huntly.codelc.com/) - AI 信息聚合 / [browser] / [github](https://github.com/lcomplete/huntly)
+- [Media Harvest](https://github.com/EltonChou/TwitterMediaHarvest) - 媒体下载工具 / [browser]
+
+### X/Twitter 第三方客户端 {#x-twitter-third-party-clients}
 
 - [Piko](https://github.com/crimera/twitter-apk) / [android]
+- [NeoFreeBird](https://neofreebird.com/) / [apple] / [github](https://github.com/NeoFreeBird/app)
 - [Fritter](https://fritter.cc/) / [android] / [github](https://github.com/jonjomckay/fritter)
   - [Squawker](https://github.com/j-fbriere/squawker) / [android]
+
+### X/Twitter UI 扩展 {#x-twitter-ui-extension}
+
+- [OldTwitter](https://github.com/dimdenGD/OldTwitter) / [browser]
+- [Minimal Theme for Twitter](https://github.com/typefully/minimal-twitter) / [browser]
 
 ## YouTube
 
