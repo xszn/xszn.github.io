@@ -89,6 +89,22 @@
 
 ## Spotify
 
+### Spotify enhancers
+
+- [Spicetify](https://spicetify.app/) / [cli] / [github](https://github.com/spicetify/cli)
+- [Lyricify](https://lyricify.app/) / [github](https://github.com/WXRIW/Lyricify-App)
+- [SLyrics](https://github.com/mantou132/Spotify-Lyrics) / [browser]
+
+### Spotify music downloaders
+
+- [spotDL](https://spotdl.readthedocs.io/) / [cli] / [github](https://github.com/spotDL/spotify-downloader)
+- [SpotiFLAC](https://github.com/spotbye/SpotiFLAC)
+
+### Spotify playlist managers
+
+- [Exportify](https://exportify.app/) / [web] / [github](https://github.com/watsonbox/exportify)
+- [Spotify Dedup](https://spotify-dedup.com/) / [web] / [github](https://github.com/JMPerez/spotify-dedup)
+
 ### Spotify third-party clients
 
 - [Psst](https://github.com/jpochyla/psst)

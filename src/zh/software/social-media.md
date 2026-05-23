@@ -77,7 +77,7 @@
 
 ## Reddit
 
-- [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) / [browser]
+- [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit 增强套件 / [browser]
 
 ### Reddit 第三方客户端 {#reddit-third-party-clients}
 
@@ -88,6 +88,22 @@
 - [Reddix](https://github.com/ck-zhang/reddix) / [cli]
 
 ## Spotify
+
+### Spotify 增强工具 {#spotify-enhancers}
+
+- [Spicetify](https://spicetify.app/) / [cli] / [github](https://github.com/spicetify/cli)
+- [Lyricify](https://lyricify.app/) / [github](https://github.com/WXRIW/Lyricify-App)
+- [SLyrics](https://github.com/mantou132/Spotify-Lyrics) / [browser]
+
+### Spotify 音乐下载器 {#spotify-music-downloaders}
+
+- [spotDL](https://spotdl.readthedocs.io/) / [cli] / [github](https://github.com/spotDL/spotify-downloader)
+- [SpotiFLAC](https://github.com/spotbye/SpotiFLAC)
+
+### Spotify 歌单管理工具 {#spotify-playlist-managers}
+
+- [Exportify](https://exportify.app/) / [web] / [github](https://github.com/watsonbox/exportify)
+- [Spotify Dedup](https://spotify-dedup.com/) / [web] / [github](https://github.com/JMPerez/spotify-dedup)
 
 ### Spotify 第三方客户端 {#spotify-third-party-clients}
 
