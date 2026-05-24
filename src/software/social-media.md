@@ -193,11 +193,14 @@
 
 - [Pear](https://github.com/pear-devs/pear-desktop)
 - [Metrolist](https://metrolist.cc/) / [android] / [github](https://github.com/MetrolistGroup/Metrolist)
+- [SimpMusic](https://simpmusic.org/) / [github](https://github.com/maxrave-dev/SimpMusic)
 - [InnerTune](https://github.com/z-huang/InnerTune/) / [android]
 - [YTMDesktop](https://ytmdesktop.github.io/) / [github](https://github.com/ytmdesktop/ytmdesktop)
 - [Namida](https://github.com/namidaco/namida)
+- [ArchiveTune](https://archivetune.koiiverse.cloud/) / [android] / [github](https://github.com/koiverse/ArchiveTune)
 - [OpenTune](https://github.com/Arturo254/OpenTune) / [android]
 - [ViTune](https://vitune.app/) / [android] / [github](https://github.com/bartoostveen/ViTune)
 - [Kaset](https://github.com/sozercan/kaset) / [apple]
+- [Kreate](https://kreate.knighthat.me/) / [android] / [github](https://github.com/knighthat/Kreate)
 - [Echo Music](https://echomusic.fun/) / [android] / [github](https://github.com/EchoMusicApp/Echo-Music)
 - [YouTube Music for Desktop](https://youtube-music.app/) / [github](https://github.com/Venipa/ytmdesktop2)
