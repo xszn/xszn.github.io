@@ -162,13 +162,28 @@
 
 ## YouTube
 
+### YouTube downloader
+
+- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
+- [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader)
+- [YTDLnis](https://ytdlnis.org/) / [android] / [github](https://github.com/deniscerri/ytdlnis)
+- [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) / [github](https://github.com/jely2002/youtube-dl-gui)
+- [YouTube Playlist Downloader](https://github.com/shaked6540/YoutubePlaylistDownloader) / [windows]
+- [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [windows]
+- [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) / [windows]
+
 ### YouTube third-party clients
 
 - [NewPipe](https://newpipe.net/) / [android] / [github](https://github.com/TeamNewPipe/NewPipe/)
 - [SmartTube](https://smarttubeapp.github.io/) / [android] / [github](https://github.com/yuliskov/SmartTube)
 - [FreeTube](https://libretube.dev/) / [github](https://github.com/FreeTubeApp/FreeTube)
 - [LibreTube](https://libretube.dev/) / [android] / [github](https://github.com/libre-tube/LibreTube)
+- [PipePipe](https://pipepipe.dev/) / [android] / [github](https://github.com/InfinityLoop1308/PipePipe)
 - [SkyTube](https://github.com/SkyTubeTeam/SkyTube) / [android]
+- [YT PRO](https://prateek.is-a.dev/YTPro/) / [android] / [github](https://github.com/prateek-chaubey/YTPro)
+- [Materialious](https://materialio.us/) / [github](https://github.com/Materialious/Materialious)
+- [Flow](https://flow.aedev.me/) / [android] / [github](https://github.com/A-EDev/Flow)
+- [NouTube](https://oss.nonbili.jp/noutube/) / [android] / [github](https://github.com/nonbili/NouTube)
 
 ## YouTube Music
 
@@ -179,6 +194,7 @@
 - [InnerTune](https://github.com/z-huang/InnerTune/) / [android]
 - [YTMDesktop](https://ytmdesktop.github.io/) / [github](https://github.com/ytmdesktop/ytmdesktop)
 - [OpenTune](https://github.com/Arturo254/OpenTune) / [android]
+- [ViTune](https://vitune.app/) / [android] / [github](https://github.com/bartoostveen/ViTune)
+- [Kaset](https://github.com/sozercan/kaset) / [apple]
 - [Echo Music](https://echomusic.fun/) / [android] / [github](https://github.com/EchoMusicApp/Echo-Music)
-- [Flow](https://flow.aedev.me/) / [android] / [github](https://github.com/A-EDev/Flow)
 - [YouTube Music for Desktop](https://youtube-music.app/) / [github](https://github.com/Venipa/ytmdesktop2)
