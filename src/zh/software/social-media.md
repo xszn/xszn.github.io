@@ -171,6 +171,7 @@
 - [YouTube Playlist Downloader](https://github.com/shaked6540/YoutubePlaylistDownloader) / [windows]
 - [yt-dlp-gui](https://github.com/kannagi0303/yt-dlp-gui) / [windows]
 - [Cube YouTube Downloader](https://github.com/database64128/youtube-dl-wpf) / [windows]
+- [YTPTube](https://github.com/arabcoders/ytptube) / [web]
 
 ### YouTube 第三方客户端 {#youtube-third-party-clients}
 
@@ -179,6 +180,7 @@
 - [FreeTube](https://libretube.dev/) / [github](https://github.com/FreeTubeApp/FreeTube)
 - [LibreTube](https://libretube.dev/) / [android] / [github](https://github.com/libre-tube/LibreTube)
 - [PipePipe](https://pipepipe.dev/) / [android] / [github](https://github.com/InfinityLoop1308/PipePipe)
+- [Yattee](https://docs.yattee.stream/) / [apple] / [github](https://github.com/yattee/yattee)
 - [SkyTube](https://github.com/SkyTubeTeam/SkyTube) / [android]
 - [YT PRO](https://prateek.is-a.dev/YTPro/) / [android] / [github](https://github.com/prateek-chaubey/YTPro)
 - [Materialious](https://materialio.us/) / [github](https://github.com/Materialious/Materialious)
@@ -193,6 +195,7 @@
 - [Metrolist](https://metrolist.cc/) / [android] / [github](https://github.com/MetrolistGroup/Metrolist)
 - [InnerTune](https://github.com/z-huang/InnerTune/) / [android]
 - [YTMDesktop](https://ytmdesktop.github.io/) / [github](https://github.com/ytmdesktop/ytmdesktop)
+- [Namida](https://github.com/namidaco/namida)
 - [OpenTune](https://github.com/Arturo254/OpenTune) / [android]
 - [ViTune](https://vitune.app/) / [android] / [github](https://github.com/bartoostveen/ViTune)
 - [Kaset](https://github.com/sozercan/kaset) / [apple]
