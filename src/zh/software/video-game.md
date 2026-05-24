@@ -1,39 +1,39 @@
 # 电子游戏软件
 
-## 游戏启动器
+## 游戏启动器 {#game-launchers}
 
-- [Starward](https://starward.scighost.com/) - Game Launcher for miHoYo / [windows] / [github](https://github.com/Scighost/Starward)
-- [Heroic](https://heroicgameslauncher.com/) / [github](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
-- An Anime Game Launcher / [linux] / [github](https://github.com/an-anime-team/an-anime-game-launcher)
-- [Playnite](https://playnite.link/) / [windows] / [github](https://github.com/JosefNemec/Playnite)
-- [Lutris](https://lutris.net/) / [linux] / [github](https://github.com/lutris/lutris)
+- [Starward](https://starward.scighost.com/) - 米哈游启动器 / [windows] / [github](https://github.com/Scighost/Starward)
+- [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) - 动漫游戏启动器 / [linux]
+
+### 多游戏启动器 {#multi-game-launchers}
+
 - [Hydra Launcher](https://hydralauncher.gg/) / [github](https://github.com/hydralauncher/hydra)
-- [Vnite](https://github.com/ximu3/vnite) / [github](https://github.com/ximu3/vnite)
-- [NonSteamLaunchers](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck) / [github](https://github.com/moraroy/NonSteamLaunchers-On-Steam-Deck)
-- [EmuDeck](https://www.emudeck.com/) / [github](https://github.com/dragoonDorise/EmuDeck)
+- [Playnite](https://playnite.link/) / [windows] / [github](https://github.com/JosefNemec/Playnite)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) / [github](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+- [Lutris](https://lutris.net/) / [linux] / [github](https://github.com/lutris/lutris)
+- [Mythic](https://getmythic.app/) / [apple] / [github](https://github.com/MythicApp/Mythic)
+- [Vnite](https://vnite.ximu.dev/) / [windows] / [github](https://github.com/ximu3/vnite)
 
-### Minecraft 启动器
+### Minecraft 启动器 {#minecraft-launchers}
 
 - [Prism Launcher](https://prismlauncher.org/) / [github](https://github.com/PrismLauncher/PrismLauncher)
-- [HMCL](https://hmcl.huangyuhui.net/) - Hello Minecraft! Launcher / [github](https://github.com/HMCL-dev/HMCL)
-- [XMCL](https://xmcl.app/) - X Minecraft Launcher [github](https://github.com/voxelum/x-minecraft-launcher)
-- [Bedrock Launcher](https://bedrocklauncher.github.io/) / [windows] / [github](https://github.com/BedrockLauncher/BedrockLauncher)
-- MinecraftConsoles / [windows] / [github](https://github.com/MCLCE/MinecraftConsoles)
-- [Modrinth](https://modrinth.com/) / [github](https://github.com/modrinth/code)
+- [HMCL](https://hmcl.huangyuhui.net/) / [github](https://github.com/HMCL-dev/HMCL)
+- [Plain Craft Launcher](https://meloong.com/PCL) / [github](https://github.com/Meloong-Git/PCL) / [windows]
 - [MultiMC](https://multimc.org/) / [github](https://github.com/MultiMC/Launcher/)
-- [PolyMC](https://polymc.org/) / [github](https://github.com/PolyMC/PolyMC)
-- Plain Craft Launcher / [github](https://github.com/Meloong-Git/PCL)
+- [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher) / [android]
 - [PCL Community Edition](https://www.pclc.cc/projects/pcl-ce/) / [github](https://github.com/PCL-Community/PCL-CE)
-
-::: details
-1. [minecraft-launcher · GitHub Topics](https://github.com/topics/minecraft-launcher)
-:::
+- [Modrinth](https://modrinth.com/) / [github](https://github.com/modrinth/code)
+- [PolyMC](https://polymc.org/) / [github](https://github.com/PolyMC/PolyMC)
+- [XMCL](https://xmcl.app/) / [github](https://github.com/voxelum/x-minecraft-launcher)
+- [Bedrock Launcher](https://bedrocklauncher.github.io/) / [windows] / [github](https://github.com/BedrockLauncher/BedrockLauncher)
+- [Zalith Launcher 2](https://www.zalithlauncher.cn/) / [android] / [github](https://github.com/ZalithLauncher/ZalithLauncher2)
+- [Helios Launcher](https://github.com/dscalzi/HeliosLauncher)
+- [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 多版本启动器 / [windows]
 
 ## 游戏工具包
 
 - [Watt Toolkit](https://steampp.net/) / [github](https://github.com/BeyondDimension/SteamTools)
 - [OpenSpeedy](https://www.fiofio.cn/en/) / [windows] / [github](https://github.com/game1024/OpenSpeedy)
-- XToolBox / [windows] / [github](https://github.com/nyxiereal/XToolbox)
 - [ShaderGlass](https://mausimus.itch.io/shaderglass) - GPU Shader / [windows] / [github](https://github.com/mausimus/ShaderGlass)
 
 ## 游戏机模拟器
@@ -55,9 +55,3 @@
 - [RPCS3](https://rpcs3.net/) - PS3 Emulator / [github](https://github.com/RPCS3/rpcs3)
 - [PCSX2](https://pcsx2.net/) - PS2 Emulator / [github](https://github.com/PCSX2/pcsx2)
 - [DuckStation](https://www.duckstation.org/) - PS1 Emulator / [github](https://github.com/stenzek/duckstation)
-
-::: details
-1. [emulator · GitHub Topics](https://github.com/topics/emulator)
-2. [Category:Video game platform emulators - Wikipedia](https://en.wikipedia.org/wiki/Category:Video_game_platform_emulators)
-3. [List of video game console emulators - Wikipedia](https://en.wikipedia.org/wiki/List_of_video_game_console_emulators)
-:::
