@@ -5,15 +5,6 @@
 - [Starward](https://starward.scighost.com/) - Game launcher for miHoYo / [windows] / [github](https://github.com/Scighost/Starward)
 - [An Anime Game Launcher](https://github.com/an-anime-team/an-anime-game-launcher) / [linux]
 
-### Multi game launchers
-
-- [Hydra Launcher](https://hydralauncher.gg/) / [github](https://github.com/hydralauncher/hydra)
-- [Playnite](https://playnite.link/) / [windows] / [github](https://github.com/JosefNemec/Playnite)
-- [Heroic Games Launcher](https://heroicgameslauncher.com/) / [github](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
-- [Lutris](https://lutris.net/) / [linux] / [github](https://github.com/lutris/lutris)
-- [Mythic](https://getmythic.app/) / [apple] / [github](https://github.com/MythicApp/Mythic)
-- [Vnite](https://vnite.ximu.dev/) / [windows] / [github](https://github.com/ximu3/vnite)
-
 ### Minecraft launchers
 
 - [Prism Launcher](https://prismlauncher.org/) / [github](https://github.com/PrismLauncher/PrismLauncher)
@@ -30,6 +21,22 @@
 - [Helios Launcher](https://github.com/dscalzi/HeliosLauncher)
 - [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 Multi-Version launcher / [windows]
 
+### Multi game launchers
+
+- [Hydra Launcher](https://hydralauncher.gg/) / [github](https://github.com/hydralauncher/hydra)
+- [Playnite](https://playnite.link/) / [windows] / [github](https://github.com/JosefNemec/Playnite)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) / [github](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)
+- [Lutris](https://lutris.net/) / [linux] / [github](https://github.com/lutris/lutris)
+- [Mythic](https://getmythic.app/) / [apple] / [github](https://github.com/MythicApp/Mythic)
+- [Vnite](https://vnite.ximu.dev/) / [windows] / [github](https://github.com/ximu3/vnite)
+
+### Roblox launchers
+
+- [Bloxstrap](https://bloxstraplabs.com/) / [windows] / [github](https://github.com/bloxstraplabs/bloxstrap)
+  - [Voidstrap](https://voidstrapp.netlify.app/) / [windows] / [github](https://github.com/voidstrap/Voidstrap)
+- [Novetus](https://bitl.itch.io/novetus) / [windows] / [github](https://github.com/Novetus/Novetus_src)
+- [AppleBlox](https://appleblox.com/) / [apple] / [github](https://github.com/AppleBlox/appleblox)
+
 ## Game toolkits
 
 - [Watt Toolkit](https://steampp.net/) - Steam tools / [github](https://github.com/BeyondDimension/SteamTools)
@@ -43,20 +50,20 @@
 - [Bit Slicer](https://github.com/zorgiepoo/Bit-Slicer) / [apple]
 - [Squalr](https://squalr.com/) / [github](https://github.com/Squalr/Squalr)
 
-## Video game emulator
+## Video game console emulators
 
 - [RetroArch](https://www.retroarch.com/) - Frontend / [github](https://github.com/libretro/RetroArch)
 - [OpenEmu](https://openemu.org/) - Multi-system emulator / [apple] / [github](https://github.com/OpenEmu/OpenEmu)
 - [Provenance](https://provenance-emu.com/) / [apple] / [github](https://github.com/Provenance-Emu/Provenance)
 - [Xenia](https://xenia.jp/) - Xbox 360 Emulator / [github](https://github.com/xenia-project/xenia)
 
-### Nintendo emulator
+### Nintendo emulators
 
 - [Dolphin](https://cn.dolphin-emu.org/) - GameCube and Wii Emulator / [github](https://github.com/dolphin-emu/dolphin)
 - [Cemu](https://cemu.info/) - Wii U Emulator / [github](https://github.com/cemu-project/Cemu)
 - [mGBA](https://mgba.io/) - GBA Emulator / [github](https://github.com/mgba-emu/mgba)
 
-### Sony emulator
+### Sony emulators
 
 - [shadPS4](https://shadps4.net/) - PS4 Emulator / [github](https://github.com/shadps4-emu/shadPS4)
 - [RPCS3](https://rpcs3.net/) - PS3 Emulator / [github](https://github.com/RPCS3/rpcs3)
