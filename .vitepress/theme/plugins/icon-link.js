@@ -10,7 +10,7 @@ const DEFAULT_ICON_MAP = {
   linux: { title: "Linux", className: "bi-tux" },
   web: { title: "Web", className: "bi-globe2" },
   windows: { title: "Windows", className: "bi-windows" },
-  add: { title: "Added", className: "bi-file-earmark-plus-fill" },
+  add: { title: "Added", className: "bi-file-earmark-plus" },
   del: { title: "Delete", className: "bi-trash" },
 };
 
