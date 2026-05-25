@@ -30,10 +30,13 @@
 - [Mythic](https://getmythic.app/) / [apple] / [github](https://github.com/MythicApp/Mythic)
 - [Vnite](https://vnite.ximu.dev/) / [windows] / [github](https://github.com/ximu3/vnite)
 
-### Roblox launchers
+### Roblox third party launchers
 
 - [Bloxstrap](https://bloxstraplabs.com/) / [windows] / [github](https://github.com/bloxstraplabs/bloxstrap)
+  - [Fishstrap](https://www.fishstrap.app/) / [windows] / [github](https://github.com/fishstrap/fishstrap)
+  - [Froststrap](https://froststrap.github.io/) / [github](https://github.com/Froststrap/Froststrap)
   - [Voidstrap](https://voidstrapp.netlify.app/) / [windows] / [github](https://github.com/voidstrap/Voidstrap)
+- [Sober](https://sober.vinegarhq.org/) / [linux] / [github](https://github.com/vinegarhq/sober)
 - [Novetus](https://bitl.itch.io/novetus) / [windows] / [github](https://github.com/Novetus/Novetus_src)
 - [AppleBlox](https://appleblox.com/) / [apple] / [github](https://github.com/AppleBlox/appleblox)
 

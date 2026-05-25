@@ -21,13 +21,6 @@
 - [Helios Launcher](https://github.com/dscalzi/HeliosLauncher)
 - [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 多版本启动器 / [windows]
 
-### Roblox 启动器 {#roblox-launchers}
-
-- [Bloxstrap](https://bloxstraplabs.com/) / [windows] / [github](https://github.com/bloxstraplabs/bloxstrap)
-  - [Voidstrap](https://voidstrapp.netlify.app/) / [windows] / [github](https://github.com/voidstrap/Voidstrap)
-- [Novetus](https://bitl.itch.io/novetus) / [windows] / [github](https://github.com/Novetus/Novetus_src)
-- [AppleBlox](https://appleblox.com/) / [apple] / [github](https://github.com/AppleBlox/appleblox)
-
 ### 多游戏启动器 {#multi-game-launchers}
 
 - [Hydra Launcher](https://hydralauncher.gg/) / [github](https://github.com/hydralauncher/hydra)
@@ -36,6 +29,16 @@
 - [Lutris](https://lutris.net/) / [linux] / [github](https://github.com/lutris/lutris)
 - [Mythic](https://getmythic.app/) / [apple] / [github](https://github.com/MythicApp/Mythic)
 - [Vnite](https://vnite.ximu.dev/) / [windows] / [github](https://github.com/ximu3/vnite)
+
+### Roblox 第三方启动器 {#roblox-third-party-launchers}
+
+- [Bloxstrap](https://bloxstraplabs.com/) / [windows] / [github](https://github.com/bloxstraplabs/bloxstrap)
+  - [Fishstrap](https://www.fishstrap.app/) / [windows] / [github](https://github.com/fishstrap/fishstrap)
+  - [Froststrap](https://froststrap.github.io/) / [github](https://github.com/Froststrap/Froststrap)
+  - [Voidstrap](https://voidstrapp.netlify.app/) / [windows] / [github](https://github.com/voidstrap/Voidstrap)
+- [Sober](https://sober.vinegarhq.org/) / [linux] / [github](https://github.com/vinegarhq/sober)
+- [Novetus](https://bitl.itch.io/novetus) / [windows] / [github](https://github.com/Novetus/Novetus_src)
+- [AppleBlox](https://appleblox.com/) / [apple] / [github](https://github.com/AppleBlox/appleblox)
 
 ## 游戏工具箱 {#game-toolkits}
 
