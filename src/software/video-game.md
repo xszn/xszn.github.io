@@ -32,8 +32,8 @@
 
 ## Game toolkits
 
-- [Watt Toolkit](https://steampp.net/) / [github](https://github.com/BeyondDimension/SteamTools)
-- [OpenSpeedy](https://www.fiofio.cn/en/) / [windows] / [github](https://github.com/game1024/OpenSpeedy)
+- [Watt Toolkit](https://steampp.net/) - Steam tools / [github](https://github.com/BeyondDimension/SteamTools)
+- [OpenSpeedy](https://www.fiofio.cn/en/) - Game speed controller / [windows] / [github](https://github.com/game1024/OpenSpeedy)
 - [ShaderGlass](https://mausimus.itch.io/shaderglass) - GPU Shader / [windows] / [github](https://github.com/mausimus/ShaderGlass)
 
 ## Video game emulator

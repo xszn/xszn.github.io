@@ -30,11 +30,11 @@
 - [Helios Launcher](https://github.com/dscalzi/HeliosLauncher)
 - [MCLauncher](https://github.com/MCMrARM/mc-w10-version-launcher) - Windows 10 多版本启动器 / [windows]
 
-## 游戏工具包
+## 游戏工具箱
 
-- [Watt Toolkit](https://steampp.net/) / [github](https://github.com/BeyondDimension/SteamTools)
-- [OpenSpeedy](https://www.fiofio.cn/en/) / [windows] / [github](https://github.com/game1024/OpenSpeedy)
-- [ShaderGlass](https://mausimus.itch.io/shaderglass) - GPU Shader / [windows] / [github](https://github.com/mausimus/ShaderGlass)
+- [Watt Toolkit](https://steampp.net/) - Steam 工具箱 / [github](https://github.com/BeyondDimension/SteamTools)
+- [OpenSpeedy](https://www.fiofio.cn/en/) - 游戏变速器 / [windows] / [github](https://github.com/game1024/OpenSpeedy)
+- [ShaderGlass](https://mausimus.itch.io/shaderglass) - GPU 着色器 / [windows] / [github](https://github.com/mausimus/ShaderGlass)
 
 ## 游戏机模拟器
 

@@ -10,6 +10,8 @@ const DEFAULT_ICON_MAP = {
   linux: { title: "Linux", className: "bi-tux" },
   web: { title: "Web", className: "bi-globe2" },
   windows: { title: "Windows", className: "bi-windows" },
+  add: { title: "Added", className: "bi-file-earmark-plus-fill" },
+  del: { title: "Delete", className: "bi-trash-fill" },
 };
 
 export function iconLink(md, options = {}) {
