@@ -11,7 +11,7 @@ const DEFAULT_ICON_MAP = {
   web: { title: "Web", className: "bi-globe2" },
   windows: { title: "Windows", className: "bi-windows" },
   add: { title: "Added", className: "bi-file-earmark-plus-fill" },
-  del: { title: "Delete", className: "bi-trash-fill" },
+  del: { title: "Delete", className: "bi-trash" },
 };
 
 export function iconLink(md, options = {}) {

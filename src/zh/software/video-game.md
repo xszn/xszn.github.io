@@ -36,6 +36,13 @@
 - [OpenSpeedy](https://www.fiofio.cn/en/) - 游戏变速器 / [windows] / [github](https://github.com/game1024/OpenSpeedy)
 - [ShaderGlass](https://mausimus.itch.io/shaderglass) - GPU 着色器 / [windows] / [github](https://github.com/mausimus/ShaderGlass)
 
+## 游戏修改器 {#game-trainers}
+
+- [Cheat Engine](https://cheatengine.org/) / [github](https://github.com/cheat-engine/cheat-engine)
+- [Game Cheats Manager](https://gamezonelabs.com/products/game-cheats-manager) / [windows] / [github](https://github.com/dyang886/Game-Cheats-Manager)
+- [Bit Slicer](https://github.com/zorgiepoo/Bit-Slicer) / [apple]
+- [Squalr](https://squalr.com/) / [github](https://github.com/Squalr/Squalr)
+
 ## 游戏机模拟器
 
 - [RetroArch](https://www.retroarch.com/) - Frontend / [github](https://github.com/libretro/RetroArch)

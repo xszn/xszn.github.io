@@ -36,6 +36,13 @@
 - [OpenSpeedy](https://www.fiofio.cn/en/) - Game speed controller / [windows] / [github](https://github.com/game1024/OpenSpeedy)
 - [ShaderGlass](https://mausimus.itch.io/shaderglass) - GPU Shader / [windows] / [github](https://github.com/mausimus/ShaderGlass)
 
+## Game trainers
+
+- [Cheat Engine](https://cheatengine.org/) / [github](https://github.com/cheat-engine/cheat-engine)
+- [Game Cheats Manager](https://gamezonelabs.com/products/game-cheats-manager) / [windows] / [github](https://github.com/dyang886/Game-Cheats-Manager)
+- [Bit Slicer](https://github.com/zorgiepoo/Bit-Slicer) / [apple]
+- [Squalr](https://squalr.com/) / [github](https://github.com/Squalr/Squalr)
+
 ## Video game emulator
 
 - [RetroArch](https://www.retroarch.com/) - Frontend / [github](https://github.com/libretro/RetroArch)
