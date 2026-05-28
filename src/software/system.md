@@ -110,6 +110,38 @@ Unfinished.
 
 ## Virtualization software
 
+### Emulation software
+
+Unfinished.
+
+<!-- - https://github.com/copy/v86
+- https://github.com/ish-app/ish
+- https://github.com/ruffle-rs/ruffle
+- https://github.com/unicorn-engine/unicorn
+- https://github.com/felixrieseberg/macintosh.js
+- https://github.com/FEX-Emu/FEX
+- https://github.com/mininet/mininet
+- https://github.com/ptitSeb/box64
+- https://github.com/86Box/86Box
+- https://github.com/Swordfish90/Lemuroid
+- https://github.com/ChefKissInc/Inferno
+- https://github.com/ministackorg/ministack
+- https://github.com/momo5502/sogen
+- https://github.com/cksystemsteaching/selfie
+- https://github.com/xoureldeen/Vectras-VM-Android
+- https://github.com/lamster2018/EasyProtector
+- https://github.com/SystemRage/py-kms
+- https://github.com/emsec/ChameleonMini
+- https://github.com/s-macke/jor1k
+- https://github.com/1j01/98
+- https://github.com/LekKit/RVVM
+- https://github.com/jeffpar/pcjs
+- https://github.com/TomHarte/CLK
+- https://github.com/d0iasm/rvemu
+- https://github.com/AppleWin/AppleWin
+- https://github.com/0ldsk00l/nestopia
+- https://github.com/danoon2/Boxedwine -->
+
 ### Virtual machines
 
 - [VirtualBox](https://www.virtualbox.org/) - VMware Workstation alternatives / [github](https://github.com/VirtualBox/virtualbox)

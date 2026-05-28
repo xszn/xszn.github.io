@@ -55,20 +55,57 @@
 
 ## Video game console emulators
 
-- [RetroArch](https://www.retroarch.com/) - Frontend / [github](https://github.com/libretro/RetroArch)
-- [OpenEmu](https://openemu.org/) - Multi-system emulator / [apple] / [github](https://github.com/OpenEmu/OpenEmu)
+### Arcade
+
+- [MAME](https://www.mamedev.org/) / [windows] / [github](https://github.com/mamedev/mame)
+- [FinalBurn Neo](https://github.com/finalburnneo/FBNeo)
+
+### Frontends
+
+- [RetroArch](https://www.retroarch.com/) / [github](https://github.com/libretro/RetroArch)
+- [ES-DE Frontend](https://es-de.org/) / [gitlab](https://gitlab.com/es-de/emulationstation-de)
+- [Pegasus Frontend](https://pegasus-frontend.org/) / [github](https://github.com/mmatyas/pegasus-frontend)
+
+### Microsoft
+
+- [xemu](https://xemu.app/) - Original Xbox emulator / [github](https://github.com/xemu-project/xemu)
+- [Cxbx Reloaded](https://cxbx-reloaded.co.uk/) - Original Xbox emulator / [windows] / [github](https://github.com/Cxbx-Reloaded/Cxbx-Reloaded-legacy)
+- [Xenia](https://xenia.jp/) - Xbox 360 emulator / [github](https://github.com/xenia-project/xenia)
+
+### Multi-system emulators
+
+- [OpenEmu](https://openemu.org/) / [apple] / [github](https://github.com/OpenEmu/OpenEmu)
 - [Provenance](https://provenance-emu.com/) / [apple] / [github](https://github.com/Provenance-Emu/Provenance)
-- [Xenia](https://xenia.jp/) - Xbox 360 Emulator / [github](https://github.com/xenia-project/xenia)
+- [Delta](https://faq.deltaemulator.com/) / [apple] / [github](https://github.com/rileytestut/Delta)
+- [BizHawk](https://tasvideos.org/BizHawk) / [github](https://github.com/TASEmulators/BizHawk)
+- [Mesen](https://github.com/SourMesen/Mesen2)
+- [Flycast](https://github.com/flyinghead/flycast)
+- [Ares](https://ares-emu.net/) / [github](https://github.com/ares-emulator/ares)
+- [SkyEmu](https://github.com/skylersaleh/SkyEmu) - GB, GBC, GBA and NDS emulator
 
-### Nintendo emulators
+### Nintendo
 
-- [Dolphin](https://cn.dolphin-emu.org/) - GameCube and Wii Emulator / [github](https://github.com/dolphin-emu/dolphin)
-- [Cemu](https://cemu.info/) - Wii U Emulator / [github](https://github.com/cemu-project/Cemu)
-- [mGBA](https://mgba.io/) - GBA Emulator / [github](https://github.com/mgba-emu/mgba)
+- [Bsnes](https://github.com/bsnes-emu/bsnes) - SNES emulator
+- [Gearboy](https://github.com/drhelius/Gearboy) - GB, SGB and GBC emulator
+- [Gopher64](https://loganmc10.itch.io/gopher64) - N64 emulator / [github](https://github.com/gopher64/gopher64)
+- [Dolphin](https://cn.dolphin-emu.org/) - GameCube and Wii emulator / [github](https://github.com/dolphin-emu/dolphin)
+- [Cemu](https://cemu.info/) - Wii U emulator / [github](https://github.com/cemu-project/Cemu)
+  - [Cemu Android Port](https://github.com/SSimco/Cemu) - Wii U emulator / [android]
+- [mGBA](https://mgba.io/) - GBA emulator / [github](https://github.com/mgba-emu/mgba)
+- [SameBoy](https://sameboy.github.io/) - GB and GBC emulator / [github](https://github.com/LIJI32/SameBoy)
+- [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance) - GBA emulator
+- [melonDS](https://melonds.kuribo64.net/) - Nintendo DS emulator / [github](https://github.com/melonDS-emu/melonDS)
+  - [melonDS Android port](https://github.com/rafaelvcaetano/melonDS-android) - Nintendo DS emulator / [android]
+- [DeSmuME](http://desmume.org/) - Nintendo DS emulator / [github](https://github.com/TASEmulators/desmume)
+- [Panda3DS](https://panda3ds.com/) - Nintendo 3DS emulator [github](https://github.com/wheremyfoodat/Panda3DS)
 
-### Sony emulators
+### Sony
 
-- [shadPS4](https://shadps4.net/) - PS4 Emulator / [github](https://github.com/shadps4-emu/shadPS4)
-- [RPCS3](https://rpcs3.net/) - PS3 Emulator / [github](https://github.com/RPCS3/rpcs3)
-- [PCSX2](https://pcsx2.net/) - PS2 Emulator / [github](https://github.com/PCSX2/pcsx2)
-- [DuckStation](https://www.duckstation.org/) - PS1 Emulator / [github](https://github.com/stenzek/duckstation)
+- [shadPS4](https://shadps4.net/) - PS4 emulator / [github](https://github.com/shadps4-emu/shadPS4)
+- [RPCS3](https://rpcs3.net/) - PS3 emulator / [github](https://github.com/RPCS3/rpcs3)
+- [PCSX2](https://pcsx2.net/) - PS2 emulator / [github](https://github.com/PCSX2/pcsx2)
+- [Play!](https://purei.org/) - PS2 emulator / [github](https://github.com/jpd002/play-)
+- [NetherSX2](https://github.com/Trixarian/NetherSX2-patch) - PS2 emulator / [android]
+  - [NetherSX2 Classic](https://github.com/Trixarian/NetherSX2-classic) - PS2 emulator / [android]
+- [DuckStation](https://www.duckstation.org/) - PS1 emulator / [github](https://github.com/stenzek/duckstation)
+- [Vita3K](https://vita3k.org/) - PSVita emulator / [github](https://github.com/Vita3K/Vita3K)
