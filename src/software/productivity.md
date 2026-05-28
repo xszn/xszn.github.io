@@ -8,12 +8,6 @@
 - Episode-ReName / [github](https://github.com/Nriver/Episode-ReName)
 - [Blur Auto Clicker](https://blur009.vercel.app/projects/blur-autoclicker) / [windows] / [github](https://github.com/Blur009/Blur-AutoClicker)
 
-::: details
-
-1. [automation · GitHub Topics](https://github.com/topics/automation)
-2. [Category:Automation software - Wikipedia](https://en.wikipedia.org/wiki/Category:Automation_software)
-   :::
-
 ## Desktop search tools
 
 - [Everything](https://www.voidtools.com/) - nonfree / [windows]
@@ -30,26 +24,12 @@
 - [IT Tools](https://it-tools.tech/) / [web] / [github](https://github.com/corentinth/it-tools)
 - Dev Toolbox / [linux] / [github](https://github.com/aleiepure/devtoolbox)
 
-::: details
-
-1. [developer-tools · GitHub Topics](https://github.com/topics/developer-tools)
-2. [Web development tools - Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)
-   :::
-
 ## Diagramming software
 
 - [draw.io](https://www.drawio.com/) / [github](https://github.com/jgraph/drawio), [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / [github](https://github.com/DayuanJiang/next-ai-draw-io)
 - [Mermaid](https://mermaid.ai/open-source/) / [web] / [github](https://github.com/mermaid-js/mermaid)
 - [Excalidraw](https://excalidraw.com/) / [web] / [github](https://github.com/excalidraw/excalidraw)
 - [JSON Crack](https://jsoncrack.com/) / [web] /[github](https://github.com/AykutSarac/jsoncrack.com)
-
-::: details
-
-1. [diagram · GitHub Topics](https://github.com/topics/diagram)
-2. [diagrams · GitHub Topics](https://github.com/topics/diagrams)
-3. [flowchart · GitHub Topics](https://github.com/topics/flowchart)
-4. [Category:Diagramming software - Wikipedia](https://en.wikipedia.org/wiki/Category:Diagramming_software)
-   :::
 
 ## File converter
 
@@ -66,12 +46,6 @@
 - TaoSync - Sync for OpenList/AList / [github](https://github.com/dr34m-cn/taosync)
 - [Seafile](https://www.seafile.com/) / [github](https://github.com/haiwen/seafile)
 
-::: details
-
-1. [file-sync · GitHub Topics](https://github.com/topics/file-sync)
-2. [Comparison of file synchronization software - Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_synchronization_software)
-   :::
-
 ## Local LLM tools
 
 - [Ollama](https://ollama.com/) / <Icon href="" src="github" />
@@ -82,12 +56,6 @@
 - [LocalAI](https://localai.io/) / [github](https://github.com/mudler/localai)
 - [llamafile](https://docs.mozilla.ai/llamafile) / [github](https://github.com/mozilla-ai/llamafile)
 
-::: details
-
-1. [llm · GitHub Topics](https://github.com/topics/llm)
-2. [local-llm · GitHub Topics](https://github.com/topics/local-llm)
-   :::
-
 ## Office suites
 
 - [OnlyOffice](https://www.onlyoffice.com/) / [github](https://github.com/ONLYOFFICE/DesktopEditors)
@@ -95,22 +63,11 @@
 - [OpenOffice](https://www.openoffice.org/) / [github](https://github.com/apache/openoffice)
 - [Collabora Office](https://collaboraonline.github.io/) / [github](https://github.com/CollaboraOnline/online)
 
-::: details
-
-1. [Category:Office suites - Wikipedia](https://en.wikipedia.org/wiki/Category:Office_suites)
-   :::
-
 ## Speech recognition software
 
 - [Handy](https://handy.computer/) / [github](https://github.com/cjpais/handy)
 - [pyVideoTrans](https://pyvideotrans.com/) / [windows] / [github](https://github.com/jianchang512/stt)
 - [Vibe](https://thewh1teagle.github.io/vibe/) / [github](https://github.com/thewh1teagle/vibe)
-
-::: details
-
-1. [speech-to-text · GitHub Topics](https://github.com/topics/speech-to-text)
-2. [List of speech recognition software - Wikipedia](https://en.wikipedia.org/wiki/List_of_speech_recognition_software)
-   :::
 
 ## PDF software
 
@@ -147,16 +104,6 @@
 - [MarkPDFDown](https://markdown.fit/) / [github](https://github.com/MarkPDFdown/markpdfdown-desktop)
 - [PDFMathTranslate](https://pdf2zh.com/) / [github](https://github.com/PDFMathTranslate/PDFMathTranslate)
 
-::: details
-
-1. [pdf-generation · GitHub Topics](https://github.com/topics/pdf-generation)
-2. [pdf-viewer · GitHub Topics](https://github.com/topics/pdf-viewer)
-3. [pdf-editor · GitHub Topics](https://github.com/topics/pdf-editor)
-4. [pdf-tools · GitHub Topics](https://github.com/topics/pdf-tools)
-5. [pdf-converter · GitHub Topics](https://github.com/topics/pdf-converter)
-6. [List of PDF software - Wikipedia](https://en.wikipedia.org/wiki/List_of_PDF_software)
-   :::
-
 ## Translation software
 
 - [Pot](https://pot-app.com/) / [github](https://github.com/pot-app/pot-desktop)
@@ -170,12 +117,6 @@
 - Caption Translator / [github](https://github.com/cddqssc/Caption-Trans)
 - [Bob](https://bobtranslate.com/) / [apple] / [github](https://github.com/ripperhe/Bob)
 
-::: details
-
-1. [translator · GitHub Topics](https://github.com/topics/translator)
-2. [Category:Translation software - Wikipedia](https://en.wikipedia.org/wiki/Category:Translation_software)
-   :::
-
 ## Email clients
 
 - [Thunderbird](https://www.thunderbird.net/) / [github](https://github.com/thunderbird)
@@ -185,20 +126,8 @@
 - [Velo](https://velomail.app/) / [github](https://github.com/avihaymenahem/velo)
 - [EmailEngine](https://emailengine.app/) - Headless email client / [github](https://github.com/postalsys/emailengine)
 
-::: details
-
-1. [email-client · GitHub Topics](https://github.com/topics/email-client)
-2. [Category:Email clients - Wikipedia](https://en.wikipedia.org/wiki/Category:Email_clients)
-   :::
-
 ## OCR software
 
 - [PaddleOCR](https://aistudio.baidu.com/paddleocr) / [github](https://github.com/PaddlePaddle/PaddleOCR)
 - Umi-ORC / [github](https://github.com/hiroi-sora/Umi-OCR)
 - [Text Grab](https://textgrab.net/) / [github](https://github.com/TheJoeFin/Text-Grab)
-
-::: details
-
-1. [ocr · GitHub Topics](https://github.com/topics/ocr)
-2. [ocr文字识别软件\_百度百科](https://baike.baidu.com/item/ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E8%BD%AF%E4%BB%B6/9462517)
-   :::
