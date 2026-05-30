@@ -40,6 +40,16 @@
 - [Novetus](https://bitl.itch.io/novetus) / [windows] / [github](https://github.com/Novetus/Novetus_src)
 - [AppleBlox](https://appleblox.com/) / [apple] / [github](https://github.com/AppleBlox/appleblox)
 
+## 手柄映射软件 {#gamepad-mappers}
+
+- [DS4Windows](https://ds4-windows.com/) - DualShock 3/4 和 DualSense 5 / [windows] / [github](https://github.com/ds4windowsapp/DS4Windows)
+- [Input Remapper](https://github.com/sezanzeb/input-remapper) / [linux]
+- [AntiMicroX](https://github.com/antimicrox/antimicrox)
+- [KeyMapper](https://keymapper.app/) / [android] / [github](https://github.com/keymapperorg/KeyMapper)
+- [QKeyMapper](https://github.com/Zalafina/QKeyMapper) / [windows]
+- [VirtualGamePad](https://kitswas.github.io/VirtualGamePad/) - Android 手机作为电脑游戏手柄 / [github](https://github.com/kitswas/VirtualGamePad)
+- [ControllerBuddy](https://controllerbuddy.org/) / [github](https://github.com/bwRavencl/ControllerBuddy)
+
 ## 游戏工具箱 {#game-toolkits}
 
 - [Watt Toolkit](https://steampp.net/) - Steam 工具箱 / [github](https://github.com/BeyondDimension/SteamTools)
