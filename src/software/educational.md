@@ -39,6 +39,7 @@
 - [MuJing](https://mujingx.com/) / [github](https://github.com/tangshimin/MuJing)
 - [LLPlayer](https://llplayer.com/) / [windows] / [github](https://github.com/umlx5h/LLPlayer)
 - [Immersive Language Learning Assistant](https://illa.xlike.cc/) / [browser] / [github](https://github.com/xiao-zaiyi/illa-helper)
+- [Echo Loop](https://www.echo-loop.top/) - Build Your Listen-to-Speak Training Loop / [github](https://github.com/echo-loop/Echo-Loop)
 
 ### Japanese learning software
 

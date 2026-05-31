@@ -8,6 +8,17 @@
 - Episode-ReName / [github](https://github.com/Nriver/Episode-ReName)
 - [Blur Auto Clicker](https://blur009.vercel.app/projects/blur-autoclicker) / [windows] / [github](https://github.com/Blur009/Blur-AutoClicker)
 
+<!-- https://github.com/topics/automation
+https://github.com/automatisch/automatisch
+https://github.com/NaiboWang/EasySpider
+https://github.com/topics/automation-tool
+https://github.com/pmh1314520/WebRPA
+https://github.com/Mouseww/anything-analyzer
+https://github.com/testsigmahq/testsigma
+https://github.com/langgenius/dify
+https://github.com/n8n-io/n8n
+https://github.com/harry0703/MoneyPrinterTurbo -->
+
 ## Desktop search tools
 
 - [Everything](https://www.voidtools.com/) - nonfree / [windows]
