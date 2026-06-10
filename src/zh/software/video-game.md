@@ -87,6 +87,7 @@
 - [OpenEmu](https://openemu.org/) / [apple] / [github](https://github.com/OpenEmu/OpenEmu)
 - [Provenance](https://provenance-emu.com/) / [apple] / [github](https://github.com/Provenance-Emu/Provenance)
 - [Delta](https://faq.deltaemulator.com/) / [apple] / [github](https://github.com/rileytestut/Delta)
+- [Lemuroid](https://github.com/Swordfish90/Lemuroid) / [android]
 - [BizHawk](https://tasvideos.org/BizHawk) / [github](https://github.com/TASEmulators/BizHawk)
 - [Mesen](https://github.com/SourMesen/Mesen2)
 - [Flycast](https://github.com/flyinghead/flycast)

@@ -110,6 +110,20 @@
 
 ## 虚拟化软件 {#virtualization-software}
 
+### 模拟器软件 {#emulation-software}
+
+- [v86](https://copy.sh/) / [web] / [github](https://github.com/copy/v86)
+- [iSH](https://ish.app/) / [apple] / [github](https://github.com/ish-app/ish)
+- [Ruffle](https://ruffle.rs/) / [github](https://github.com/ruffle-rs/ruffle)
+- [Macintosh.js](https://github.com/felixrieseberg/macintosh.js)
+- [86Box](https://86box.net/) / [github](https://github.com/86Box/86Box)
+- [Vectras VM](https://vectras.vercel.app/) / [android] / [github](https://github.com/xoureldeen/Vectras-VM-Android)
+- [PCjs Machines](https://www.pcjs.org/) / [web] / [github](https://github.com/jeffpar/pcjs)
+- [Clock Signal](https://github.com/TomHarte/CLK)
+- [AppleWin](https://github.com/AppleWin/AppleWin) / [windows]
+- [Nestopia UE](http://0ldsk00l.ca/nestopia/) / [github](https://github.com/0ldsk00l/nestopia)
+- [Boxedwine](https://github.com/danoon2/Boxedwine)
+
 ### 虚拟机 {#virtual-machines}
 
 - [VirtualBox](https://www.virtualbox.org/) - VMware Workstation 替代品 / [github](https://github.com/VirtualBox/virtualbox)
