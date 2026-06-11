@@ -22,12 +22,25 @@
 
 ## Desktop search tools
 
-- [Everything](https://www.voidtools.com/) - nonfree / [windows]
-- [DocFetcher](https://docfetcher.sourceforge.io/) / [sourceforge](https://sourceforge.net/projects/docfetcher/)
-- Cardinal / [apple] / [github](https://github.com/cardisoft/cardinal)
-- [dnGrep](https://dngrep.github.io/) / [windows] / [github](https://github.com/dnGrep/dnGrep)
-- [AnyTXT Searcher](https://anytxt.net/) - nonfree / [windows]
-- [XiaoyaoSearch](https://project.xiaoyaosai.com/product/xiaoyaosearch/) / [github](https://github.com/dtsola/xiaoyaosearch)
+- [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly <Badge type="info" text="freeware" /> / [windows]
+- [Cardinal](https://github.com/cardisoft/cardinal) - Fastest and most accurate file search app for macOS / [apple]
+- [XiaoyaoSearch](https://project.xiaoyaosai.com/product/xiaoyaosearch/) - Make searching as simple as chatting / [github](https://github.com/dtsola/xiaoyaosearch)
+- [Everything AI Chat](https://eac.agitao.net/) - Intelligent File Search Client / [windows] / [github](https://github.com/MaskerPRC/everything-ai-chat)
+- [OmniSearch](https://www.eyuel.com.et/omni-search) - High-performance Windows file search / [windows] / [github](https://github.com/Eul45/omni-search)
+- [TDS](https://github.com/LdotJdot/TDS) - The Ultimate Windows File Finder / [windows]
+
+### Desktop application launchers
+
+- [Flow Launcher](https://www.flowlauncher.com/) - Quick File Search & App Launcher for Windows / [windows] / [github](https://github.com/Flow-Launcher/Flow.Launcher)
+- [GeekDesk](https://github.com/BookerLiu/GeekDesk) - Small, beautiful desktop quickstart management tool / [windows]
+- [Desk Tidy](https://github.com/sqmw/desk_tidy) - Windows desktop organizer / [windows]
+
+### Full-text search software
+
+- [Recoll](https://www.recoll.org/) - Full-text search for your desktop / [gitlab](https://framagit.org/medoc92/recoll)
+- [DocFetcher](https://docfetcher.sourceforge.io/) - Fast document search / [sourceforge](https://sourceforge.net/projects/docfetcher/)
+- [AnyTXT Searcher](https://anytxt.net/) - Google Desktop alternative <Badge type="info" text="freeware" /> / [windows]
+- [dnGrep](https://dngrep.github.io/) - Powerful search for Windows / [windows] / [github](https://github.com/dnGrep/dnGrep)
 
 ## Development tools
 

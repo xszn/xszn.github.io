@@ -20,14 +20,27 @@
 - [WebRPA](https://github.com/pmh1314520/WebRPA) / [windows]
 - [taskt](https://taskt.net/) / [windows] / [github](https://github.com/saucepleez/taskt)
 
-## 桌面搜索工具
+## 桌面搜索工具 {#desktop-search-tools}
 
-- [Everything](https://www.voidtools.com/) - nonfree / [windows]
-- [DocFetcher](https://docfetcher.sourceforge.io/) / [sourceforge](https://sourceforge.net/projects/docfetcher/)
-- Cardinal / [apple] / [github](https://github.com/cardisoft/cardinal)
+- [Everything](https://www.voidtools.com/) - 基于名称快速定位文件和文件夹 <Badge type="info" text="freeware" /> / [windows]
+- [Cardinal](https://github.com/cardisoft/cardinal) - 最快最准的 macOS 文件搜索应用 / [apple]
+- [XiaoyaoSearch](https://project.xiaoyaosai.com/product/xiaoyaosearch/) - 让搜索像聊天一样简单 / [windows] / [github](https://github.com/dtsola/xiaoyaosearch)
+- [Everything AI Chat](https://eac.agitao.net/) - 智能文件搜索客户端 / [windows] / [github](https://github.com/MaskerPRC/everything-ai-chat)
+- [OmniSearch](https://www.eyuel.com.et/omni-search) / [windows] / [github](https://github.com/Eul45/omni-search)
+- [TDS](https://github.com/LdotJdot/TDS) - 便捷的 Windows 文件查找工具 / [windows]
+
+### 桌面应用程序启动器 {#desktop-application-launchers}
+
+- [Flow Launcher](https://www.flowlauncher.com/) / [windows] / [github](https://github.com/Flow-Launcher/Flow.Launcher)
+- [GeekDesk](https://github.com/BookerLiu/GeekDesk) - 小巧、美观的桌面快速启动管理工具 / [windows]
+- [Desk Tidy](https://github.com/sqmw/desk_tidy) - Windows 桌面整理神器 / [windows]
+
+### 全文搜索软件 {#full-text-search-software}
+
+- [Recoll](https://www.recoll.org/) / [gitlab](https://framagit.org/medoc92/recoll)
+- [DocFetcher](https://docfetcher.sourceforge.io/) - 快速文档搜索 / [sourceforge](https://sourceforge.net/projects/docfetcher/)
+- [AnyTXT Searcher](https://anytxt.net/) - Google 桌面替代品 <Badge type="info" text="freeware" /> / [windows]
 - [dnGrep](https://dngrep.github.io/) / [windows] / [github](https://github.com/dnGrep/dnGrep)
-- [AnyTXT Searcher](https://anytxt.net/) - nonfree / [windows]
-- [XiaoyaoSearch](https://project.xiaoyaosai.com/product/xiaoyaosearch/) / [github](https://github.com/dtsola/xiaoyaosearch)
 
 ## 开发者工具
 
