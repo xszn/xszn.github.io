@@ -1,12 +1,24 @@
-# 生产力软件
+# 生产力软件 {#productivity-software}
 
-## 自动化软件
+## 自动化软件 {#automation-software}
 
+### 自动点击器 {#auto-clickers}
+
+- [AutoHotkey](https://www.autohotkey.com/) / [windows] / [github](https://github.com/AutoHotkey/AutoHotkey)
+  - [RMT](https://zclucas.github.io/RMT/) / [windows] / [github](https://github.com/zclucas/RMT)
+- [AutoJs6](https://docs.autojs6.com/) / [android] / [github](https://github.com/SuperMonster003/AutoJs6)
+- [AutoKey](https://autokey.github.io/) / [linux] / [github](https://github.com/autokey/autokey)
+- [Blur Auto Clicker](https://autoclicker.blur009.com/) / [windows] / [github](https://github.com/Blur009/Blur-AutoClicker)
+
+### 机器人流程自动化 {#robotic-process-automation}
+
+- [EasySpider](https://www.easyspider.net/) / [github](https://github.com/NaiboWang/EasySpider)
 - [Automa](https://extension.automa.site/) / [browser] / [github](https://github.com/AutomaApp/automa)
-- [AutoHotkey](https://www.autohotkey.com/) / [windows] / [github](https://github.com/AutoHotkey/AutoHotkey), [RMT](https://zclucas.github.io/RMT/) / [windows] / [github](https://github.com/zclucas/RMT)
-- [Ui.Vision](https://ui.vision/) - RPA / [browser] / [github](https://github.com/A9T9/RPA)
-- Episode-ReName / [github](https://github.com/Nriver/Episode-ReName)
-- [Blur Auto Clicker](https://blur009.vercel.app/projects/blur-autoclicker) / [windows] / [github](https://github.com/Blur009/Blur-AutoClicker)
+- [TagUI](https://tagui.readthedocs.io/) / [github](https://github.com/aisingapore/TagUI)
+- [AstronRPA](https://www.iflyrpa.com/) / [github](https://github.com/iflytek/astron-rpa)
+- [Ui.Vision RPA](https://ui.vision/) / [browser] / [github](https://github.com/A9T9/RPA)
+- [WebRPA](https://github.com/pmh1314520/WebRPA) / [windows]
+- [taskt](https://taskt.net/) / [windows] / [github](https://github.com/saucepleez/taskt)
 
 ## 桌面搜索工具
 

@@ -2,22 +2,23 @@
 
 ## Automation software
 
-- [Automa](https://extension.automa.site/) / [browser] / [github](https://github.com/AutomaApp/automa)
-- [AutoHotkey](https://www.autohotkey.com/) / [windows] / [github](https://github.com/AutoHotkey/AutoHotkey), [RMT](https://zclucas.github.io/RMT/) / [windows] / [github](https://github.com/zclucas/RMT)
-- [Ui.Vision](https://ui.vision/) - RPA / [browser] / [github](https://github.com/A9T9/RPA)
-- Episode-ReName / [github](https://github.com/Nriver/Episode-ReName)
-- [Blur Auto Clicker](https://blur009.vercel.app/projects/blur-autoclicker) / [windows] / [github](https://github.com/Blur009/Blur-AutoClicker)
+### Auto clickers
 
-<!-- https://github.com/topics/automation
-https://github.com/automatisch/automatisch
-https://github.com/NaiboWang/EasySpider
-https://github.com/topics/automation-tool
-https://github.com/pmh1314520/WebRPA
-https://github.com/Mouseww/anything-analyzer
-https://github.com/testsigmahq/testsigma
-https://github.com/langgenius/dify
-https://github.com/n8n-io/n8n
-https://github.com/harry0703/MoneyPrinterTurbo -->
+- [AutoHotkey](https://www.autohotkey.com/) / [windows] / [github](https://github.com/AutoHotkey/AutoHotkey)
+  - [RMT](https://zclucas.github.io/RMT/) / [windows] / [github](https://github.com/zclucas/RMT)
+- [AutoJs6](https://docs.autojs6.com/) / [android] / [github](https://github.com/SuperMonster003/AutoJs6)
+- [AutoKey](https://autokey.github.io/) / [linux] / [github](https://github.com/autokey/autokey)
+- [Blur Auto Clicker](https://autoclicker.blur009.com/) / [windows] / [github](https://github.com/Blur009/Blur-AutoClicker)
+
+### Robotic process automation
+
+- [EasySpider](https://www.easyspider.net/) / [github](https://github.com/NaiboWang/EasySpider)
+- [Automa](https://extension.automa.site/) / [browser] / [github](https://github.com/AutomaApp/automa)
+- [TagUI](https://tagui.readthedocs.io/) / [github](https://github.com/aisingapore/TagUI)
+- [AstronRPA](https://www.iflyrpa.com/) / [github](https://github.com/iflytek/astron-rpa)
+- [Ui.Vision RPA](https://ui.vision/) / [browser] / [github](https://github.com/A9T9/RPA)
+- [WebRPA](https://github.com/pmh1314520/WebRPA) / [windows]
+- [taskt](https://taskt.net/) / [windows] / [github](https://github.com/saucepleez/taskt)
 
 ## Desktop search tools
 

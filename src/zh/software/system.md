@@ -1,4 +1,4 @@
-# 系统软件
+# 系统软件 {#system-software}
 
 ## 启动盘制作工具 {#bootable-usb}
 

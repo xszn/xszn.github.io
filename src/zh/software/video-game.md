@@ -1,4 +1,4 @@
-# 电子游戏软件
+# 电子游戏软件 {#video-game-software}
 
 ## 游戏启动器 {#game-launchers}
 

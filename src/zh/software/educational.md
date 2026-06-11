@@ -1,4 +1,4 @@
-# 教育软件
+# 教育软件 {#educational-software}
 
 ## 课堂管理软件 {#classroom-management-software}
 
