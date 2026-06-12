@@ -65,10 +65,16 @@
 
 ## Diagramming software
 
-- [draw.io](https://www.drawio.com/) / [github](https://github.com/jgraph/drawio), [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / [github](https://github.com/DayuanJiang/next-ai-draw-io)
 - [Mermaid](https://mermaid.ai/open-source/) / [web] / [github](https://github.com/mermaid-js/mermaid)
-- [Excalidraw](https://excalidraw.com/) / [web] / [github](https://github.com/excalidraw/excalidraw)
-- [JSON Crack](https://jsoncrack.com/) / [web] /[github](https://github.com/AykutSarac/jsoncrack.com)
+- [JSON Crack](https://jsoncrack.com/) / [web] / [github](https://github.com/AykutSarac/jsoncrack.com)
+- [drawDB](https://www.drawdb.app/) / [web] / [github](https://github.com/drawdb-io/drawdb)
+- [Draw.io](https://www.drawio.com/) / [github](https://github.com/jgraph/drawio)
+  - [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / [github](https://github.com/DayuanJiang/next-ai-draw-io)
+- [Penrose](https://penrose.cs.cmu.edu/) / [web] / [github](https://github.com/penrose/penrose)
+- [Diagram as code](https://github.com/awslabs/diagram-as-code) / [cli]
+- [Tapnow Studio](https://github.com/chapterv/Tapnow-Studio-PP) / [web]
+
+### [Mind-mapping software](./educational#mind-mapping-software)
 
 ## File converter
 
@@ -132,7 +138,7 @@
 ### PDF editors
 
 - [PDF4QT](https://jakubmelka.github.io/) / [github](https://github.com/JakubMelka/PDF4QT)
-- [KillerPDF](https://pdf.killertools.net/) / [windows] /[github](https://github.com/SteveTheKiller/KillerPDF)
+- [KillerPDF](https://pdf.killertools.net/) / [windows] / [github](https://github.com/SteveTheKiller/KillerPDF)
 - [PaperKnife](https://potatameister.github.io/PaperKnife/) / [github](https://github.com/potatameister/PaperKnife)
 
 ### PDF converters

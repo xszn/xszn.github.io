@@ -122,7 +122,7 @@
   - [Telegram for Android ](https://telegram.org/android) / [android] / [github](https://github.com/DrKLO/Telegram)
   - [Telegram X for Android](https://github.com/TGX-Android/Telegram-X) / [android]
   - [Telegram for iOS](https://telegram.org/dl/ios) / [apple] / [github](https://github.com/TelegramMessenger/Telegram-iOS)
-  - [Telegram WebA](https://web.telegram.org/a/) / [web] /[github](https://github.com/Ajaxy/telegram-tt)
+  - [Telegram WebA](https://web.telegram.org/a/) / [web] / [github](https://github.com/Ajaxy/telegram-tt)
   - [Telegram WebK](https://web.telegram.org/k/) / [web] / [github](https://github.com/morethanwords/tweb)
 
 ### Telegram third-party clients

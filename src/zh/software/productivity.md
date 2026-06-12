@@ -63,12 +63,18 @@
 - [JetBrains Open Source](https://www.jetbrains.com/opensource/) / [indexes](https://github.com/JetBrains/)
 - [ByteDance Open Source](https://opensource.bytedance.com/) / [indexes](https://opensource.bytedance.com/project)
 
-## 流程图软件
+## 图表绘制软件 {#diagramming-software}
 
-- [draw.io](https://www.drawio.com/) / [github](https://github.com/jgraph/drawio), [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / [github](https://github.com/DayuanJiang/next-ai-draw-io)
 - [Mermaid](https://mermaid.ai/open-source/) / [web] / [github](https://github.com/mermaid-js/mermaid)
-- [Excalidraw](https://excalidraw.com/) / [web] / [github](https://github.com/excalidraw/excalidraw)
-- [JSON Crack](https://jsoncrack.com/) / [web] /[github](https://github.com/AykutSarac/jsoncrack.com)
+- [JSON Crack](https://jsoncrack.com/) / [web] / [github](https://github.com/AykutSarac/jsoncrack.com)
+- [drawDB](https://www.drawdb.app/) / [web] / [github](https://github.com/drawdb-io/drawdb)
+- [Draw.io](https://www.drawio.com/) / [github](https://github.com/jgraph/drawio)
+  - [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) / [github](https://github.com/DayuanJiang/next-ai-draw-io)
+- [Penrose](https://penrose.cs.cmu.edu/) / [web] / [github](https://github.com/penrose/penrose)
+- [Diagram as code](https://github.com/awslabs/diagram-as-code) / [cli]
+- [Tapnow Studio](https://github.com/chapterv/Tapnow-Studio-PP) / [web]
+
+## [思维导图软件](./educational#mind-mapping-software) {#mind-mapping-software}
 
 ## 文件转换器
 
@@ -132,7 +138,7 @@
 ### PDF 编辑器
 
 - [PDF4QT](https://jakubmelka.github.io/) / [github](https://github.com/JakubMelka/PDF4QT)
-- [KillerPDF](https://pdf.killertools.net/) / [windows] /[github](https://github.com/SteveTheKiller/KillerPDF)
+- [KillerPDF](https://pdf.killertools.net/) / [windows] / [github](https://github.com/SteveTheKiller/KillerPDF)
 - [PaperKnife](https://potatameister.github.io/PaperKnife/) / [github](https://github.com/potatameister/PaperKnife)
 
 ### PDF 转换器
