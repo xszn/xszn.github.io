@@ -22,7 +22,7 @@
 
 ## 桌面搜索工具 {#desktop-search-tools}
 
-- [Everything](https://www.voidtools.com/) - 基于名称快速定位文件和文件夹 <Badge type="info" text="freeware" /> / [windows]
+- [Everything](https://www.voidtools.com/) - 基于名称快速定位文件和文件夹 <Badge type="info" text="Freeware" /> / [windows]
 - [Cardinal](https://github.com/cardisoft/cardinal) - 最快最准的 macOS 文件搜索应用 / [apple]
 - [XiaoyaoSearch](https://project.xiaoyaosai.com/product/xiaoyaosearch/) - 让搜索像聊天一样简单 / [windows] / [github](https://github.com/dtsola/xiaoyaosearch)
 - [Everything AI Chat](https://eac.agitao.net/) - 智能文件搜索客户端 / [windows] / [github](https://github.com/MaskerPRC/everything-ai-chat)
@@ -39,15 +39,29 @@
 
 - [Recoll](https://www.recoll.org/) / [gitlab](https://framagit.org/medoc92/recoll)
 - [DocFetcher](https://docfetcher.sourceforge.io/) - 快速文档搜索 / [sourceforge](https://sourceforge.net/projects/docfetcher/)
-- [AnyTXT Searcher](https://anytxt.net/) - Google 桌面替代品 <Badge type="info" text="freeware" /> / [windows]
+- [AnyTXT Searcher](https://anytxt.net/) - Google 桌面替代品 <Badge type="info" text="Freeware" /> / [windows]
 - [dnGrep](https://dngrep.github.io/) / [windows] / [github](https://github.com/dnGrep/dnGrep)
 
-## 开发者工具
+## 开发工具 {#development-tools}
 
+### 开发者工具箱 {#developer-toolkits}
+
+- [IT Tools](https://it-tools.tech/) / [web] / [github](https://github.com/corentinth/it-tools)
 - [DevToys](https://devtoys.app/) / [github](https://github.com/DevToys-app/DevToys)
 - [OmniTools](https://omnitools.app/) / [web] / [github](https://github.com/iib0011/omni-tools)
-- [IT Tools](https://it-tools.tech/) / [web] / [github](https://github.com/corentinth/it-tools)
-- Dev Toolbox / [linux] / [github](https://github.com/aleiepure/devtoolbox)
+- [FeHelper](https://fehelper.com/) / [browser] / [github](https://github.com/zxlie/FeHelper)
+- [DevHub](https://wangchujiang.com/DevHub/) / [apple] / [github](https://github.com/jaywcjlove/DevHub)
+- [Windows Community Toolkit](https://aka.ms/windowstoolkitdocs) / [windows] / [github](https://github.com/CommunityToolkit/Windows)
+- [Jam Dev Utilities](https://jam.dev/utilities) / [web] / [github](https://github.com/jamdotdev/jam-dev-utilities)
+- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) / [linux]
+
+### 开源软件列表 {#foss}
+
+- [Microsoft Open Source](https://opensource.microsoft.com/) / [indexes](https://opensource.microsoft.com/projects/) / [github](https://github.com/microsoft/opensource.microsoft.com)
+- [Google Open Source](https://opensource.google/) / [indexes](https://opensource.google/projects)
+- [Apple Open Source](https://opensource.apple.com/) / [indexes](https://opensource.apple.com/projects/)
+- [JetBrains Open Source](https://www.jetbrains.com/opensource/) / [indexes](https://github.com/JetBrains/)
+- [ByteDance Open Source](https://opensource.bytedance.com/) / [indexes](https://opensource.bytedance.com/project)
 
 ## 流程图软件
 

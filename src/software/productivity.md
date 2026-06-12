@@ -22,7 +22,7 @@
 
 ## Desktop search tools
 
-- [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly <Badge type="info" text="freeware" /> / [windows]
+- [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly <Badge type="info" text="Freeware" /> / [windows]
 - [Cardinal](https://github.com/cardisoft/cardinal) - Fastest and most accurate file search app for macOS / [apple]
 - [XiaoyaoSearch](https://project.xiaoyaosai.com/product/xiaoyaosearch/) - Make searching as simple as chatting / [github](https://github.com/dtsola/xiaoyaosearch)
 - [Everything AI Chat](https://eac.agitao.net/) - Intelligent File Search Client / [windows] / [github](https://github.com/MaskerPRC/everything-ai-chat)
@@ -39,15 +39,29 @@
 
 - [Recoll](https://www.recoll.org/) - Full-text search for your desktop / [gitlab](https://framagit.org/medoc92/recoll)
 - [DocFetcher](https://docfetcher.sourceforge.io/) - Fast document search / [sourceforge](https://sourceforge.net/projects/docfetcher/)
-- [AnyTXT Searcher](https://anytxt.net/) - Google Desktop alternative <Badge type="info" text="freeware" /> / [windows]
+- [AnyTXT Searcher](https://anytxt.net/) - Google Desktop alternative <Badge type="info" text="Freeware" /> / [windows]
 - [dnGrep](https://dngrep.github.io/) - Powerful search for Windows / [windows] / [github](https://github.com/dnGrep/dnGrep)
 
 ## Development tools
 
+### Developer Toolkits
+
+- [IT Tools](https://it-tools.tech/) / [web] / [github](https://github.com/corentinth/it-tools)
 - [DevToys](https://devtoys.app/) / [github](https://github.com/DevToys-app/DevToys)
 - [OmniTools](https://omnitools.app/) / [web] / [github](https://github.com/iib0011/omni-tools)
-- [IT Tools](https://it-tools.tech/) / [web] / [github](https://github.com/corentinth/it-tools)
-- Dev Toolbox / [linux] / [github](https://github.com/aleiepure/devtoolbox)
+- [FeHelper](https://fehelper.com/) / [browser] / [github](https://github.com/zxlie/FeHelper)
+- [DevHub](https://wangchujiang.com/DevHub/) / [apple] / [github](https://github.com/jaywcjlove/DevHub)
+- [Windows Community Toolkit](https://aka.ms/windowstoolkitdocs) / [windows] / [github](https://github.com/CommunityToolkit/Windows)
+- [Jam Dev Utilities](https://jam.dev/utilities) / [web] / [github](https://github.com/jamdotdev/jam-dev-utilities)
+- [Dev Toolbox](https://github.com/aleiepure/devtoolbox) / [linux]
+
+### FOSS
+
+- [Microsoft Open Source](https://opensource.microsoft.com/) / [indexes](https://opensource.microsoft.com/projects/) / [github](https://github.com/microsoft/opensource.microsoft.com)
+- [Google Open Source](https://opensource.google/) / [indexes](https://opensource.google/projects)
+- [Apple Open Source](https://opensource.apple.com/) / [indexes](https://opensource.apple.com/projects/)
+- [JetBrains Open Source](https://www.jetbrains.com/opensource/) / [indexes](https://github.com/JetBrains/)
+- [ByteDance Open Source](https://opensource.bytedance.com/) / [indexes](https://opensource.bytedance.com/project)
 
 ## Diagramming software
 
