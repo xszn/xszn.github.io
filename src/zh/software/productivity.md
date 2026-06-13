@@ -76,12 +76,28 @@
 
 ## [思维导图软件](./educational#mind-mapping-software) {#mind-mapping-software}
 
-## 文件转换器
+## 文件转换工具 {#file-conversion-software}
 
 - [File Converter](https://file-converter.io/) / [windows] / [github](https://github.com/Tichau/FileConverter)
 - [Pandoc](https://pandoc.org/) / [github](https://github.com/jgm/pandoc)
 - [VERT](https://vert.sh/) / [web] / [github](https://github.com/VERT-sh/vert)
 - [Convert to it!](https://p2r3.github.io/convert/) / [web] / [github](https://github.com/p2r3/convert)
+
+### 音频转换器 {#audio-converters}
+
+- [fre:ac](https://www.freac.org/) / [github](https://github.com/enzo1982/freac)
+- [FlicFlac](https://sector-seven.com/software/flicflac) / [windows] / [github](https://github.com/DannyBen/FlicFlac)
+- [LoopingAudioConverter](https://github.com/libertyernie/LoopingAudioConverter) / [windows]
+- [LameXP](https://lamexp.sourceforge.net/) / [windows] / [github](https://github.com/lordmulder/LameXP)
+- [ConvertIt](https://github.com/thebytearray/Convertit) / [android]
+
+### 视频转换器 {#video-converters}
+
+- [HandBrake](https://handbrake.fr/) / [windows] / [github](https://github.com/HandBrake/HandBrake)
+- [Shutter Encoder](https://www.shutterencoder.com/) / [github](https://github.com/paulpacifico/shutter-encoder)
+- [Freemake Video Converter](https://www.freemake.com/free_video_converter/) <Badge type="info" text="Freeware" /> / [windows]
+- [Videomass](https://jeanslack.github.io/Videomass/) / [github](https://github.com/jeanslack/Videomass)
+- [Frame](https://www.framegui.app/) / [github](https://github.com/66HEX/frame)
 
 ## 文件同步工具
 

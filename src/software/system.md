@@ -107,6 +107,7 @@ Unfinished.
 - [Win11Debloat](https://github.com/raphire/win11debloat) / [cli]
 - [Remove Windows AI](https://github.com/zoicware/RemoveWindowsAI)
 - [Winhance](https://winhance.net/) - Windows enhancement tools / [github](https://github.com/memstechtips/Winhance)
+- [optimizerDuck](https://optimizerduck.vercel.app/) - Windows optimization tool / [github](https://github.com/itsfatduck/optimizerDuck)
 
 ## Virtualization software
 
