@@ -74,7 +74,7 @@
 - [Diagram as code](https://github.com/awslabs/diagram-as-code) / [cli]
 - [Tapnow Studio](https://github.com/chapterv/Tapnow-Studio-PP) / [web]
 
-## [思维导图软件](./educational#mind-mapping-software) {#mind-mapping-software}
+### [思维导图软件](./educational#mind-mapping-software) {#mind-mapping-software}
 
 ## 文件转换工具 {#file-conversion-software}
 
@@ -99,17 +99,23 @@
 - [Videomass](https://jeanslack.github.io/Videomass/) / [github](https://github.com/jeanslack/Videomass)
 - [Frame](https://www.framegui.app/) / [github](https://github.com/66HEX/frame)
 
-## 文件同步工具
+## 文件同步软件 {#file-synchronization-software}
 
 - [Syncthing](https://syncthing.net/) / [github](https://github.com/syncthing/syncthing)
-- [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) / [github](https://github.com/bcpierce00/unison)
-- [FreeFileSync](https://freefilesync.org/) / [github](https://github.com/hkneptune/FreeFileSync)
-- TaoSync - Sync for OpenList/AList / [github](https://github.com/dr34m-cn/taosync)
+  - [Syncthing Windows Setup](https://github.com/Bill-Stewart/SyncthingWindowsSetup) / [windows]
+  - [Syncthing for macOS](https://github.com/syncthing/syncthing-macos) / [apple]
+  - [Syncthing-Fork](https://github.com/researchxxl/syncthing-android) / [android]
+  - [SyncTrayzor](https://github.com/GermanCoding/SyncTrayzor) / [windows]
 - [Seafile](https://www.seafile.com/) / [github](https://github.com/haiwen/seafile)
+- [Unison](https://www.cis.upenn.edu/~bcpierce/unison/) / [github](https://github.com/bcpierce00/unison)
+- [Rsync](https://rsync.samba.org/) / [linux] / [github](https://github.com/RsyncProject/rsync)
+- [FreeFileSync](https://freefilesync.org/) / [github](https://github.com/hkneptune/FreeFileSync)
+- [TaoSync](https://github.com/dr34m-cn/taosync)
+- [Sync-in](https://sync-in.com/) / [github](https://github.com/Sync-in/server)
 
 ## 本地 LLM 工具
 
-- [Ollama](https://ollama.com/) / <Icon href="" src="github" />
+- [Ollama](https://ollama.com/) / [github](https://github.com/ollama/ollama)
 - [AnythingLLM](https://anythingllm.com/) / [github](https://github.com/Mintplex-Labs/anything-llm)
 - [Jan](https://www.jan.ai/) / [github](https://github.com/janhq/jan)
 - [Cherry Studio](https://www.cherry-ai.com/) / [github](https://github.com/CherryHQ/cherry-studio)
