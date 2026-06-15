@@ -115,13 +115,27 @@
 
 ## Local LLM tools
 
+### LLM inference engines
+
 - [Ollama](https://ollama.com/) / [github](https://github.com/ollama/ollama)
-- [AnythingLLM](https://anythingllm.com/) / [github](https://github.com/Mintplex-Labs/anything-llm)
-- [Jan](https://www.jan.ai/) / [github](https://github.com/janhq/jan)
-- [Cherry Studio](https://www.cherry-ai.com/) / [github](https://github.com/CherryHQ/cherry-studio)
-- [LM Studio](https://lmstudio.ai/) / [github](https://github.com/lmstudio-ai)
+- [llama.cpp](https://llama.app/) / [github](https://github.com/ggml-org/llama.cpp)
+  - [KoboldCpp](https://github.com/LostRuins/koboldcpp)
 - [LocalAI](https://localai.io/) / [github](https://github.com/mudler/localai)
 - [llamafile](https://docs.mozilla.ai/llamafile) / [github](https://github.com/mozilla-ai/llamafile)
+- [WebLLM](https://webllm.mlc.ai/) / [web] / [github](https://github.com/mlc-ai/web-llm)
+- [RWKV Runner](https://www.rwkv.com/) / [github](https://github.com/josStorer/RWKV-Runner)
+
+### LLM desktop clients
+
+- [LM Studio](https://lmstudio.ai/) / [github](https://github.com/lmstudio-ai)
+- [GPT4All](https://www.nomic.ai/gpt4all) / [github](https://github.com/nomic-ai/gpt4all)
+- [AnythingLLM](https://anythingllm.com/) / [github](https://github.com/Mintplex-Labs/anything-llm)
+- [Cherry Studio](https://cherryai.com/) / [github](https://github.com/CherryHQ/cherry-studio)
+- [Jan](https://www.jan.ai/) / [github](https://github.com/janhq/jan)
+  - [Atomic Chat](https://atomic.chat/) / [github](https://github.com/AtomicBot-ai/Atomic-Chat)
+- [AIChat](https://github.com/sigoden/aichat)
+- [Hermes Studio](https://hermes-studio.ai/) / [github](https://github.com/EKKOLearnAI/hermes-studio)
+- [Enchanted](https://github.com/gluonfield/enchanted) / [apple]
 
 ## Office suites
 
