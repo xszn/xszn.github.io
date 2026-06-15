@@ -113,7 +113,7 @@
 - [TaoSync](https://github.com/dr34m-cn/taosync)
 - [Sync-in](https://sync-in.com/) / [github](https://github.com/Sync-in/server)
 
-## 本地 LLM 工具 {#local-llm-tools}
+## AI 聊天机器人 {#ai-chatbots}
 
 ### LLM 推理引擎 {#llm-inference-engines}
 
