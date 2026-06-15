@@ -4,6 +4,7 @@ import { useData, useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import runPlugins from './plugins'
 import Ads from "./components/Ads.vue"
+import AdSense from './components/AdSense.vue'
 import FeedBack from './components/FeedBack.vue'
 
 const { isDark, page } = useData()
@@ -61,6 +62,10 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
     <DefaultTheme.Layout>
         <template #doc-before>
             <FeedBack v-if="page.frontmatter.feedback !== false" />
+        </template>
+        <template #doc-after>
+            <br>
+            <AdSense />
         </template>
         <!-- <template #aside-ads-after>
             <Ads v-if="page.frontmatter.ads !== false" />
