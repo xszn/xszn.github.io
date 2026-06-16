@@ -149,7 +149,7 @@
 ### Office 部署工具 {#office-deployment-tools}
 
 - [Microsoft Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117) - 一个命令行工具 <Badge type="info" text="Freeware" /> / [windows]
-- [Office Tool Plus](https://github.com/YerongAI/Office-Tool) - 一个强大且实用的 Office 部署工具 / [windows] / [github](https://github.com/YerongAI/Office-Tool)
+- [Office Tool Plus](https://www.officetool.plus/) - 一个强大且实用的 Office 部署工具 / [windows] / [github](https://github.com/YerongAI/Office-Tool)
 - [Mocreak](https://www.mocreak.com/) - 一键安装 Office 的利器 / [windows] / [github](https://github.com/OdysseusYuan/Mocreak)
 - [Microsoft Office for macOS](https://alsyundawy.github.io/Microsoft-Office-For-MacOS/) - 适用于 macOS 的 Microsoft Office 安装程序
   / [apple] / [github](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)

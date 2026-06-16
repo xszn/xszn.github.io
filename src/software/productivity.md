@@ -149,7 +149,7 @@
 ### Office deployment tools
 
 - [Microsoft Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117) - A command-line tool <Badge type="info" text="Freeware" /> / [windows]
-- [Office Tool Plus](https://github.com/YerongAI/Office-Tool) - A powerful and useful tool for Office deployments / [windows] / [github](https://github.com/YerongAI/Office-Tool)
+- [Office Tool Plus](https://www.officetool.plus/) - A powerful and useful tool for Office deployments / [windows] / [github](https://github.com/YerongAI/Office-Tool)
 - [Mocreak](https://www.mocreak.com/) - A powerful tool for one-click Office installation / [windows] / [github](https://github.com/OdysseusYuan/Mocreak)
 - [Microsoft Office for macOS](https://alsyundawy.github.io/Microsoft-Office-For-MacOS/) - Installer for Microsoft Office for macOS / [apple] / [github](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
 
