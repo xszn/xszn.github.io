@@ -137,12 +137,22 @@
 - [Hermes Studio](https://hermes-studio.ai/) / [github](https://github.com/EKKOLearnAI/hermes-studio)
 - [Enchanted](https://github.com/gluonfield/enchanted) / [apple]
 
-## 办公软件
+## 办公套件 {#office-suites}
 
-- [OnlyOffice](https://www.onlyoffice.com/) / [github](https://github.com/ONLYOFFICE/DesktopEditors)
-- [LibreOffice](https://www.libreoffice.org/) / [github](https://github.com/LibreOffice/core)
+- [OnlyOffice](https://www.onlyoffice.com/) / [github](https://github.com/ONLYOFFICE/)
+  - [ZIZIYI Office](https://office.ziziyi.com/) / [web] / [github](https://github.com/baotlake/office-website)
+- [LibreOffice](https://www.libreoffice.org/) / [github](https://github.com/LibreOffice/)
 - [OpenOffice](https://www.openoffice.org/) / [github](https://github.com/apache/openoffice)
-- [Collabora Office](https://collaboraonline.github.io/) / [github](https://github.com/CollaboraOnline/online)
+- [FreeOffice](https://www.freeoffice.com/) <Badge type="info" text="Freeware" />
+- [Collabora Office](https://www.collaboraoffice.org/) / [github](https://github.com/CollaboraOnline)
+
+### Office 部署工具 {#office-deployment-tools}
+
+- [Microsoft Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117) - 一个命令行工具 <Badge type="info" text="Freeware" /> / [windows]
+- [Office Tool Plus](https://github.com/YerongAI/Office-Tool) - 一个强大且实用的 Office 部署工具 / [windows] / [github](https://github.com/YerongAI/Office-Tool)
+- [Mocreak](https://www.mocreak.com/) - 一键安装 Office 的利器 / [windows] / [github](https://github.com/OdysseusYuan/Mocreak)
+- [Microsoft Office for macOS](https://alsyundawy.github.io/Microsoft-Office-For-MacOS/) - 适用于 macOS 的 Microsoft Office 安装程序
+  / [apple] / [github](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
 
 ## 语音识别转文字
 

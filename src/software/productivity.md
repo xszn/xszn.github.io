@@ -139,10 +139,19 @@
 
 ## Office suites
 
-- [OnlyOffice](https://www.onlyoffice.com/) / [github](https://github.com/ONLYOFFICE/DesktopEditors)
-- [LibreOffice](https://www.libreoffice.org/) / [github](https://github.com/LibreOffice/core)
+- [OnlyOffice](https://www.onlyoffice.com/) / [github](https://github.com/ONLYOFFICE/)
+  - [ZIZIYI Office](https://office.ziziyi.com/) / [web] / [github](https://github.com/baotlake/office-website)
+- [LibreOffice](https://www.libreoffice.org/) / [github](https://github.com/LibreOffice/)
 - [OpenOffice](https://www.openoffice.org/) / [github](https://github.com/apache/openoffice)
-- [Collabora Office](https://collaboraonline.github.io/) / [github](https://github.com/CollaboraOnline/online)
+- [FreeOffice](https://www.freeoffice.com/) <Badge type="info" text="Freeware" />
+- [Collabora Office](https://www.collaboraoffice.org/) / [github](https://github.com/CollaboraOnline)
+
+### Office deployment tools
+
+- [Microsoft Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117) - A command-line tool <Badge type="info" text="Freeware" /> / [windows]
+- [Office Tool Plus](https://github.com/YerongAI/Office-Tool) - A powerful and useful tool for Office deployments / [windows] / [github](https://github.com/YerongAI/Office-Tool)
+- [Mocreak](https://www.mocreak.com/) - A powerful tool for one-click Office installation / [windows] / [github](https://github.com/OdysseusYuan/Mocreak)
+- [Microsoft Office for macOS](https://alsyundawy.github.io/Microsoft-Office-For-MacOS/) - Installer for Microsoft Office for macOS / [apple] / [github](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
 
 ## Speech recognition software
 
