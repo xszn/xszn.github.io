@@ -86,6 +86,8 @@
 
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [windows] / [github](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [apple] / [github](https://github.com/alienator88/Pearcleaner)
+- [Remove Windows Ai](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11 / [windows]
+- [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Bloatware removal / [android] / [github](https://github.com/topics/bloatware-removal)
 
 ## Utility software
 

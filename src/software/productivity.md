@@ -155,9 +155,32 @@
 
 ## Speech recognition software
 
+### AI notetaker
+
+- [Meetily](https://meetily.ai/) / [github](https://github.com/Zackriya-Solutions/meetily)
+- [OpenWhispr](https://openwhispr.com/) / [github](https://github.com/OpenWhispr/openwhispr)
+- [Pluely](https://pluely.com/) / [github](https://github.com/iamsrikanthnani/pluely)
+- [Speech Note](https://github.com/mkiol/dsnote) / [linux]
+- [Amical](https://amical.ai/) / [github](https://github.com/amicalhq/amical)
+- [minutes](https://www.useminutes.app/) / [cli] / [github](https://github.com/silverstein/minutes)
+
+### Transcription software
+
 - [Handy](https://handy.computer/) / [github](https://github.com/cjpais/handy)
-- [pyVideoTrans](https://pyvideotrans.com/) / [windows] / [github](https://github.com/jianchang512/stt)
 - [Vibe](https://thewh1teagle.github.io/vibe/) / [github](https://github.com/thewh1teagle/vibe)
+- [CapsWriter Offline](https://github.com/HaujetZhao/CapsWriter-Offline) / [windows]
+- [OpenLess](https://openless.top/) / [github](https://github.com/Open-Less/openless)
+- [TypeWhisper](https://github.com/TypeWhisper/typewhisper-mac) / [apple]
+- [Voquill](https://voquill.com/dictation) / [github](https://github.com/voquill/voquill)
+- [LazyTyper](https://lazytyper.com/) / [github](https://github.com/oldcai/LazyTyper-releases)
+<!-- - [Voice Recognition to Text Tool](https://github.com/jianchang512/stt) / [windows]
+- [pyVideoTrans](https://pyvideotrans.com/) / [windows] / [github](https://github.com/jianchang512/pyvideotrans)
+- [audapolis](https://github.com/bugbakery/audapolis)
+- [AutoSubs](https://tom-moroney.com/auto-subs/) / [github](https://github.com/tmoroney/auto-subs)
+- [LiveCaptions Translator](https://github.com/SakiRinn/LiveCaptions-Translator) / [windows]
+- [Voice-Pro](https://github.com/abus-aikorea/voice-pro) / [web]
+- [OmniVoice Studio](https://palash.dev/omnivoice/) / [github](https://github.com/debpalash/OmniVoice-Studio)
+- [WhisperJAV](https://github.com/meizhong986/WhisperJAV) - A subtitle generator for Japanese Adult Videos -->
 
 ## PDF software
 

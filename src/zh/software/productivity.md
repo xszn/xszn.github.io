@@ -154,11 +154,26 @@
 - [Microsoft Office for macOS](https://alsyundawy.github.io/Microsoft-Office-For-MacOS/) - 适用于 macOS 的 Microsoft Office 安装程序
   / [apple] / [github](https://github.com/alsyundawy/Microsoft-Office-For-MacOS)
 
-## 语音识别转文字
+## 语音识别软件 {#speech-recognition-software}
+
+### 会议助手 {#ai-notetaker}
+
+- [Meetily](https://meetily.ai/) / [github](https://github.com/Zackriya-Solutions/meetily)
+- [OpenWhispr](https://openwhispr.com/) / [github](https://github.com/OpenWhispr/openwhispr)
+- [Pluely](https://pluely.com/) / [github](https://github.com/iamsrikanthnani/pluely)
+- [Speech Note](https://github.com/mkiol/dsnote) / [linux]
+- [Amical](https://amical.ai/) / [github](https://github.com/amicalhq/amical)
+- [minutes](https://www.useminutes.app/) / [cli] / [github](https://github.com/silverstein/minutes)
+
+### 语音转文字软件 {#transcription-software}
 
 - [Handy](https://handy.computer/) / [github](https://github.com/cjpais/handy)
-- [pyVideoTrans](https://pyvideotrans.com/) / [windows] / [github](https://github.com/jianchang512/stt)
 - [Vibe](https://thewh1teagle.github.io/vibe/) / [github](https://github.com/thewh1teagle/vibe)
+- [CapsWriter Offline](https://github.com/HaujetZhao/CapsWriter-Offline) / [windows]
+- [OpenLess](https://openless.top/) / [github](https://github.com/Open-Less/openless)
+- [TypeWhisper](https://github.com/TypeWhisper/typewhisper-mac) / [apple]
+- [Voquill](https://voquill.com/dictation) / [github](https://github.com/voquill/voquill)
+- [LazyTyper](https://lazytyper.com/) / [github](https://github.com/oldcai/LazyTyper-releases)
 
 ## PDF 软件
 

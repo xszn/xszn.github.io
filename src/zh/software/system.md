@@ -86,6 +86,8 @@
 
 - [Bulk Crap Uninstaller](https://www.bcuninstaller.com/) / [windows] / [github](https://github.com/Klocman/Bulk-Crap-Uninstaller)
 - [Pearcleaner](https://itsalin.com/appInfo/?id=pearcleaner) / [apple] / [github](https://github.com/alienator88/Pearcleaner)
+- [Remove Windows Ai](https://github.com/zoicware/RemoveWindowsAI) - 在 Windows 11 中强制删除 Copilot、Recall 等 / [windows]
+- [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - 移除预装软件 / [android] / [github](https://github.com/topics/bloatware-removal)
 
 ## 实用软件 {#utility-software}
 
