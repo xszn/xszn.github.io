@@ -175,7 +175,7 @@
 - [Voquill](https://voquill.com/dictation) / [github](https://github.com/voquill/voquill)
 - [LazyTyper](https://lazytyper.com/) / [github](https://github.com/oldcai/LazyTyper-releases)
 
-## PDF 软件
+## PDF 软件 {#pdf-sofware}
 
 ### PDF 转换器 {#pdf-converters}
 
