@@ -67,6 +67,9 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
             <br>
             <AdSense />
         </template>
+        <template #sidebar-nav-after>
+            <AdSense />
+        </template>
         <!-- <template #aside-ads-after>
             <Ads v-if="page.frontmatter.ads !== false" />
         </template> -->

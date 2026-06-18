@@ -8,6 +8,7 @@
 - [calibre](https://calibre-ebook.com/) / [github](https://github.com/kovidgoyal/calibre)
 - [Readest](https://readest.com/) / [github](https://github.com/readest/readest)
 - [FBReader](https://fbreader.org/)
+<!-- https://github.com/Acclorite/book-story -->
 
 ## Hex editors
 
@@ -64,3 +65,4 @@
 - [TeXnicCenter](https://www.texniccenter.org/) / [github](https://github.com/texniccenter/TeXnicCenter)
 - [MiKTeX](https://miktex.org/) / [github](https://github.com/miktex/miktex/)
 - [TeXworks](https://tug.org/texworks/) / [github](https://github.com/TeXworks/texworks)
+<!-- - https://github.com/saadq/resumake.io -->

@@ -75,6 +75,7 @@
 - [PureMac](https://github.com/momenbasel/PureMac) - CleanMyMac 替代品 / [apple]
 - [WindowsCleaner](https://wc.dyblog.online/) / [windows] / [github](https://github.com/darkmatter2048/WindowsCleaner)
 - [FluentCleaner](https://github.com/builtbybel/FluentCleaner) - CCleaner alternatives / [windows]
+- [Mac Sai](https://github.com/iliyami/MacSai) / [apple]
 
 ### 磁盘分区软件 {#disk-partitioning-software}
 
