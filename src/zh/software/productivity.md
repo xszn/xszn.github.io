@@ -177,38 +177,35 @@
 
 ## PDF 软件
 
-- [BentoPDF](https://bentopdf.com/) / [web] / [github](https://github.com/alam00000/bentopdf)
-- [PDF24 Tools](https://tools.pdf24.org/) - nonfree
-- [pdfforge](https://www.pdfforge.org/) / [github](https://github.com/pdfforge/pdfcreator)
-- [RetainPDF](https://github.com/wxyhgk/retain-pdf) - PDF 保留排版翻译工具
-
-### PDF 生成器
-
-- [Stirling PDF](https://www.stirling.com/) / [github](https://github.com/Stirling-Tools/stirling-pdf)
-- [PDF Craft](https://inkora.oomol.com/) / [github](https://github.com/oomol-lab/pdf-craft)
-- [PDFPatcher](https://www.cnblogs.com/pdfpatcher) / [windows] / [github](https://github.com/wmjordan/PDFPatcher)
-
-### PDF 查看器
-
-- [Sumatra PDF](https://www.sumatrapdfreader.org/) / [windows] / [github](https://github.com/sumatrapdfreader/sumatrapdf)
-- [Okular](https://okular.kde.org/) / [github](https://github.com/KDE/okular)
-- [Pympress](https://pympress.github.io/) / [github](https://github.com/Cimbali/pympress)
-- PdfViewer / [android] / [github](https://github.com/GrapheneOS/PdfViewer)
-- [Sioyek](https://sioyek.info/) / [github](https://github.com/ahrm/sioyek)
-
-### PDF 编辑器
-
-- [PDF4QT](https://jakubmelka.github.io/) / [github](https://github.com/JakubMelka/PDF4QT)
-- [KillerPDF](https://pdf.killertools.net/) / [windows] / [github](https://github.com/SteveTheKiller/KillerPDF)
-- [PaperKnife](https://potatameister.github.io/PaperKnife/) / [github](https://github.com/potatameister/PaperKnife)
-
-### PDF 转换器
+### PDF 转换器 {#pdf-converters}
 
 - [MinerU](https://mineru.net/) / [github](https://github.com/opendatalab/mineru)
-- Every PDF / [github](https://github.com/DDULDDUCK/every-pdf)
-- Images To PDF / [android] / [github](https://github.com/Swati4star/Images-to-PDF)
+- [PDF Craft](https://inkora.oomol.com/) / [github](https://github.com/oomol-lab/pdf-craft)
+- [PDF Converter](https://swati4star.github.io/Images-to-PDF/) - 图片转 PDF / [android] / [github](https://github.com/Swati4star/Images-to-PDF)
+- [PDFCreator Free](https://www.pdfforge.org/pdfcreator) / [github](https://github.com/pdfforge/pdfcreator)
 - [MarkPDFDown](https://markdown.fit/) / [github](https://github.com/MarkPDFdown/markpdfdown-desktop)
-- [PDFMathTranslate](https://pdf2zh.com/) / [github](https://github.com/PDFMathTranslate/PDFMathTranslate)
+
+### PDF 编辑器 {#pdf-editors}
+
+- [Stirling PDF](https://www.stirling.com/) / [github](https://github.com/Stirling-Tools/stirling-pdf)
+- [BentoPDF](https://bentopdf.com/) / [web] / [github](https://github.com/alam00000/bentopdf)
+- [PDFPatcher](https://www.cnblogs.com/pdfpatcher) / [windows] / [github](https://github.com/wmjordan/PDFPatcher)
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger)
+- [PDFsam](https://pdfsam.org/) / [github](https://github.com/torakiki/pdfsam)
+- [PDF Guru Anki](https://guru.kevin2li.com/) / [github](https://github.com/kevin2li/PDF-Guru)
+- [KillerPDF](https://pdf.killertools.net/) / [windows] / [github](https://github.com/SteveTheKiller/KillerPDF)
+- [PaperKnife](https://potatameister.github.io/PaperKnife/) / [android] / [github](https://github.com/potatameister/PaperKnife)
+- [PDF4QT](https://jakubmelka.github.io/) / [github](https://github.com/JakubMelka/PDF4QT)
+- [Every PDF](https://github.com/DDULDDUCK/every-pdf)
+- [Open PDF Studio](https://github.com/OpenAEC-Foundation/open-pdf-studio)
+
+### PDF 查看器 {#pdf-viewers}
+
+- [Sumatra PDF](https://www.sumatrapdfreader.org/) / [windows] / [github](https://github.com/sumatrapdfreader/sumatrapdf)
+- [Sioyek](https://sioyek.info/) / [github](https://github.com/ahrm/sioyek)
+- [Pympress](https://pympress.github.io/) / [github](https://github.com/Cimbali/pympress)
+- [Okular](https://okular.kde.org/) / [github](https://github.com/KDE/okular)
+- [PdfViewer](https://github.com/GrapheneOS/PdfViewer) / [android]
 
 ## 翻译软件
 

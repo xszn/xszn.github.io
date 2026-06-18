@@ -188,7 +188,7 @@
 
 - [MinerU](https://mineru.net/) / [github](https://github.com/opendatalab/mineru)
 - [PDF Craft](https://inkora.oomol.com/) / [github](https://github.com/oomol-lab/pdf-craft)
-- [PDF Converter](https://swati4star.github.io/Images-to-PDF/) - Images To PDF / [android] / [github](https://github.com/Swati4star/Images-to-PDF)
+- [PDF Converter](https://swati4star.github.io/Images-to-PDF/) - Images to PDF / [android] / [github](https://github.com/Swati4star/Images-to-PDF)
 - [PDFCreator Free](https://www.pdfforge.org/pdfcreator) / [github](https://github.com/pdfforge/pdfcreator)
 - [MarkPDFDown](https://markdown.fit/) / [github](https://github.com/MarkPDFdown/markpdfdown-desktop)
 
