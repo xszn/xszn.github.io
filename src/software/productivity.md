@@ -120,6 +120,7 @@
 - [Ollama](https://ollama.com/) / [github](https://github.com/ollama/ollama)
 - [llama.cpp](https://llama.app/) / [github](https://github.com/ggml-org/llama.cpp)
   - [KoboldCpp](https://github.com/LostRuins/koboldcpp)
+- [Unsloth Studio](https://unsloth.ai/) / [github](https://github.com/unslothai/unsloth)
 - [LocalAI](https://localai.io/) / [github](https://github.com/mudler/localai)
 - [llamafile](https://docs.mozilla.ai/llamafile) / [github](https://github.com/mozilla-ai/llamafile)
 - [WebLLM](https://webllm.mlc.ai/) / [web] / [github](https://github.com/mlc-ai/web-llm)
@@ -216,18 +217,44 @@
 
 ## Translation software
 
+- [KISS Translator](https://github.com/fishjar/kiss-translator) / [browser]
+- [Read Frog](https://www.readfrog.app/) / [browser] / [github](https://github.com/mengxi-ream/read-frog)
+- [FluentRead](https://fluent.thinkstu.com/) / [browser] / [github](https://github.com/Bistutu/FluentRead)
+- [OmegaT](https://omegat.org/) / [github](https://github.com/omegat-org/omegat)
+- [QTranslate](https://qtranslate-app.web.app/) / [windows] / [github](https://github.com/ahatem/QTranslate)
+
+### Document translation
+
+- [PDFMathTranslate](https://pdf2zh.com/) / [windows] / [github](https://github.com/PDFMathTranslate/PDFMathTranslate)
+- [RetainPDF](https://github.com/wxyhgk/retain-pdf) - PDF Translation Tools
+- [Translate Books with LLMs](https://github.com/hydropix/TranslateBooksWithLLMs)
+- [PolyglotPDF](https://github.com/CBIhalsen/PolyglotPDF) / [windows]
+- [XTranslate](https://www.xtranslate.dev/) / [browser] / [github](https://github.com/ixrock/XTranslate)
+
+### OCR translation
+
+- [LunaTranslator](https://docs.lunatranslator.org/) / [windows] / [github](https://github.com/HIllya51/LunaTranslator)
+- [Prism](https://github.com/qyzhg/prism)
+
+### Real time translation
+
+- [RTranslator](https://github.com/niedev/RTranslator) / [android]
+- [Translumo](https://github.com/ramjke/Translumo) / [windows]
+- [My Translator](https://github.com/phuc-nt/my-translator)
+
+### Selection translation
+
+- [NextAI Translator](https://github.com/nextai-translator/nextai-translator)
 - [Pot](https://pot-app.com/) / [github](https://github.com/pot-app/pot-desktop)
 - [CopyTranslator](https://copytranslator.github.io/) / [github](https://github.com/CopyTranslator/CopyTranslator)
-- Easydict / [apple] / [github](https://github.com/tisfeng/Easydict)
-- RTranslator / [android] / [github](https://github.com/niedev/RTranslator)
-- NextAI Translator / [github](https://github.com/nextai-translator/nextai-translator)
-- [FluentRead](https://fluent.thinkstu.com/) / [browser] / [github](https://github.com/Bistutu/FluentRead)
-- KISS Translator / [browser] / [github](https://github.com/fishjar/kiss-translator)
-- [LunaTranslator](https://docs.lunatranslator.org/) / [windows] / [github](https://github.com/HIllya51/LunaTranslator)
-- Caption Translator / [github](https://github.com/cddqssc/Caption-Trans)
-- [Bob](https://bobtranslate.com/) / [apple] / [github](https://github.com/ripperhe/Bob)
-<!-- - [PDFMathTranslate](https://pdf2zh.com/) / [github](https://github.com/PDFMathTranslate/PDFMathTranslate)
-- [RetainPDF](https://github.com/wxyhgk/retain-pdf) - PDF Translation Tools -->
+- [Easydict](https://github.com/tisfeng/Easydict) / [apple]
+- [MouseTooltipTranslator](https://github.com/ttop32/MouseTooltipTranslator) / [browser]
+- [MoePeek](https://github.com/cosZone/MoePeek) / [apple]
+
+### Video translation
+
+- [pyVideoTrans](https://pyvideotrans.com/) / [windows] / [github](https://github.com/jianchang512/pyvideotrans)
+- [Caption Translator](https://github.com/cddqssc/Caption-Trans)
 
 ## Email clients
 

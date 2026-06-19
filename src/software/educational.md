@@ -35,7 +35,6 @@
 ### English learning software
 
 - [Enjoy](https://enjoy.bot/) / [github](https://github.com/ZuodaoTech/everyone-can-use-english)
-- [Read Frog](https://www.readfrog.app/) / [browser] / [github](https://github.com/mengxi-ream/read-frog)
 - [MuJing](https://mujingx.com/) / [github](https://github.com/tangshimin/MuJing)
 - [LLPlayer](https://llplayer.com/) / [windows] / [github](https://github.com/umlx5h/LLPlayer)
 - [Immersive Language Learning Assistant](https://illa.xlike.cc/) / [browser] / [github](https://github.com/xiao-zaiyi/illa-helper)
