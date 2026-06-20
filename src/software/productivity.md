@@ -263,11 +263,14 @@
   - [Betterbird](https://www.betterbird.eu/) / [github](https://github.com/Betterbird/)
 - [Mailspring](https://www.getmailspring.com/) / [github](https://github.com/foundry376/mailspring)
 - [Tuta Mail](https://tuta.com/) / [github](https://github.com/tutao/tutanota)
-- [EmailEngine](https://emailengine.app/) - Headless email client / [github](https://github.com/postalsys/emailengine)
+- [FairEmail](https://email.faircode.eu/) / [android] / [github](https://github.com/m66b/fairemail)
 - [Kanmail](https://kanmail.io/) / [github](https://github.com/Oxygem/Kanmail)
 - [Matcha](https://matcha.email/) / [github](https://github.com/floatpane/matcha)
 - [Aerion](https://aerion.3df.io/) / [github](https://github.com/hkdb/aerion)
 - [Velo](https://velomail.app/) / [github](https://github.com/avihaymenahem/velo)
+- [Geary](https://wiki.gnome.org/Apps/Geary) / [linux] / [github](https://github.com/GNOME/geary)
+- [KMail](https://kontact.kde.org/components/kmail/) / [linux] / [github](https://github.com/kde/kmail)
+- [Claws Mail](https://claws-mail.org/) / [github](https://github.com/eworm-de/claws-mail)
 
 ## OCR software
 
