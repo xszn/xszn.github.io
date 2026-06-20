@@ -33,6 +33,7 @@
 - [OpenShot](https://www.openshot.org/) / [github](https://github.com/OpenShot/openshot-qt)
 - [Kdenlive](https://kdenlive.org/) / [github](https://github.com/kde/kdenlive)
 - [Beutl](https://beutl.beditor.net/) / [github](https://github.com/b-editor/beutl)
+- [Palmier Pro](https://www.palmier.io/) / [apple] / [github](https://github.com/palmier-io/palmier-pro)
 
 ## Subtitle editors
 

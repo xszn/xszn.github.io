@@ -227,6 +227,7 @@
 ### 屏幕翻译 {#ocr-translation}
 
 - [LunaTranslator](https://docs.lunatranslator.org/) / [windows] / [github](https://github.com/HIllya51/LunaTranslator)
+- [STranslate](https://stranslate.zggsong.com/) / [windows] / [github](https://github.com/STranslate/STranslate)
 - [Prism](https://github.com/qyzhg/prism)
 
 ### 实时翻译 {#real-time-translation}
@@ -252,14 +253,17 @@
 ## 电子邮件客户端
 
 - [Thunderbird](https://www.thunderbird.net/) / [github](https://github.com/thunderbird)
+  - [Betterbird](https://www.betterbird.eu/) / [github](https://github.com/Betterbird/)
 - [Mailspring](https://www.getmailspring.com/) / [github](https://github.com/foundry376/mailspring)
 - [Tuta Mail](https://tuta.com/) / [github](https://github.com/tutao/tutanota)
-- [Kanmail](https://kanmail.io/) / [github](https://github.com/Oxygem/Kanmail)
-- [Velo](https://velomail.app/) / [github](https://github.com/avihaymenahem/velo)
 - [EmailEngine](https://emailengine.app/) - Headless email client / [github](https://github.com/postalsys/emailengine)
+- [Kanmail](https://kanmail.io/) / [github](https://github.com/Oxygem/Kanmail)
+- [Matcha](https://matcha.email/) / [github](https://github.com/floatpane/matcha)
+- [Aerion](https://aerion.3df.io/) / [github](https://github.com/hkdb/aerion)
+- [Velo](https://velomail.app/) / [github](https://github.com/avihaymenahem/velo)
 
 ## OCR 软件
 
-- [PaddleOCR](https://aistudio.baidu.com/paddleocr) / [github](https://github.com/PaddlePaddle/PaddleOCR)
-- Umi-ORC / [github](https://github.com/hiroi-sora/Umi-OCR)
-- [Text Grab](https://textgrab.net/) / [github](https://github.com/TheJoeFin/Text-Grab)
+- [Umi-ORC](https://github.com/hiroi-sora/Umi-OCR)
+- [Text Grab](https://textgrab.net/) / [windows] / [github](https://github.com/TheJoeFin/Text-Grab)
+- [NormCap](https://dynobo.github.io/normcap/) / [github](https://github.com/dynobo/normcap)
