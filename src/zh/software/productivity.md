@@ -250,7 +250,7 @@
 - [pyVideoTrans](https://pyvideotrans.com/) / [windows] / [github](https://github.com/jianchang512/pyvideotrans)
 - [Caption Translator](https://github.com/cddqssc/Caption-Trans)
 
-## 电子邮件客户端
+## 电子邮件客户端 {#email-clients}
 
 - [Thunderbird](https://www.thunderbird.net/) / [github](https://github.com/thunderbird)
   - [Betterbird](https://www.betterbird.eu/) / [github](https://github.com/Betterbird/)
@@ -262,7 +262,7 @@
 - [Aerion](https://aerion.3df.io/) / [github](https://github.com/hkdb/aerion)
 - [Velo](https://velomail.app/) / [github](https://github.com/avihaymenahem/velo)
 
-## OCR 软件
+## OCR 软件 {#ocr-software}
 
 - [Umi-ORC](https://github.com/hiroi-sora/Umi-OCR)
 - [Text Grab](https://textgrab.net/) / [windows] / [github](https://github.com/TheJoeFin/Text-Grab)
