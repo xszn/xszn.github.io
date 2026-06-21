@@ -2,13 +2,18 @@
 
 ## E-readers
 
-- [Legado](https://gedoor.github.io/) / [android] / [github](https://github.com/gedoor/legado)
 - [Koodo Reader](https://koodoreader.com/) / [github](https://github.com/koodo-reader/koodo-reader)
 - [KOReader](https://koreader.rocks/) / [github](https://github.com/koreader/koreader)
-- [calibre](https://calibre-ebook.com/) / [github](https://github.com/kovidgoyal/calibre)
+- [Calibre](https://calibre-ebook.com/) / [github](https://github.com/kovidgoyal/calibre)
 - [Readest](https://readest.com/) / [github](https://github.com/readest/readest)
-- [FBReader](https://fbreader.org/)
-<!-- https://github.com/Acclorite/book-story -->
+- [Anx Reader](https://anx.anxcye.com/) / [github](https://github.com/anxcye/anx-reader)
+- [Foliate](https://johnfactotum.github.io/foliate/) / [linux] / [github](https://github.com/johnfactotum/foliate)
+- [Librera Reader](https://librera.mobi/) / [android] / [github](https://github.com/foobnix/LibreraReader)
+- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) / [github](https://github.com/edrlab/thorium-reader)
+- [Openlib](https://github.com/dstark5/Openlib) / [android]
+- [ReadAny](https://codedogqby.github.io/ReadAny/) / [github](https://github.com/codedogQBY/ReadAny)
+- [Myne](https://pool-of-tears.github.io/#myne) / [android] / [github](https://github.com/Pool-Of-Tears/Myne)
+- [Book's Story](https://github.com/Acclorite/book-story) / [android]
 
 ## Hex editors
 
