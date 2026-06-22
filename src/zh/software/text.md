@@ -15,10 +15,19 @@
 - [Myne](https://pool-of-tears.github.io/#myne) / [android] / [github](https://github.com/Pool-Of-Tears/Myne)
 - [Book's Story](https://github.com/Acclorite/book-story) / [android]
 
-## 十六进制编辑器
+## 十六进制编辑器 {#hex-editors}
 
 - [ImHex](https://imhex.werwolv.net/) / [github](https://github.com/werwolv/imhex)
-- hexyl / [cli] / [github](https://github.com/sharkdp/hexyl)
+- [hexyl](https://github.com/sharkdp/hexyl) / [cli]
+- [Hex Fiend](https://hexfiend.com/) / [apple] / [github](https://github.com/HexFiend/HexFiend)
+- [REHex](https://rehex.solemnwarning.net/) / [github](https://github.com/solemnwarning/rehex)
+- [HexWalk](https://www.hexwalk.com/) / [github](https://github.com/gcarmix/HexWalk)
+- [WpfHexEditor](https://github.com/abbaye/WpfHexEditorIDE) / [windows]
+- [wxMEdit](https://wxmedit.github.io/) / [github](https://github.com/wxMEdit/wxMEdit)
+- [Okteta](https://apps.kde.org/okteta/) / [linux] / [github](https://github.com/KDE/okteta)
+- [BinEd](https://bined.exbin.org/) / [github](https://github.com/exbin/bined)
+  - [BinEd for Android](https://github.com/exbin/bined-android) / [android]
+- [WingHexExplorer2](https://wing-summer.github.io/WingHexExplorer2/) / [windows] / [github](https://github.com/Wing-summer/WingHexExplorer2)
 
 ## 笔记软件
 
