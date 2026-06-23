@@ -20,6 +20,13 @@
 - [WebRPA](https://github.com/pmh1314520/WebRPA) / [windows]
 - [taskt](https://taskt.net/) / [windows] / [github](https://github.com/saucepleez/taskt)
 
+## Collaborative software
+
+- [AppFlowy](https://appflowy.com/) - Notion alternatives / [github](https://github.com/AppFlowy-IO/AppFlowy)
+- [AFFiNE](https://affine.pro/) - Notion & Miro alternatives / [github](https://github.com/toeverything/AFFiNE)
+- [Zettlr](https://www.zettlr.com/) / [github](https://github.com/Zettlr/Zettlr)
+- [massCode](https://masscode.io/) / [github](https://github.com/massCodeIO/massCode)
+
 ## Desktop search tools
 
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly <Badge type="info" text="Freeware" /> / [windows]
@@ -39,7 +46,7 @@
 
 - [Recoll](https://www.recoll.org/) - Full-text search for your desktop / [gitlab](https://framagit.org/medoc92/recoll)
 - [DocFetcher](https://docfetcher.sourceforge.io/) - Fast document search / [sourceforge](https://sourceforge.net/projects/docfetcher/)
-- [AnyTXT Searcher](https://anytxt.net/) - Google Desktop alternative <Badge type="info" text="Freeware" /> / [windows]
+- [AnyTXT Searcher](https://anytxt.net/) - Google Desktop alternatives <Badge type="info" text="Freeware" /> / [windows]
 - [dnGrep](https://dngrep.github.io/) - Powerful search for Windows / [windows] / [github](https://github.com/dnGrep/dnGrep)
 
 ## Development tools

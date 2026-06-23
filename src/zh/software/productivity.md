@@ -20,6 +20,13 @@
 - [WebRPA](https://github.com/pmh1314520/WebRPA) / [windows]
 - [taskt](https://taskt.net/) / [windows] / [github](https://github.com/saucepleez/taskt)
 
+## 协作软件 {#collaborative-software}
+
+- [AppFlowy](https://appflowy.com/) - Notion 替代品 / [github](https://github.com/AppFlowy-IO/AppFlowy)
+- [AFFiNE](https://affine.pro/) - Notion 和 Miro 替代品 / [github](https://github.com/toeverything/AFFiNE)
+- [Zettlr](https://www.zettlr.com/) / [github](https://github.com/Zettlr/Zettlr)
+- [massCode](https://masscode.io/) / [github](https://github.com/massCodeIO/massCode)
+
 ## 桌面搜索工具 {#desktop-search-tools}
 
 - [Everything](https://www.voidtools.com/) - 基于名称快速定位文件和文件夹 <Badge type="info" text="Freeware" /> / [windows]

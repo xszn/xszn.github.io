@@ -29,20 +29,41 @@
   - [BinEd for Android](https://github.com/exbin/bined-android) / [android]
 - [WingHexExplorer2](https://wing-summer.github.io/WingHexExplorer2/) / [windows] / [github](https://github.com/Wing-summer/WingHexExplorer2)
 
-## Note taking software
+## Note-taking software
+
+### Handwriting note-taking software
+
+- [Xournal++](https://xournalpp.github.io/) / [github](https://github.com/xournalpp/xournalpp/)
+- [Saber](https://saber.adil.hanney.org/) / [github](https://github.com/saber-notes/saber)
+- [Butterfly](https://butterfly.linwood.dev/) / [github](https://github.com/LinwoodDev/Butterfly)
+
+### Knowledge management software
 
 - [Joplin](https://joplinapp.org/) / [github](https://github.com/laurent22/joplin/)
-- [Notesnook](https://notesnook.com/) / [github](https://github.com/streetwriters/notesnook)
-- [AFFiNE](https://affine.pro/) / [github](https://github.com/toeverything/AFFiNE)
-- [AppFlowy](https://appflowy.com/) / [github](https://github.com/AppFlowy-IO/AppFlowy)
-- [Memos](https://usememos.com/) / [github](https://github.com/usememos/memos)
 - [SiYuan](https://b3log.org/siyuan/) / [github](https://github.com/siyuan-note/siyuan)
 - [Logseq](https://logseq.com/) / [github](https://github.com/logseq/logseq)
 - [Trilium Notes](https://triliumnotes.org/) / [github](https://github.com/TriliumNext/Trilium)
-- [Xournal++](https://xournalpp.github.io/) - Handwritten Notes / [github](https://github.com/xournalpp/xournalpp/)
-- [Zettlr](https://www.zettlr.com/) / [github](https://github.com/Zettlr/Zettlr)
+- [Notesnook](https://notesnook.com/) / [github](https://github.com/streetwriters/notesnook)
+- [FSNotes](https://fsnot.es/) / [apple] / [github](https://github.com/glushchenko/fsnotes)
+- [Standard Notes](https://standardnotes.com/) / [github](https://github.com/standardnotes/app)
+- [Heynote](https://heynote.com/) / [github](https://github.com/heyman/heynote)
+- [Notes](https://www.notes-foss.com/) / [github](https://github.com/nuttyartist/notes)
+- [Floral Notepaper](https://github.com/Achilng/floral-notepaper)
+- [Omni Notes](https://github.com/federicoiosue/Omni-Notes) / [android]
+- [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop)
+- [Beaver Notes](https://beavernotes.com/) / [github](https://github.com/Beaver-Notes/Beaver-Notes)
+- [Moe Memos](https://memos.moe/) / [github](https://github.com/mudkipme/MoeMemosAndroid)
+
+### Markdown note-taking software
+
+- [Memos](https://usememos.com/) / [github](https://github.com/usememos/memos)
 - [VNote](https://app.vnote.fun/) / [github](https://github.com/vnotex/vnote)
 - [NoteGen](https://notegen.top/) / [github](https://github.com/codexu/note-gen)
+- [QOwnNotes](https://www.qownnotes.org/) / [github](https://github.com/pbek/QOwnNotes)
+- [GitJournal](https://gitjournal.io/) / [github](https://github.com/GitJournal/GitJournal)
+- [MDX Notes](https://mdxnotes.com/) / [github](https://github.com/maqi1520/mdx-notes)
+- [Quillpad](https://quillpad.github.io/) / [android] / [github](https://github.com/quillpad/quillpad)
+- [Lumina Note](https://github.com/blueberrycongee/Lumina-Note)
 
 ## Text editors
 
@@ -57,6 +78,7 @@
 - Notepad Next / [github](https://github.com/dail8859/NotepadNext)
 - [WeChat Markdown Editor](https://md.doocs.org/) / [web] / [github](https://github.com/doocs/md)
 - [Spacemacs](https://www.spacemacs.org/) / [cli] / [github](https://github.com/syl20bnr/spacemacs)
+<!-- - https://github.com/Xed-Editor/Xed-Editor -->
 
 ### Source code editors
 
