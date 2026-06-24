@@ -65,32 +65,63 @@
 - [Quillpad](https://quillpad.github.io/) / [android] / [github](https://github.com/quillpad/quillpad)
 - [Lumina Note](https://github.com/blueberrycongee/Lumina-Note)
 
-## 文本编辑器
+## 文本编辑器 {#text-editors}
 
-- Notepad-- / [github](https://github.com/cxasm/notepad--)
-- [Micro](https://micro-editor.github.io/) / [cli] / [github](https://github.com/micro-editor/micro)
-- [Neovim](https://neovim.io/) / [cli] / [github](https://github.com/neovim/neovim)
+- [Etherpad](https://etherpad.org/) / [github](https://github.com/ether/etherpad)
 - [Notepads](https://www.notepadsapp.com/) / [windows] / [github](https://github.com/0x7c13/Notepads)
-- [Helix](https://helix-editor.com/) / [cli] / [github](https://github.com/helix-editor/helix)
-- [Vim](https://www.vim.org/) / [github](https://github.com/vim/vim)
-- Microsoft Edit / [github](https://github.com/microsoft/edit)
+- [Lite XL](https://lite-xl.com/) / [github](https://github.com/lite-xl/lite-xl)
+- [CudaText](https://cudatext.github.io/) / [github](https://github.com/Alexey-T/CudaText)
+- [novelWriter](https://novelwriter.io/) / [github](https://github.com/vkbo/novelWriter)
+- [Notepadqq](https://notepadqq.com/) / [linux] / [github](https://github.com/notepadqq/notepadqq)
+- [Xed-Editor](https://xed-editor.github.io/Xed-Docs/) / [android] / [github](https://github.com/Xed-Editor/Xed-Editor)
+- [Left](https://hundredrabbits.itch.io/left) / [github](https://github.com/hundredrabbits/Left)
+- [Sakura Editor](https://sakura-editor.github.io/) / [github](https://github.com/sakura-editor/sakura)
+- [SubEthaEdit](https://subethaedit.net/) / [apple] / [github](https://github.com/subethaedit/SubEthaEdit)
+
+### Markdown 编辑器 {#markdown-editors}
+
 - [MarkText](https://marktext.me/) / [github](https://github.com/marktext/marktext)
-- Notepad Next / [github](https://github.com/dail8859/NotepadNext)
 - [WeChat Markdown Editor](https://md.doocs.org/) / [web] / [github](https://github.com/doocs/md)
-- [Spacemacs](https://www.spacemacs.org/) / [cli] / [github](https://github.com/syl20bnr/spacemacs)
+- [Yank Note](https://yank-note.com/) / [github](https://github.com/purocean/yn)
+- [Markor](https://github.com/gsantner/markor) / [android]
+- [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) / [apple]
+- [NeuraPress](https://md.newkit.site/) / [web] / [github](https://github.com/tianyaxiang/neurapress)
+- [Markdown Monster](https://markdownmonster.west-wind.com/) / [windows] / [github](https://github.com/RickStrahl/MarkdownMonster)
+- [Ferrite](https://getferrite.dev/) / [github](https://github.com/OlaProeis/Ferrite)
+- [PanWriter](https://panwriter.com/) / [github](https://github.com/mb21/panwriter)
 
-### 代码编辑器
+### 代码编辑器 {#source-code-editors}
 
-- [Notepad++](https://notepad-plus-plus.org/) / [windows] / [github](https://github.com/notepad-plus-plus/notepad-plus-plus)
-- [VSCodium](https://vscodium.com/) / [github](https://github.com/VSCodium/vscodium)
 - [Visual Studio Code](https://code.visualstudio.com/) / [github](https://github.com/microsoft/vscode)
 - [Zed](https://zed.dev/) / [github](https://github.com/zed-industries/zed)
 - [Lapce](https://lap.dev/lapce/) / [github](https://github.com/lapce/lapce)
+- [VSCodium](https://vscodium.com/) / [github](https://github.com/VSCodium/vscodium)
+- [Notepad++](https://notepad-plus-plus.org/) / [windows] / [github](https://github.com/notepad-plus-plus/notepad-plus-plus)
+  - [Notepad Next](https://github.com/dail8859/NotepadNext)
+  - [Notepad--](https://github.com/cxasm/notepad--)
+- [Onlook](https://www.onlook.com/) / [github](https://github.com/onlook-dev/onlook)
 - [CodeEdit](https://codeedit.app/) / [apple] / [github](https://github.com/CodeEditApp/CodeEdit)
+- [Eclipse Theia](https://theia-ide.org/) / [github](https://github.com/eclipse-theia/theia)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) / [github](https://github.com/JetBrains/intellij-community)
 - [Kakoune](https://kakoune.org/) / [github](https://github.com/mawww/kakoune)
-- [Onlook](https://www.onlook.com/) / [github](https://github.com/onlook-dev/onlook)
-- [Eclipse Theia](https://theia-ide.org/) / [github](https://github.com/eclipse-theia/theia)
+- [Geany](https://www.geany.org/) / [github](https://github.com/geany/geany)
+- [Athas](https://athas.dev/) / [github](https://github.com/athasdev/athas)
+- [Squircle CE](https://github.com/massivemadness/Squircle-CE) / [android]
+- [ecode](https://github.com/SpartanJ/ecode)
+- [Textadept](https://orbitalquark.github.io/textadept/) / [github](https://github.com/orbitalquark/textadept)
+
+### 终端文本编辑器 {#terminal-text-editors}
+
+- [Neovim](https://neovim.io/) / [github](https://github.com/neovim/neovim)
+- [Helix](https://helix-editor.com/) / [github](https://github.com/helix-editor/helix)
+- [Vim](https://www.vim.org/) / [github](https://github.com/vim/vim)
+- [Micro](https://micro-editor.github.io/) / [github](https://github.com/micro-editor/micro)
+- [Spacemacs](https://www.spacemacs.org/) / [github](https://github.com/syl20bnr/spacemacs)
+- [Microsoft Edit](https://github.com/microsoft/edit)
+- [Amp](https://amp.rs/) / [github](https://github.com/jmacdonald/amp)
+- [Flow Control](https://flow-control.dev/) / [github](https://github.com/neurocyte/flow)
+- [Kibi](https://github.com/ilai-deutel/kibi)
+- [mle](https://github.com/adsr/mle)
 
 ### TeX 编辑器
 
