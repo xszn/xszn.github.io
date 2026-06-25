@@ -68,6 +68,18 @@
 - [Lumina Note](https://github.com/blueberrycongee/Lumina-Note)
 - [NoteKit](https://github.com/blackhole89/notekit)
 
+## TeX editors
+
+- [TeXstudio](https://www.texstudio.org/) / [github](https://github.com/texstudio-org/texstudio)
+- [LyX](https://www.lyx.org/)
+- [MiKTeX](https://miktex.org/) / [github](https://github.com/miktex/miktex/)
+- [TeXworks](https://tug.org/texworks/) / [github](https://github.com/TeXworks/texworks)
+- [TeX Live](https://www.tug.org/texlive/) / [github](https://github.com/TeX-Live/texlive-source/)
+- [Texmaker](https://www.xm1math.net/texmaker/) / [github](https://www.xm1math.net/texmaker/)
+- [MacTeX](https://www.tug.org/mactex/) / [apple]
+- [LMMs-Lab Writer](https://writer.lmms-lab.com/) / [github](https://github.com/EvolvingLMMs-Lab/lmms-lab-writer)
+- [TeXnicCenter](https://www.texniccenter.org/) / [windows] / [github](https://github.com/texniccenter/TeXnicCenter)
+
 ## Text editors
 
 - [Etherpad](https://etherpad.org/) / [github](https://github.com/ether/etherpad)
@@ -121,17 +133,8 @@
 - [Micro](https://micro-editor.github.io/) / [github](https://github.com/micro-editor/micro)
 - [Spacemacs](https://www.spacemacs.org/) / [github](https://github.com/syl20bnr/spacemacs)
 - [Microsoft Edit](https://github.com/microsoft/edit)
+- [Fresh](https://getfresh.dev/) / [cli] / [github](https://github.com/sinelaw/fresh)
 - [Amp](https://amp.rs/) / [github](https://github.com/jmacdonald/amp)
 - [Flow Control](https://flow-control.dev/) / [github](https://github.com/neurocyte/flow)
 - [Kibi](https://github.com/ilai-deutel/kibi)
 - [mle](https://github.com/adsr/mle)
-
-### TeX editors
-
-- [TeXstudio](https://www.texstudio.org/) / [github](https://github.com/texstudio-org/texstudio)
-- [Fresh](https://getfresh.dev/) / [cli] / [github](https://github.com/sinelaw/fresh)
-- [LyX](https://www.lyx.org/)
-- [TeXnicCenter](https://www.texniccenter.org/) / [github](https://github.com/texniccenter/TeXnicCenter)
-- [MiKTeX](https://miktex.org/) / [github](https://github.com/miktex/miktex/)
-- [TeXworks](https://tug.org/texworks/) / [github](https://github.com/TeXworks/texworks)
-<!-- - https://github.com/saadq/resumake.io -->
