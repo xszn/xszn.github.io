@@ -2,49 +2,49 @@
 
 ## Bootable USB
 
-- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy)
-- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
-- [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
+- [Ventoy](https://www.ventoy.net/) - A new bootable USB solution / [github](https://github.com/ventoy/Ventoy)
+- [Rufus](https://rufus.ie/) - Create bootable USB drives the easy way / [windows] / [github](https://github.com/pbatard/rufus)
+- [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives / [github](https://github.com/balena-io/etcher)
 
 ## Data management software
 
 ### File archivers
 
-- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip)
-  - [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/)
-  - [NanaZip](https://nanazip.org/) - WinUI / [windows] / [github](https://github.com/M2Team/NanaZip)
-- [PeaZip](https://peazip.github.io/) - WinRAR, WinZip alternatives / [github](https://github.com/peazip/PeaZip/)
-- [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka)
-- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android]
+- [7-Zip](https://www.7-zip.org/) - A file archiver with a high compression ratio / [github](https://github.com/ip7z/7zip)
+  - [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) - 7-Zip with support for Zstandard / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/)
+  - [NanaZip](https://nanazip.org/) - The 7-Zip derivative intended for the modern Windows experience / [windows] / [github](https://github.com/M2Team/NanaZip)
+- [PeaZip](https://peazip.github.io/) - Open, extract RAR TAR ZIP files / [github](https://github.com/peazip/PeaZip/)
+- [Keka](https://www.keka.io/) - The macOS & iOS file archiver / [apple] / [github](https://github.com/aonez/Keka)
+- [ZipXtract](https://github.com/WirelessAlien/ZipXtract) - A fully open-source Android application designed for comprehensive archive management / [android]
 
 ### [File transfer software](network#file-transfer-software)
 
 ## Desktop environments
 
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
-- [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
-- [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
+- [Seelen UI](https://seelen.io/) - Customize your Windows desktop / [windows] / [github](https://github.com/eythaann/seelen-ui)
+- [Rainmeter](https://www.rainmeter.net/) - Desktop customization tool / [windows] / [github](https://github.com/rainmeter/rainmeter)
+- [Cairo](https://cairodesktop.com/) - A customizable, intuitive desktop environment for Windows / [windows] / [github](https://github.com/cairoshell/cairoshell)
 
 ## Input methods
 
-- [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard)
-- [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - English input method
+- [FlorisBoard](https://florisboard.org/) - A free and open-source keyboard for Android 8.0+ devices / [android] / [github](https://github.com/florisboard/florisboard)
+- [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - An intelligent English input method with auto-suggestions and spell check features
 
 ### Chinese input methods
 
-- [Rime](https://rime.im/) - Input method engine / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime)
-  - [Weasel](https://github.com/rime/weasel) / [windows]
-  - [Squirrel](https://github.com/rime/squirrel) / [apple]
-  - [Trime](https://github.com/osfans/trime) / [android]
-- [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx/fcitx5)
-  - [Fcitx5 For Android](https://fcitx5-android.github.io/) / [android] / [github](https://github.com/fcitx5-android/fcitx5-android)
+- [Rime](https://rime.im/) - Rime input method engine / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime)
+  - [Weasel](https://github.com/rime/weasel) - Rime for Windows / [windows]
+  - [Squirrel](https://github.com/rime/squirrel) - Rime for macOS / [apple]
+  - [Trime](https://github.com/osfans/trime) - Rime IME for Android / [android]
+- [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) - Next generation of fcitx / [linux] / [github](https://github.com/fcitx/fcitx5)
+  - [Fcitx5 For Android](https://fcitx5-android.github.io/en/) - Fcitx5 input method framework and engines ported to Android / [android] / [github](https://github.com/fcitx5-android/fcitx5-android)
 - [YuyanIme](https://github.com/gurecn/YuyanIme) / [android]
 
 ## KMS Activators
 
-- [Microsoft Activation Scripts](https://massgrave.dev/) / [cli] / [github](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [Microsoft Activation Scripts](https://massgrave.dev/) - Open-source Windows and Office activator / [cli] / [github](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator) / [windows]
-- [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
+- [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/en.html) - CloudMoe Windows 10+ Activation Toolkit / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
 ## Security software
 
@@ -134,4 +134,4 @@ Unfinished.
 - [QEMU](https://github.com/qemu/QEMU) / [github](https://github.com/qemu/QEMU)
   - [Quickemu](https://quickemu-project.github.io/) / [cli] / [github](https://github.com/quickemu-project/quickemu) & [Quickgui](https://github.com/quickemu-project/quickgui)
   - [UTM](https://getutm.app/) / [apple] / [github](https://github.com/utmapp/UTM)
-- [Multipass](https://canonical.com/multipass) - Ubuntu virtual machine / [github](https://github.com/canonical/multipass)
+- [Multipass](https://canonical.com/multipass) - Ubuntu VMs on demand for any workstation / [github](https://github.com/canonical/multipass)

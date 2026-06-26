@@ -1,14 +1,18 @@
-# 图像软件
+# 图像软件 {#graphics-software}
 
-## 图片压缩工具
+## 图片压缩工具 {#image-compression}
 
-- [Caesium Image Compressor](https://saerasoft.com/caesium/) / [github](https://github.com/Lymphatus/caesium-image-compressor), [CaesiumCLT](https://saerasoft.com/caesiumclt/) / [cli] / [github](https://github.com/Lymphatus/caesium-clt)
+- [ImageOptim](https://imageoptim.com/mac) / [apple] / [github](https://github.com/ImageOptim/ImageOptim)
+- [Caesium Image Compressor](https://saerasoft.com/caesium/) / [github](https://github.com/Lymphatus/caesium-image-compressor)
+  - [CaesiumCLT](https://saerasoft.com/caesiumclt/) / [cli] / [github](https://github.com/Lymphatus/caesium-clt)
+  - [Caesium Web Image Compressor](https://caesium.app/) / [web] / [github](https://github.com/Lymphatus/caesium-app-web)
 - [Tiny Image](https://github.com/kyleduo/tinypng4mac) / [apple]
-- [CompressO](https://compresso.codeforreal.com/) / [github](https://github.com/codeforreal1/compressO)
-- [Oxipng](https://op111.net/posts/2025/09/png-compression-oxipng-optipng-fileoptimizer-cwebp/) / [cli] / [github](https://github.com/oxipng/oxipng)
+- [Oxipng](https://github.com/oxipng/oxipng) / [cli]
 - [MAZANOKE](https://mazanoke.com/) / [web] / [github](https://github.com/civilblur/mazanoke)
+- [Squish](https://squish.addy.ie/) / [github](https://github.com/addyosmani/squish)
 - [PicSharp](https://github.com/AkiraBit/PicSharp)
-- [Rimage GUI](https://github.com/Mikachu2333/rimage_gui) / [windows]
+- [Rimage](https://github.com/vlad-salone/rimage) / [cli]
+  - [Rimage GUI](https://github.com/Mikachu2333/rimage_gui) / [windows]
 - [Curtail](https://github.com/Huluti/Curtail) / [linux]
 
 ## 图片编辑器

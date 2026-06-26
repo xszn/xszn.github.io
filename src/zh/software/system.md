@@ -2,49 +2,49 @@
 
 ## 启动盘制作工具 {#bootable-usb}
 
-- [Ventoy](https://www.ventoy.net/) / [github](https://github.com/ventoy/Ventoy)
-- [Rufus](https://rufus.ie/) / [windows] / [github](https://github.com/pbatard/rufus)
+- [Ventoy](https://www.ventoy.net/cn/) - 新一代多系统启动U盘解决方案 / [github](https://github.com/ventoy/Ventoy)
+- [Rufus](https://rufus.ie/zh/) - 轻松创建 USB 启动盘 / [windows] / [github](https://github.com/pbatard/rufus)
 - [balenaEtcher](https://etcher.balena.io/) / [github](https://github.com/balena-io/etcher)
 
 ## 数据管理软件 {#data-management-software}
 
 ### 压缩软件 {#file-archivers}
 
-- [7-Zip](https://www.7-zip.org/) / [github](https://github.com/ip7z/7zip)
+- [7-Zip](https://sparanoid.com/lab/7z/) - 一款拥有极高压缩比的开源压缩软件 / [github](https://github.com/ip7z/7zip)
   - [7-Zip ZS](https://mcmilk.de/projects/7-Zip-zstd/) / [windows] / [github](https://github.com/mcmilk/7-Zip-zstd/)
-  - [NanaZip](https://nanazip.org/) - WinUI / [windows] / [github](https://github.com/M2Team/NanaZip)
-- [PeaZip](https://peazip.github.io/) - WinRAR, WinZip 替代品 / [github](https://github.com/peazip/PeaZip/)
-- [Keka](https://www.keka.io/) / [apple] / [github](https://github.com/aonez/Keka)
+  - [NanaZip](https://nanazip.org/) / [windows] / [github](https://github.com/M2Team/NanaZip)
+- [PeaZip](https://peazip.github.io/) / [github](https://github.com/peazip/PeaZip/)
+- [Keka](https://www.keka.io/) - macOS 和 iOS 压缩文件管理器 / [apple] / [github](https://github.com/aonez/Keka)
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) / [android]
 
 ### [文件传输软件](network#file-transfer-software) {#file-transfer-software}
 
 ## 桌面美化软件 {#desktop-environments}
 
-- [Seelen UI](https://seelen.io/) / [windows] / [github](https://github.com/eythaann/seelen-ui)
+- [Seelen UI](https://seelen.io//zh-CN) - 自定义您的 Windows 桌面 / [windows] / [github](https://github.com/eythaann/seelen-ui)
 - [Rainmeter](https://www.rainmeter.net/) / [windows] / [github](https://github.com/rainmeter/rainmeter)
 - [Cairo](https://cairodesktop.com/) / [windows] / [github](https://github.com/cairoshell/cairoshell)
 
 ## 输入法 {#input-methods}
 
 - [FlorisBoard](https://florisboard.org/) / [android] / [github](https://github.com/florisboard/florisboard)
-- [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - 英文输入法
+- [hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - 哈利路亚英文输入法
 
 ### 中文输入法 {#chinese-input-methods}
 
-- [Rime](https://rime.im/) - 输入法引擎 / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime)
-  - [Weasel](https://github.com/rime/weasel) / [windows]
-  - [Squirrel](https://github.com/rime/squirrel) / [apple]
-  - [Trime](https://github.com/osfans/trime) / [android]
-- [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5) / [linux] / [github](https://github.com/fcitx/fcitx5)
+- [Rime](https://rime.im/) - 中州韵输入法引擎 / [indexes](https://rime.im/download/) / [github](https://github.com/rime/librime)
+  - [Weasel](https://github.com/rime/weasel) - 小狼毫输入法 / [windows]
+  - [Squirrel](https://github.com/rime/squirrel) - 鼠鬚管输入法 / [apple]
+  - [Trime](https://github.com/osfans/trime) - 同文安卓输入法平台 / [android]
+- [Fcitx 5](https://fcitx-im.org/wiki/Fcitx_5/zh-cn) - 小企鹅输入法 5 / [linux] / [github](https://github.com/fcitx/fcitx5)
   - [Fcitx5 For Android](https://fcitx5-android.github.io/) / [android] / [github](https://github.com/fcitx5-android/fcitx5-android)
 - [YuyanIme](https://github.com/gurecn/YuyanIme) / [android]
 
 ## KMS 激活工具 {#kms-activators}
 
-- [Microsoft Activation Scripts](https://massgrave.dev/) / [cli] / [github](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [Microsoft Activation Scripts](https://massgrave.dev/) - 开源 Windows 和 Office 激活工具 / [cli] / [github](https://github.com/massgravel/Microsoft-Activation-Scripts)
 - [HEU KMS Activator](https://github.com/zbezj/HEU_KMS_Activator) / [windows]
-- [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/) / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
+- [CMWTAT Digital Edition](https://cmwtat.cloudmoe.com/cn.html) - 云萌 Windows 10+ 激活工具 / [windows] / [github](https://github.com/TGSAN/CMWTAT_Digital_Edition)
 
 ## 安全软件 {#security-software}
 
