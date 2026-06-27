@@ -15,13 +15,16 @@
   - [Rimage GUI](https://github.com/Mikachu2333/rimage_gui) / [windows]
 - [Curtail](https://github.com/Huluti/Curtail) / [linux]
 
-## 图片编辑器
+## 图片编辑器 {#raster-graphics-editors}
 
 - [GIMP](https://www.gimp.org/) / [github](https://github.com/gnome/gimp)
-- [Krita](https://krita.org/) / [github](https://github.com/kde/krita)
-- [Graphite](https://graphite.art/) / [github](https://github.com/GraphiteEditor/Graphite)
+- [Graphite](https://graphite.art/) / [web] / [github](https://github.com/GraphiteEditor/Graphite)
+- [JS Paint](https://jspaint.app/about) / [github](https://github.com/1j01/jspaint)
 - [PixiEditor](https://pixieditor.net/) / [github](https://github.com/PixiEditor/PixiEditor)
 - [VTracer](https://www.visioncortex.org/vtracer/) / [github](https://github.com/visioncortex/vtracer)
+- [Pinta](https://www.pinta-project.com/) / [github](https://github.com/PintaProject/Pinta)
+- [PhotoDemon](https://photodemon.org/) / [windows] / [github](https://github.com/tannerhelland/PhotoDemon)
+- [Raster Master](https://github.com/RetroNick2020/raster-master) / [windows]
 
 ## 矢量图编辑工具
 
