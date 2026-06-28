@@ -29,12 +29,8 @@
 ## Vector graphics editors
 
 - [Inkscape](https://inkscape.org/) / [gitlab](https://gitlab.com/inkscape/inkscape)
-- [Glaxnimate](https://glaxnimate.org/) / [gitlab](https://invent.kde.org/graphics/glaxnimate)
-
-### SVG editors
-
 - [GodSVG](https://www.godsvg.com/) / [github](https://github.com/MewPurPur/GodSVG)
-- [SvgPathEditor](https://yqnn.github.io/svg-path-editor/) / [web] / [github](https://github.com/Yqnn/svg-path-editor)
+- [Glaxnimate](https://glaxnimate.org/) / [github](https://github.com/KDE/glaxnimate)
 
 ## Image viewers
 

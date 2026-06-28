@@ -29,7 +29,8 @@
 ## 矢量图编辑工具
 
 - [Inkscape](https://inkscape.org/) / [gitlab](https://gitlab.com/inkscape/inkscape)
-- [Glaxnimate](https://glaxnimate.org/) / [gitlab](https://invent.kde.org/graphics/glaxnimate)
+- [GodSVG](https://www.godsvg.com/) / [github](https://github.com/MewPurPur/GodSVG)
+- [Glaxnimate](https://glaxnimate.org/) / [github](https://github.com/KDE/glaxnimate)
 
 ### SVG 编辑器
 
