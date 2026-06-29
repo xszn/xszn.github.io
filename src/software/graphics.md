@@ -37,13 +37,16 @@
 - [ImageGlass](https://imageglass.org/) / [github](https://github.com/d2phap/imageglass)
 - [qView](https://interversehq.com/qview/) / [github](https://github.com/jurplel/qView)
 - [PicView](https://picview.org/) / [github](https://github.com/Ruben2776/PicView)
+- [qimgv](https://github.com/easymodo/qimgv)
 - [nomacs](https://nomacs.org/) / [github](https://github.com/nomacs/nomacs)
 - [void Image Viewer](https://github.com/voidtools/voidImageViewer) / [windows]
-- [tev](https://github.com/Tom94/tev)
-- [FlowVision](https://flowvision.app/) / [apple] / [github](https://github.com/netdcy/FlowVision)
-- [JarkViewer](https://jark006.github.io/JarkViewer/) / [github](https://github.com/jark006/jarkViewer)
-- [Quick Picture Viewer](https://moduleart.github.io/quickpictureviewer) / [github](https://github.com/ModuleArt/quick-picture-viewer)
-- [digiKam](https://www.digikam.org/) / [gitlab](https://invent.kde.org/graphics/digikam)
+- [tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for people who care about colors
+- [FlowVision](https://flowvision.app/) - Waterfall-style image viewer for macOS / [apple] / [github](https://github.com/netdcy/FlowVision)
+- [JarkViewer](https://jark006.github.io/JarkViewer/) / [windows] / [github](https://github.com/jark006/jarkViewer)
+- [Quick Picture Viewer](https://moduleart.github.io/quickpictureviewer) / [windows] / [github](https://github.com/ModuleArt/quick-picture-viewer)
+- [ImageViewer](https://github.com/kopaka1822/ImageViewer) / [windows]
+- [PixelViewer](https://carinastudio.azurewebsites.net/PixelViewer/) / [github](https://github.com/carina-studio/PixelViewer)
+- [Simple Image Viewer](https://torum.github.io/Image-viewer/) / [github](https://github.com/torum/Image-viewer)
 
 ## Screenshot software
 

@@ -178,6 +178,7 @@
 - [Handy](https://handy.computer/) / [github](https://github.com/cjpais/handy)
 - [Vibe](https://thewh1teagle.github.io/vibe/) / [github](https://github.com/thewh1teagle/vibe)
 - [CapsWriter Offline](https://github.com/HaujetZhao/CapsWriter-Offline) / [windows]
+- [FluidVoice](https://altic.dev/fluid) / [apple] / [github](https://github.com/altic-dev/FluidVoice)
 - [OpenLess](https://openless.top/) / [github](https://github.com/Open-Less/openless)
 - [TypeWhisper](https://github.com/TypeWhisper/typewhisper-mac) / [apple]
 - [Voquill](https://voquill.com/dictation) / [github](https://github.com/voquill/voquill)
