@@ -43,6 +43,7 @@
 - [SiYuan](https://b3log.org/siyuan/) / [github](https://github.com/siyuan-note/siyuan)
 - [Logseq](https://logseq.com/) / [github](https://github.com/logseq/logseq)
 - [Trilium Notes](https://triliumnotes.org/) / [github](https://github.com/TriliumNext/Trilium)
+- [Tolaria](https://tolaria.md/) - Desktop app to manage markdown knowledge bases / [github](https://github.com/refactoringhq/tolaria)
 - [Notesnook](https://notesnook.com/) / [github](https://github.com/streetwriters/notesnook)
 - [FSNotes](https://fsnot.es/) / [apple] / [github](https://github.com/glushchenko/fsnotes)
 - [Standard Notes](https://standardnotes.com/) / [github](https://github.com/standardnotes/app)

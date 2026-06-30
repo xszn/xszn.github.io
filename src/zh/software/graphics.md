@@ -51,10 +51,19 @@
 ## 截图工具
 
 - [ShareX](https://getsharex.com/) / [windows] / [github](https://github.com/ShareX/ShareX)
+  - [SnapX](https://github.com/SnapXL/SnapX) / [linux]
 - [Flameshot](https://flameshot.org/) / [github](https://github.com/flameshot-org/flameshot)
 - [eSearch](https://esearch-app.netlify.app/) / [github](https://github.com/xushengfeng/eSearch)
-- [Greenshot](https://getgreenshot.org/) / [windows] / [github](https://github.com/greenshot/greenshot/)
+- [Greenshot](https://getgreenshot.org/) / [github](https://github.com/greenshot/greenshot/)
 - [Snow Shot](https://snowshot.top/) / [github](https://github.com/mg-chao/snow-shot)
+- [ksnip](http://ksnip.org/) / [github](https://github.com/ksnip/ksnip)
+- [Snippai](https://www.snippai.de/) / [github](https://github.com/xyTom/snippai)
+- [termshot](https://github.com/homeport/termshot) / [cli]
+- [ScrollSnap](https://github.com/Brkgng/ScrollSnap) / [apple]
+- [WinShot](https://winshot.claudekit.cc/) / [windows] / [github](https://github.com/mrgoonie/winshot)
+- [Auto Screenshot](https://artem78.github.io/AutoScreenshot/) / [github](https://github.com/artem78/AutoScreenshot)
+- [ZenShot](https://www.zenshot.cn/) / [github](https://github.com/easysoft/zenshot)
+- [MiniSnip](https://github.com/deminimis/MiniSnip) / [windows]
 
 ## 图像放大软件
 

@@ -17,7 +17,7 @@
 ## Screencasting software
 
 - [OBS Studio](https://obsproject.com/) / [github](https://github.com/obsproject/obs-studio)
-- [OpenScreen](https://openscreen.vercel.app/) / [github](https://openscreen.vercel.app/)
+- [OpenScreen](https://github.com/getopenscreen/openscreen)
 - [Cap](https://cap.so/) / [github](https://github.com/CapSoftware/Cap)
 - [Screenity](https://screenity.io/) / [browser] / [github](https://github.com/alyssaxuu/screenity)
 - [asciinema](https://asciinema.org/) / [cli] / [github](https://github.com/asciinema/asciinema)

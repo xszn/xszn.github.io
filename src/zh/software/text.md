@@ -43,6 +43,7 @@
 - [SiYuan](https://b3log.org/siyuan/) / [github](https://github.com/siyuan-note/siyuan)
 - [Logseq](https://logseq.com/) / [github](https://github.com/logseq/logseq)
 - [Trilium Notes](https://triliumnotes.org/) / [github](https://github.com/TriliumNext/Trilium)
+- [Tolaria](https://tolaria.md/) / [github](https://github.com/refactoringhq/tolaria)
 - [Notesnook](https://notesnook.com/) / [github](https://github.com/streetwriters/notesnook)
 - [FSNotes](https://fsnot.es/) / [apple] / [github](https://github.com/glushchenko/fsnotes)
 - [Standard Notes](https://standardnotes.com/) / [github](https://github.com/standardnotes/app)
@@ -50,6 +51,7 @@
 - [Notes](https://www.notes-foss.com/) / [github](https://github.com/nuttyartist/notes)
 - [Floral Notepaper](https://github.com/Achilng/floral-notepaper)
 - [Omni Notes](https://github.com/federicoiosue/Omni-Notes) / [android]
+- [MindForger](https://www.mindforger.com/) / [github](https://github.com/dvorka-oss/mindforger)
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop)
 - [Beaver Notes](https://beavernotes.com/) / [github](https://github.com/Beaver-Notes/Beaver-Notes)
 - [Moe Memos](https://memos.moe/) / [github](https://github.com/mudkipme/MoeMemosAndroid)
@@ -59,11 +61,13 @@
 - [Memos](https://usememos.com/) / [github](https://github.com/usememos/memos)
 - [VNote](https://app.vnote.fun/) / [github](https://github.com/vnotex/vnote)
 - [NoteGen](https://notegen.top/) / [github](https://github.com/codexu/note-gen)
+- [MiaoYan](https://github.com/tw93/MiaoYan) / [apple]
 - [QOwnNotes](https://www.qownnotes.org/) / [github](https://github.com/pbek/QOwnNotes)
 - [GitJournal](https://gitjournal.io/) / [github](https://github.com/GitJournal/GitJournal)
 - [MDX Notes](https://mdxnotes.com/) / [github](https://github.com/maqi1520/mdx-notes)
 - [Quillpad](https://quillpad.github.io/) / [android] / [github](https://github.com/quillpad/quillpad)
 - [Lumina Note](https://github.com/blueberrycongee/Lumina-Note)
+- [NoteKit](https://github.com/blackhole89/notekit)
 
 ## TeX 编辑器 {#tex-editors}
 
