@@ -40,15 +40,15 @@
 - [qimgv](https://github.com/easymodo/qimgv)
 - [nomacs](https://nomacs.org/) / [github](https://github.com/nomacs/nomacs)
 - [void Image Viewer](https://github.com/voidtools/voidImageViewer) / [windows]
-- [tev](https://github.com/Tom94/tev) - High dynamic range (HDR) image viewer for people who care about colors
-- [FlowVision](https://flowvision.app/) - Waterfall-style image viewer for macOS / [apple] / [github](https://github.com/netdcy/FlowVision)
+- [tev](https://github.com/Tom94/tev)
+- [FlowVision](https://flowvision.app/) / [apple] / [github](https://github.com/netdcy/FlowVision)
 - [JarkViewer](https://jark006.github.io/JarkViewer/) / [windows] / [github](https://github.com/jark006/jarkViewer)
 - [Quick Picture Viewer](https://moduleart.github.io/quickpictureviewer) / [windows] / [github](https://github.com/ModuleArt/quick-picture-viewer)
 - [ImageViewer](https://github.com/kopaka1822/ImageViewer) / [windows]
 - [PixelViewer](https://carinastudio.azurewebsites.net/PixelViewer/) / [github](https://github.com/carina-studio/PixelViewer)
 - [Simple Image Viewer](https://torum.github.io/Image-viewer/) / [github](https://github.com/torum/Image-viewer)
 
-## 截图工具
+## 截图工具 {#screenshot-software}
 
 - [ShareX](https://getsharex.com/) / [windows] / [github](https://github.com/ShareX/ShareX)
   - [SnapX](https://github.com/SnapXL/SnapX) / [linux]
@@ -65,10 +65,11 @@
 - [ZenShot](https://www.zenshot.cn/) / [github](https://github.com/easysoft/zenshot)
 - [MiniSnip](https://github.com/deminimis/MiniSnip) / [windows]
 
-## 图像放大软件
+## 图像放大软件 {#image-upscaling-software}
 
 - [Upscayl](https://upscayl.org/) / [github](https://github.com/upscayl/upscayl)
-- [chaiNNer](https://chainner.app/) / [github](https://github.com/chaiNNer-org/chaiNNer)
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [windows]
+- [chaiNNer](https://chainner.app/) / [github](https://github.com/chaiNNer-org/chaiNNer)
 - [RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) / [android]
 - [Real-ESRGAN GUI](https://akarin.dev/realesrgan-gui/) / [github](https://github.com/TransparentLC/realesrgan-gui)
+- [AI SuperResolution](https://github.com/X-Lucifer/X.SuperResolution) / [windows]

@@ -21,7 +21,7 @@
 - [Cap](https://cap.so/) / [github](https://github.com/CapSoftware/Cap)
 - [Screenity](https://screenity.io/) / [browser] / [github](https://github.com/alyssaxuu/screenity)
 - [asciinema](https://asciinema.org/) / [cli] / [github](https://github.com/asciinema/asciinema)
-- [Captura](https://mathewsachin.github.io/Captura/) / [winodws] / [github](https://github.com/mathewsachin/captura)
+- [Captura](https://mathewsachin.github.io/Captura/) / [windows] / [github](https://github.com/mathewsachin/captura)
 - [Recordly](https://recordly.dev/) / [github](https://github.com/webadderallorg/Recordly)
 - [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/) / [apple] / [github](https://github.com/lihaoyun6/QuickRecorder)
 

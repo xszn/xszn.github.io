@@ -68,7 +68,8 @@
 ## Image upscaling software
 
 - [Upscayl](https://upscayl.org/) / [github](https://github.com/upscayl/upscayl)
-- [chaiNNer](https://chainner.app/) / [github](https://github.com/chaiNNer-org/chaiNNer)
 - [Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) / [windows]
+- [chaiNNer](https://chainner.app/) / [github](https://github.com/chaiNNer-org/chaiNNer)
 - [RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) / [android]
 - [Real-ESRGAN GUI](https://akarin.dev/realesrgan-gui/) / [github](https://github.com/TransparentLC/realesrgan-gui)
+- [AI SuperResolution](https://github.com/X-Lucifer/X.SuperResolution) / [windows]
