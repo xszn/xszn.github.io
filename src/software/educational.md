@@ -5,6 +5,7 @@
 - [Moodle](https://moodle.org/) / [github](https://github.com/moodle/moodle)
 - [ClassIsland](https://classisland.tech/) / [github](https://github.com/ClassIsland/ClassIsland)
 - [Veyon](https://veyon.io/) / [github](https://github.com/veyon/veyon)
+- [Shiguangschedule](https://sgschedule.jursin.top/) / [android] / [github](https://github.com/XingHeYuZhuan/shiguangschedule)
 
 ## Spaced repetition software
 

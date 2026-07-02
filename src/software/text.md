@@ -31,6 +31,11 @@
 
 ## Note-taking software
 
+### Desktop notes
+
+- [Floral Notepaper](https://github.com/Achilng/floral-notepaper)
+- [PaperTodo](https://github.com/snownico0722/PaperTodo) / [windows]
+
 ### Handwriting note-taking software
 
 - [Xournal++](https://xournalpp.github.io/) / [github](https://github.com/xournalpp/xournalpp/)
@@ -49,7 +54,6 @@
 - [Standard Notes](https://standardnotes.com/) / [github](https://github.com/standardnotes/app)
 - [Heynote](https://heynote.com/) / [github](https://github.com/heyman/heynote)
 - [Notes](https://www.notes-foss.com/) / [github](https://github.com/nuttyartist/notes)
-- [Floral Notepaper](https://github.com/Achilng/floral-notepaper)
 - [Omni Notes](https://github.com/federicoiosue/Omni-Notes) / [android]
 - [MindForger](https://www.mindforger.com/) / [github](https://github.com/dvorka-oss/mindforger)
 - [TidGi](https://github.com/tiddly-gittly/TidGi-Desktop)
