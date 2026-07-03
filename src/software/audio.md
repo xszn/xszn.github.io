@@ -43,11 +43,12 @@
 ## Audio editors
 
 - [Audacity](https://www.audacityteam.org/) / [github](https://github.com/audacity/audacity)
-- [Auto-Editor](https://auto-editor.com/) / [github](https://github.com/WyattBlue/auto-editor)
-- [AudioMass](https://audiomass.co/) / [web] / [github](https://github.com/pkalogiros/audiomass)
-- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
 - [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
-- audapolis / [github](https://github.com/bugbakery/audapolis)
+- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
+- [AudioMass](https://audiomass.co/) / [web] / [github](https://github.com/pkalogiros/audiomass)
+- [ocenaudiso](https://www.ocenaudio.com/) - Easy, fast and powerful audio editor <Badge type="info" text="Freeware" />
+- [Tenacity](https://tenacityaudio.org/) / [github](https://github.com/tenacityteam/tenacity)
+- [Zrythm](https://www.zrythm.org/) / [gitlab](https://gitlab.zrythm.org/zrythm/zrythm-web)
 
 ## Sound booster
 
