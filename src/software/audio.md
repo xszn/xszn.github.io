@@ -53,15 +53,17 @@
 ## Sound booster
 
 - [FxSound](https://www.fxsound.com/) / [windows] / [github](https://github.com/fxsound2/fxsound-app)
-- BoostX / [android] / [github](https://github.com/AumGupta/BoostX)
+- [BoostX](https://github.com/AumGupta/BoostX) / [android]
+<!-- - [Volume²](https://irzyxa.blogspot.com/) / [windows] / [github](https://github.com/irzyxa/Volume2)
+- https://github.com/HoerTech-gGmbH/openMHA -->
 
 ## Sound limiters
 
-- [Sound Lock](https://www.3appes.com/sound-lock/) - nonfree
+- [Sound Lock](https://www.3appes.com/sound-lock/) - <Badge type="info" text="Freeware" />
 
 ## Music Source Separation
 
 - [Ultimate Vocal Remover](https://ultimatevocalremover.com/) / [github](https://github.com/Anjok07/ultimatevocalremovergui)
-- Music Source Separation Training / [github](https://github.com/ZFTurbo/Music-Source-Separation-Training)
-- MSST-WebUI / [github](https://github.com/SUC-DriverOld/MSST-WebUI)
+- [Music Source Separation Training](https://github.com/ZFTurbo/Music-Source-Separation-Training)
+- [MSST-WebUI](https://github.com/SUC-DriverOld/MSST-WebUI)
 <!-- https://github.com/jamiepine/voicebox -->

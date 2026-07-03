@@ -45,7 +45,7 @@
 - [Tempo](https://github.com/CappielloAntonio/tempo) / [android]
 - [Bloomee](https://bloomeex.org/bloomeetunes/) / [github](https://github.com/HemantKArya/BloomeeTunes)
 
-## 音频编辑器
+## 音频编辑器 {#audio-editors}
 
 - [Audacity](https://www.audacityteam.org/) / [github](https://github.com/audacity/audacity)
 - [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
@@ -55,17 +55,17 @@
 - [Tenacity](https://tenacityaudio.org/) / [github](https://github.com/tenacityteam/tenacity)
 - [Zrythm](https://www.zrythm.org/) / [gitlab](https://gitlab.zrythm.org/zrythm/zrythm-web)
 
-## 声音增强器
+## 声音增强器 {#sound-booster}
 
 - [FxSound](https://www.fxsound.com/) / [windows] / [github](https://github.com/fxsound2/fxsound-app)
-- BoostX / [android] / [github](https://github.com/AumGupta/BoostX)
+- [BoostX](https://github.com/AumGupta/BoostX) / [android]
 
 ## 声音限制器
 
-- [Sound Lock](https://www.3appes.com/sound-lock/) - nonfree
+- [Sound Lock](https://www.3appes.com/sound-lock/) - <Badge type="info" text="Freeware" />
 
 ## 音乐人声分离
 
 - [Ultimate Vocal Remover](https://ultimatevocalremover.com/) / [github](https://github.com/Anjok07/ultimatevocalremovergui)
-- Music Source Separation Training / [github](https://github.com/ZFTurbo/Music-Source-Separation-Training)
-- MSST-WebUI / [github](https://github.com/SUC-DriverOld/MSST-WebUI)
+- [Music Source Separation Training](https://github.com/ZFTurbo/Music-Source-Separation-Training)
+- [MSST-WebUI](https://github.com/SUC-DriverOld/MSST-WebUI)
