@@ -1,10 +1,10 @@
 # 音频软件 {#audio-software}
 
-## 音乐播放器 {#music-player}
+## 音乐播放器 {#music-players}
 
 <!-- - [Navidrome](https://www.navidrome.org/) / [github](https://github.com/navidrome/navidrome/) -->
 
-### 本地音乐播放器 {#local-music-player}
+### 本地音乐播放器 {#local-music-players}
 
 - [Retro Music Player](https://retromusic.app/) / [android] / [github](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - [musikcube](https://musikcube.com/) / [github](https://github.com/clangen/musikcube)
@@ -28,7 +28,7 @@
 - https://github.com/topics/audio-player
 - https://github.com/topics/media-player -->
 
-### 在线音乐播放器 {#online-music-player}
+### 在线音乐播放器 {#online-music-players}
 
 - [LX Music](https://lxmusic.toside.cn/) - 音乐查找工具 / [github](https://github.com/lyswhut/)
 - [Spotube](https://spotube.cc/) - 音乐流媒体平台 / [github](https://github.com/KRTirtho/spotube)
@@ -44,23 +44,31 @@
 - [EchoMusic](https://echomusic.cc.cd/) / [github](https://github.com/hoowhoami/EchoMusic)
 - [Tempo](https://github.com/CappielloAntonio/tempo) / [android]
 - [Bloomee](https://bloomeex.org/bloomeetunes/) / [github](https://github.com/HemantKArya/BloomeeTunes)
+- [Folia](https://folia-site.vercel.app/) / [github](https://github.com/chthollyphile/folia-major)
 
 ## 音频编辑器 {#audio-editors}
 
 - [Audacity](https://www.audacityteam.org/) / [github](https://github.com/audacity/audacity)
-- [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
-- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
 - [AudioMass](https://audiomass.co/) / [web] / [github](https://github.com/pkalogiros/audiomass)
 - [ocenaudiso](https://www.ocenaudio.com/) - Easy, fast and powerful audio editor <Badge type="info" text="Freeware" />
 - [Tenacity](https://tenacityaudio.org/) / [github](https://github.com/tenacityteam/tenacity)
+
+### 数字音频工作站 {#digital-audio-workstation-software}
+
+- [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
+- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
+- [Giada](https://www.giadamusic.com/) / [github](https://github.com/monocasual/giada)
+- [openDAW](https://opendaw.studio/) / [web] / [github](https://github.com/andremichelle/openDAW)
+- [GridSound](https://gridsound.com/) / [web] / [github](https://github.com/gridsound/daw)
+- [MAGDA](https://magda.land/) / [github](https://github.com/Conceptual-Machines/magda-core)
 - [Zrythm](https://www.zrythm.org/) / [gitlab](https://gitlab.zrythm.org/zrythm/zrythm-web)
 
-## 声音增强器 {#sound-booster}
+## 声音增强器 {#sound-boosters}
 
 - [FxSound](https://www.fxsound.com/) / [windows] / [github](https://github.com/fxsound2/fxsound-app)
 - [BoostX](https://github.com/AumGupta/BoostX) / [android]
 
-## 声音限制器
+## 声音限制器 {sound-limiters}
 
 - [Sound Lock](https://www.3appes.com/sound-lock/) - <Badge type="info" text="Freeware" />
 

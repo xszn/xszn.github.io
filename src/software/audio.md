@@ -1,8 +1,8 @@
 # Audio software
 
-## Music player
+## Music players
 
-### Local music player
+### Local music players
 
 - [Retro Music Player](https://retromusic.app/) / [android] / [github](https://github.com/RetroMusicPlayer/RetroMusicPlayer)
 - [musikcube](https://musikcube.com/) / [github](https://github.com/clangen/musikcube)
@@ -23,7 +23,7 @@
 - [Audion](https://www.audionplayer.com/) / [github](https://github.com/dupitydumb/Audion)
 - [Audiofy](https://github.com/iZakirSheikh/Audiofy) / [android]
 
-### Online music player
+### Online music players
 
 - [LX Music](https://lxmusic.toside.cn/) - 音乐查找工具 / [github](https://github.com/lyswhut/)
 - [Spotube](https://spotube.cc/) - 音乐流媒体平台 / [github](https://github.com/KRTirtho/spotube)
@@ -39,18 +39,26 @@
 - [EchoMusic](https://echomusic.cc.cd/) / [github](https://github.com/hoowhoami/EchoMusic)
 - [Tempo](https://github.com/CappielloAntonio/tempo) / [android]
 - [Bloomee](https://bloomeex.org/bloomeetunes/) / [github](https://github.com/HemantKArya/BloomeeTunes)
+- [Folia](https://folia-site.vercel.app/) / [github](https://github.com/chthollyphile/folia-major)
 
 ## Audio editors
 
 - [Audacity](https://www.audacityteam.org/) / [github](https://github.com/audacity/audacity)
-- [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
-- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
 - [AudioMass](https://audiomass.co/) / [web] / [github](https://github.com/pkalogiros/audiomass)
 - [ocenaudiso](https://www.ocenaudio.com/) - Easy, fast and powerful audio editor <Badge type="info" text="Freeware" />
 - [Tenacity](https://tenacityaudio.org/) / [github](https://github.com/tenacityteam/tenacity)
+
+### Digital audio workstation software
+
+- [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
+- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
+- [Giada](https://www.giadamusic.com/) / [github](https://github.com/monocasual/giada)
+- [openDAW](https://opendaw.studio/) / [web] / [github](https://github.com/andremichelle/openDAW)
+- [GridSound](https://gridsound.com/) / [web] / [github](https://github.com/gridsound/daw)
+- [MAGDA](https://magda.land/) / [github](https://github.com/Conceptual-Machines/magda-core)
 - [Zrythm](https://www.zrythm.org/) / [gitlab](https://gitlab.zrythm.org/zrythm/zrythm-web)
 
-## Sound booster
+## Sound boosters
 
 - [FxSound](https://www.fxsound.com/) / [windows] / [github](https://github.com/fxsound2/fxsound-app)
 - [BoostX](https://github.com/AumGupta/BoostX) / [android]
@@ -60,6 +68,9 @@
 ## Sound limiters
 
 - [Sound Lock](https://www.3appes.com/sound-lock/) - <Badge type="info" text="Freeware" />
+- https://github.com/wwmm/easyeffects
+- https://github.com/noisetorch/noisetorch
+- https://www.flux.audio/
 
 ## Music Source Separation
 

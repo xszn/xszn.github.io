@@ -164,7 +164,7 @@
 
 ## 语音识别软件 {#speech-recognition-software}
 
-### 会议助手 {#ai-notetaker}
+### 会议助手 {#ai-notetakers}
 
 - [Meetily](https://meetily.ai/) / [github](https://github.com/Zackriya-Solutions/meetily)
 - [OpenWhispr](https://openwhispr.com/) / [github](https://github.com/OpenWhispr/openwhispr)

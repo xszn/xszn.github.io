@@ -163,7 +163,7 @@
 
 ## Speech recognition software
 
-### AI notetaker
+### AI notetakers
 
 - [Meetily](https://meetily.ai/) / [github](https://github.com/Zackriya-Solutions/meetily)
 - [OpenWhispr](https://openwhispr.com/) / [github](https://github.com/OpenWhispr/openwhispr)

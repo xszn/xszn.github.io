@@ -11,7 +11,7 @@
 - [DDTV](https://github.com/CHKZL/DDTV)
 - [BiliBili ShadowReplay](https://bsr.xinrea.cn/) / [github](https://github.com/Xinrea/bili-shadowreplay)
 
-### Bilibili music player
+### Bilibili music players
 
 - [Biu](https://github.com/wood3n/biu)
 - [Azusa Player Mobile](https://azusa-player-mobile.vercel.app/) / [github](https://github.com/lovegaoshi/azusa-player-mobile)
@@ -162,7 +162,7 @@
 
 ## YouTube
 
-### YouTube downloader
+### YouTube downloaders
 
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader)
 - [ytDownloader](https://aandrew-me.github.io/ytDownloader/) / [github](https://github.com/aandrew-me/ytDownloader)
