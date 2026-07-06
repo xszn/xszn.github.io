@@ -1,5 +1,22 @@
 # Audio software
 
+## Audio editors
+
+- [Audacity](https://www.audacityteam.org/) / [github](https://github.com/audacity/audacity)
+- [AudioMass](https://audiomass.co/) / [web] / [github](https://github.com/pkalogiros/audiomass)
+- [ocenaudiso](https://www.ocenaudio.com/) - Easy, fast and powerful audio editor <Badge type="info" text="Freeware" />
+- [Tenacity](https://tenacityaudio.org/) / [github](https://github.com/tenacityteam/tenacity)
+
+### Digital audio workstation software
+
+- [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
+- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
+- [Giada](https://www.giadamusic.com/) / [github](https://github.com/monocasual/giada)
+- [openDAW](https://opendaw.studio/) / [web] / [github](https://github.com/andremichelle/openDAW)
+- [GridSound](https://gridsound.com/) / [web] / [github](https://github.com/gridsound/daw)
+- [MAGDA](https://magda.land/) / [github](https://github.com/Conceptual-Machines/magda-core)
+- [Zrythm](https://www.zrythm.org/) / [gitlab](https://gitlab.zrythm.org/zrythm/zrythm-web)
+
 ## Music players
 
 ### Local music players
@@ -41,36 +58,16 @@
 - [Bloomee](https://bloomeex.org/bloomeetunes/) / [github](https://github.com/HemantKArya/BloomeeTunes)
 - [Folia](https://folia-site.vercel.app/) / [github](https://github.com/chthollyphile/folia-major)
 
-## Audio editors
-
-- [Audacity](https://www.audacityteam.org/) / [github](https://github.com/audacity/audacity)
-- [AudioMass](https://audiomass.co/) / [web] / [github](https://github.com/pkalogiros/audiomass)
-- [ocenaudiso](https://www.ocenaudio.com/) - Easy, fast and powerful audio editor <Badge type="info" text="Freeware" />
-- [Tenacity](https://tenacityaudio.org/) / [github](https://github.com/tenacityteam/tenacity)
-
-### Digital audio workstation software
-
-- [LMMS](https://lmms.io/) / [github](https://github.com/lmms/lmms)
-- [Ardour](https://ardour.org/) / [github](https://github.com/Ardour/ardour)
-- [Giada](https://www.giadamusic.com/) / [github](https://github.com/monocasual/giada)
-- [openDAW](https://opendaw.studio/) / [web] / [github](https://github.com/andremichelle/openDAW)
-- [GridSound](https://gridsound.com/) / [web] / [github](https://github.com/gridsound/daw)
-- [MAGDA](https://magda.land/) / [github](https://github.com/Conceptual-Machines/magda-core)
-- [Zrythm](https://www.zrythm.org/) / [gitlab](https://gitlab.zrythm.org/zrythm/zrythm-web)
-
 ## Sound boosters
 
 - [FxSound](https://www.fxsound.com/) / [windows] / [github](https://github.com/fxsound2/fxsound-app)
 - [BoostX](https://github.com/AumGupta/BoostX) / [android]
-<!-- - [Volume²](https://irzyxa.blogspot.com/) / [windows] / [github](https://github.com/irzyxa/Volume2)
-- https://github.com/HoerTech-gGmbH/openMHA -->
+<!-- - https://github.com/HoerTech-gGmbH/openMHA -->
 
-## Sound limiters
-
+<!-- ## Sound limiter
 - [Sound Lock](https://www.3appes.com/sound-lock/) - <Badge type="info" text="Freeware" />
 - https://github.com/wwmm/easyeffects
-- https://github.com/noisetorch/noisetorch
-- https://www.flux.audio/
+- https://github.com/noisetorch/noisetorch -->
 
 ## Music Source Separation
 
@@ -78,3 +75,12 @@
 - [Music Source Separation Training](https://github.com/ZFTurbo/Music-Source-Separation-Training)
 - [MSST-WebUI](https://github.com/SUC-DriverOld/MSST-WebUI)
 <!-- https://github.com/jamiepine/voicebox -->
+
+## Volume controllers
+
+- [EarTrumpet](https://eartrumpet.app/) / [windows] / [github](https://github.com/File-New-Project/EarTrumpet)
+- [FineTune](https://github.com/ronitsingh10/FineTune) / [apple]
+- [Volume²](https://irzyxa.blogspot.com/) / [windows] / [github](https://github.com/irzyxa/Volume2)
+- [Sound Lock](https://www.3appes.com/sound-lock/) - Sound limiter <Badge type="info" text="Freeware" />
+- [Volume Manager](https://github.com/yume-chan/VolumeManager)
+- [Volume Control](https://radj307.github.io/volume-control/) / [windows] / [github](https://github.com/radj307/volume-control)

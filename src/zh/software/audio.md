@@ -77,3 +77,12 @@
 - [Ultimate Vocal Remover](https://ultimatevocalremover.com/) / [github](https://github.com/Anjok07/ultimatevocalremovergui)
 - [Music Source Separation Training](https://github.com/ZFTurbo/Music-Source-Separation-Training)
 - [MSST-WebUI](https://github.com/SUC-DriverOld/MSST-WebUI)
+
+## 音量控制器 {#volume-controllers}
+
+- [EarTrumpet](https://eartrumpet.app/) / [windows] / [github](https://github.com/File-New-Project/EarTrumpet)
+- [FineTune](https://github.com/ronitsingh10/FineTune) / [apple]
+- [Volume²](https://irzyxa.blogspot.com/) / [windows] / [github](https://github.com/irzyxa/Volume2)
+- [Sound Lock](https://www.3appes.com/sound-lock/) - 声音限制器 <Badge type="info" text="Freeware" />
+- [Volume Manager](https://github.com/yume-chan/VolumeManager)
+- [Volume Control](https://radj307.github.io/volume-control/) / [windows] / [github](https://github.com/radj307/volume-control)
