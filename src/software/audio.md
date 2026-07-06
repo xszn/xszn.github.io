@@ -65,7 +65,6 @@
 <!-- - https://github.com/HoerTech-gGmbH/openMHA -->
 
 <!-- ## Sound limiter
-- [Sound Lock](https://www.3appes.com/sound-lock/) - <Badge type="info" text="Freeware" />
 - https://github.com/wwmm/easyeffects
 - https://github.com/noisetorch/noisetorch -->
 

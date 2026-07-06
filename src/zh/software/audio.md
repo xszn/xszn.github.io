@@ -68,11 +68,7 @@
 - [FxSound](https://www.fxsound.com/) / [windows] / [github](https://github.com/fxsound2/fxsound-app)
 - [BoostX](https://github.com/AumGupta/BoostX) / [android]
 
-## 声音限制器 {sound-limiters}
-
-- [Sound Lock](https://www.3appes.com/sound-lock/) - <Badge type="info" text="Freeware" />
-
-## 音乐人声分离
+## 音乐人声分离 {#music-source-separation}
 
 - [Ultimate Vocal Remover](https://ultimatevocalremover.com/) / [github](https://github.com/Anjok07/ultimatevocalremovergui)
 - [Music Source Separation Training](https://github.com/ZFTurbo/Music-Source-Separation-Training)
