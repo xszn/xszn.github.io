@@ -99,6 +99,7 @@
 ### Mac 实用工具 {#mac-utility}
 
 - [MonitorControl](https://monitorcontrol.app/) - 显示器控制软件 / [github](https://github.com/MonitorControl/MonitorControl)
+- [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - 外接显示器窗口布局恢复与亮度跟随工具 / [github](https://github.com/tumingke0/LayoutKeeper)
 - [Ice](https://icemenubar.app/) - 菜单栏管理工具 / [github](https://github.com/jordanbaird/Ice)
 - [AltTab](https://alt-tab.app/) - 任务切换器 / [github](https://github.com/lwouis/alt-tab-macos)
 - [Mac Mouse Fix](https://macmousefix.com/) / [github](https://github.com/noah-nuebling/mac-mouse-fix)
