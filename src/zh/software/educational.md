@@ -48,6 +48,7 @@
 - [Jidoujisho](https://github.com/arianneorpilla/jidoujisho) / [android]
 - [Memento](https://ripose-jp.github.io/Memento/) / [github](https://github.com/ripose-jp/Memento)
 - [Asbplayer](https://app.asbplayer.dev/) / [github](https://github.com/killergerbah/asbplayer)
+- [Anki Miner](https://github.com/0xzerolight/anki_miner)
 - [Linguist](https://linguister.io/) / [browser] / [github](https://github.com/translate-tools/linguist)
 
 ## 数学软件 {#mathematical-software}
