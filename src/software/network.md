@@ -85,6 +85,7 @@
 - [Hysteria](https://v2.hysteria.network/) / [Indexes](https://v2.hysteria.network/docs/getting-started/3rd-party-apps/) / [github](https://github.com/apernet/hysteria)
   - [Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid) / [android]
   - [Sing-box](https://sing-box.sagernet.org/) / [github](https://github.com/SagerNet/sing-box)
+  - [Zephyron](https://github.com/NineUPFLOW/Zephyron) - Windows client that also runs Zapret desync / [windows] / [github](https://github.com/NineUPFLOW/Zephyron)
   - [Hiddify](https://hiddify.com/) / [github](https://github.com/hiddify/hiddify-app)
   - [NekoBox for Android](https://matsuridayo.github.io/) / [android] / [github](https://github.com/MatsuriDayo/NekoBoxForAndroid)
 - [Shadowsocks](https://shadowsocks.org/) / [Indexes](https://shadowsocks.org/doc/getting-started.html#gui-clients) / [github](https://github.com/shadowsocks)
