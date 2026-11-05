@@ -20,6 +20,7 @@
 - [GIMP](https://www.gimp.org/) / [github](https://github.com/gnome/gimp)
 - [Graphite](https://graphite.art/) / [web] / [github](https://github.com/GraphiteEditor/Graphite)
 - [JS Paint](https://jspaint.app/about) / [github](https://github.com/1j01/jspaint)
+- [ItsPaint](https://itspaintmac.com/) - Mac 原生画图工具，可标注截图 / [apple] / [github](https://github.com/joshlin2201/itspaint)
 - [PixiEditor](https://pixieditor.net/) / [github](https://github.com/PixiEditor/PixiEditor)
 - [VTracer](https://www.visioncortex.org/vtracer/) / [github](https://github.com/visioncortex/vtracer)
 - [Pinta](https://www.pinta-project.com/) / [github](https://github.com/PintaProject/Pinta)
