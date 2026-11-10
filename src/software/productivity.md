@@ -285,3 +285,7 @@
 - [Umi-ORC](https://github.com/hiroi-sora/Umi-OCR)
 - [Text Grab](https://textgrab.net/) / [windows] / [github](https://github.com/TheJoeFin/Text-Grab)
 - [NormCap](https://dynobo.github.io/normcap/) / [github](https://github.com/dynobo/normcap)
+
+## Shopping software
+
+- [ShrinkWatch EU](https://emirmrkaljevic.github.io/shrinkwatch-eu/) - Price per kg or litre and shrinkflation warnings on EU grocery shops / [browser] / [github](https://github.com/emirmrkaljevic/shrinkwatch-eu)

@@ -278,3 +278,7 @@
 - [Umi-ORC](https://github.com/hiroi-sora/Umi-OCR)
 - [Text Grab](https://textgrab.net/) / [windows] / [github](https://github.com/TheJoeFin/Text-Grab)
 - [NormCap](https://dynobo.github.io/normcap/) / [github](https://github.com/dynobo/normcap)
+
+## 购物软件 {#shopping-software}
+
+- [ShrinkWatch EU](https://emirmrkaljevic.github.io/shrinkwatch-eu/) - 在欧盟超市网站显示每公斤或每升单价，并在包装缩水时发出提醒 / [browser] / [github](https://github.com/emirmrkaljevic/shrinkwatch-eu)
