@@ -100,6 +100,7 @@ Unfinished.
 
 - [MonitorControl](https://monitorcontrol.app/) / [github](https://github.com/MonitorControl/MonitorControl)
 - [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) - External display window layout restorer & brightness sync / [github](https://github.com/tumingke0/LayoutKeeper)
+- [Cockpit](https://yorben.me/cockpit) - Native macOS menu bar productivity HUD / [github](https://github.com/Yvsleyen00941/Cockpit)
 - [Ice](https://icemenubar.app/) - Menu bar manager / [github](https://github.com/jordanbaird/Ice)
 - [AltTab](https://alt-tab.app/) - Task switcher / [github](https://github.com/lwouis/alt-tab-macos)
 - [Mac Mouse Fix](https://macmousefix.com/) / [github](https://github.com/noah-nuebling/mac-mouse-fix)
