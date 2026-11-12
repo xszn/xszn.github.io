@@ -38,6 +38,7 @@
 - [Audacious](https://audacious-media-player.org/) / [github](https://github.com/audacious-media-player/audacious)
 - [Fossify Music Player](https://github.com/FossifyOrg/Music-Player) / [android]
 - [Audion](https://www.audionplayer.com/) / [github](https://github.com/dupitydumb/Audion)
+- [Needle](https://yorben.me/needle/) - Now Playing album art beside the macOS Dock / [github](https://github.com/Yvsleyen00941/Needle)
 - [Audiofy](https://github.com/iZakirSheikh/Audiofy) / [android]
 
 ### Online music players
