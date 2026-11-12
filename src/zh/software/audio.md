@@ -23,6 +23,7 @@
 - [Audacious](https://audacious-media-player.org/) / [github](https://github.com/audacious-media-player/audacious)
 - [Fossify Music Player](https://github.com/FossifyOrg/Music-Player) / [android]
 - [Audion](https://www.audionplayer.com/) / [github](https://github.com/dupitydumb/Audion)
+- [Needle](https://yorben.me/needle/) - 在 macOS 程序坞旁边的角落显示正在播放的专辑封面 / [github](https://github.com/Yvsleyen00941/Needle)
 - [Audiofy](https://github.com/iZakirSheikh/Audiofy) / [android]
 <!-- - https://github.com/topics/music-player 2k
 - https://github.com/topics/audio-player
