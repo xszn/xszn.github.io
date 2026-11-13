@@ -289,3 +289,4 @@
 ## Shopping software
 
 - [ShrinkWatch EU](https://emirmrkaljevic.github.io/shrinkwatch-eu/) - Price per kg or litre and shrinkflation warnings on EU grocery shops / [browser] / [github](https://github.com/emirmrkaljevic/shrinkwatch-eu)
+- [truediscount](https://emirmrkaljevic.github.io/truediscount/) - Shows whether a sale on an EU shop is real by comparing it with the 30-day lowest price, with a price graph / [browser] / [github](https://github.com/emirmrkaljevic/truediscount)

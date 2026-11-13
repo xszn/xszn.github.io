@@ -282,3 +282,4 @@
 ## 购物软件 {#shopping-software}
 
 - [ShrinkWatch EU](https://emirmrkaljevic.github.io/shrinkwatch-eu/) - 在欧盟超市网站显示每公斤或每升单价，并在包装缩水时发出提醒 / [browser] / [github](https://github.com/emirmrkaljevic/shrinkwatch-eu)
+- [truediscount](https://emirmrkaljevic.github.io/truediscount/) - 在欧盟网店将促销价与过去 30 天最低价对比，判断折扣是否真实，并显示价格走势图 / [browser] / [github](https://github.com/emirmrkaljevic/truediscount)
