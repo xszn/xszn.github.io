@@ -2,6 +2,7 @@
 
 ## E-readers
 
+- [Rime](https://yorben.me/rime) / [apple] / [github](https://github.com/Yvsleyen00941/Rime)
 - [Koodo Reader](https://koodoreader.com/) / [github](https://github.com/koodo-reader/koodo-reader)
 - [KOReader](https://koreader.rocks/) / [github](https://github.com/koreader/koreader)
 - [Calibre](https://calibre-ebook.com/) / [github](https://github.com/kovidgoyal/calibre)
